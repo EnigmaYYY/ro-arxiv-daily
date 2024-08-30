@@ -85,6 +85,21 @@ layout: default
 |**2024-07-04**|**Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**|Minghan Li et.al.|[2406.19236](http://arxiv.org/abs/2406.19236)|**[link](https://github.com/lpercc/ha3d_simulator)**|
 |**2024-06-25**|**ET tu, CLIP? Addressing Common Object Errors for Unseen Environments**|Ye Won Byun et.al.|[2406.17876](http://arxiv.org/abs/2406.17876)|null|
 
+## VLA
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**A VLA Study of Newly-Discovered Southern Latitude Non-Thermal Filaments in the Galactic Center: Polarimetric and Magnetic Field Properties**|Dylan M. Pare et.al.|[2408.16745](http://arxiv.org/abs/2408.16745)|null|
+|**2024-08-27**|**Constraints on the physical origin of large cavities in transition disks from multi-wavelength dust continuum emission**|Anibal Sierra et.al.|[2408.15407](http://arxiv.org/abs/2408.15407)|null|
+|**2024-08-27**|**A Deep Dive into the NGC 741 Galaxy Group: Insights into a Spectacular Head-Tail Radio Galaxy from VLA, MeerKAT, uGMRT and LOFAR**|K. Rajpurohit et.al.|[2408.15197](http://arxiv.org/abs/2408.15197)|null|
+|**2024-08-26**|**Detection of Radio Emission from Super-flaring Solar-Type Stars in the VLA Sky Survey**|Ivey Davis et.al.|[2408.14612](http://arxiv.org/abs/2408.14612)|null|
+|**2024-08-23**|**Key Science Goals for the Next Generation Very Large Array (ngVLA): Update from the ngVLA Science Advisory Council (2024)**|David J. Wilner et.al.|[2408.14497](http://arxiv.org/abs/2408.14497)|null|
+|**2024-08-22**|**Far-Infrared and [CII] observations of a z=7 blazar**|Eduardo Banados et.al.|[2408.12299](http://arxiv.org/abs/2408.12299)|null|
+|**2024-08-19**|**CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving**|Hidehisa Arai et.al.|[2408.10845](http://arxiv.org/abs/2408.10845)|null|
+|**2024-08-16**|**Magnetic fields in the outskirts of PSZ2 G096.88+24.18 from depolarization analysis of radio relics**|E. De Rubeis et.al.|[2408.08603](http://arxiv.org/abs/2408.08603)|null|
+|**2024-08-13**|**Probing cluster magnetism with embedded and background radio sources in Planck clusters**|Erik Osinga et.al.|[2408.07178](http://arxiv.org/abs/2408.07178)|null|
+|**2024-08-13**|**Magnetic Field of the Quasar 1604+159 from Parsec to Kilo-parsec Scale**|Xu-Zhi Hu et.al.|[2408.06647](http://arxiv.org/abs/2408.06647)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge

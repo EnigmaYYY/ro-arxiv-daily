@@ -10,30 +10,30 @@ layout: default
 ## Updated on 2024.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
-## EQA
+## Embodied Question Answering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-30**|**MFE-ETP: A Comprehensive Evaluation Benchmark for Multi-modal Foundation Models on Embodied Task Planning**|Min Zhang et.al.|[2407.05047](http://arxiv.org/abs/2407.05047)|**[link](https://github.com/TJURLLAB-EAI/MFE-ETP)**|
-|**2024-06-25**|**Embodied Question Answering via Multi-LLM Systems**|Bhrij Patel et.al.|[2406.10918](http://arxiv.org/abs/2406.10918)|null|
-|**2024-05-26**|**Map-based Modular Approach for Zero-shot Embodied Question Answering**|Koya Sakamoto et.al.|[2405.16559](http://arxiv.org/abs/2405.16559)|null|
-|**2024-05-08**|**S-EQA: Tackling Situational Queries in Embodied Question Answering**|Vishnu Sashank Dorbala et.al.|[2405.04732](http://arxiv.org/abs/2405.04732)|null|
-|**2024-04-30**|**QLSC: A Query Latent Semantic Calibrator for Robust Extractive Question Answering**|Sheng Ouyang et.al.|[2404.19316](http://arxiv.org/abs/2404.19316)|null|
-|**2024-04-30**|**Suvach -- Generated Hindi QA benchmark**|Vaishak Narayanan et.al.|[2404.19254](http://arxiv.org/abs/2404.19254)|null|
-|**2024-04-26**|**Can a Multichoice Dataset be Repurposed for Extractive Question Answering?**|Teresa Lynn et.al.|[2404.17342](http://arxiv.org/abs/2404.17342)|null|
-|**2024-07-07**|**Explore until Confident: Efficient Exploration for Embodied Question Answering**|Allen Z. Ren et.al.|[2403.15941](http://arxiv.org/abs/2403.15941)|null|
-|**2024-07-29**|**MEIA: Multimodal Embodied Perception and Interaction in Unknown Environments**|Yang Liu et.al.|[2402.00290](http://arxiv.org/abs/2402.00290)|**[link](https://github.com/hcplab-sysu/causalvlr)**|
-|**2024-04-01**|**Towards Learning a Generalist Model for Embodied Navigation**|Duo Zheng et.al.|[2312.02010](http://arxiv.org/abs/2312.02010)|**[link](https://github.com/lavi-lab/navillm)**|
-|**2023-09-10**|**AGent: A Novel Pipeline for Automatically Creating Unanswerable Questions**|Son Quoc Tran et.al.|[2309.05103](http://arxiv.org/abs/2309.05103)|**[link](https://github.com/sonqt/agent-unanswerable)**|
-|**2023-07-30**|**Synthesizing Event-centric Knowledge Graphs of Daily Activities Using Virtual Space**|Shusaku Egami et.al.|[2307.16206](http://arxiv.org/abs/2307.16206)|**[link](https://github.com/aistairc/virtualhome2kg)**|
-|**2023-06-12**|**LLM as A Robotic Brain: Unifying Egocentric Memory and Control**|Jinjie Mai et.al.|[2304.09349](http://arxiv.org/abs/2304.09349)|null|
-|**2023-01-30**|**Can an AI Win Ghana's National Science and Maths Quiz? An AI Grand Challenge for Education**|George Boateng et.al.|[2301.13089](http://arxiv.org/abs/2301.13089)|null|
-|**2022-12-01**|**Evolutionary-based quantum architecture search**|Anqi Zhang et.al.|[2212.00421](http://arxiv.org/abs/2212.00421)|null|
-|**2022-08-23**|**Evolutionary Quantum Architecture Search for Parametrized Quantum Circuits**|Li Ding et.al.|[2208.11167](http://arxiv.org/abs/2208.11167)|null|
-|**2022-05-06**|**KECP: Knowledge Enhanced Contrastive Prompting for Few-shot Extractive Question Answering**|Jianing Wang et.al.|[2205.03071](http://arxiv.org/abs/2205.03071)|**[link](https://github.com/alibaba/EasyNLP)**|
-|**2022-04-29**|**Science Checker: Extractive-Boolean Question Answering For Scientific Fact Checking**|Loïc Rakotoson et.al.|[2204.12263](http://arxiv.org/abs/2204.12263)|**[link](https://github.com/opscidia/science-checker)**|
-|**2023-02-10**|**Development of an Extractive Clinical Question Answering Dataset with Multi-Answer and Multi-Focus Questions**|Sungrim Moon et.al.|[2201.02517](http://arxiv.org/abs/2201.02517)|null|
-|**2022-01-31**|**Quantum kernels for real-world predictions based on electronic health records**|Zoran Krunic et.al.|[2112.06211](http://arxiv.org/abs/2112.06211)|null|
+|**2024-08-29**|**M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation**|Jonggwon Park et.al.|[2408.16213](http://arxiv.org/abs/2408.16213)|null|
+|**2024-08-28**|**Can SAR improve RSVQA performance?**|Lucrezia Tosato et.al.|[2408.15642](http://arxiv.org/abs/2408.15642)|null|
+|**2024-08-28**|**Can Visual Language Models Replace OCR-Based Visual Question Answering Pipelines in Production? A Case Study in Retail**|Bianca Lamm et.al.|[2408.15626](http://arxiv.org/abs/2408.15626)|null|
+|**2024-08-25**|**Evaluating Attribute Comprehension in Large Vision-Language Models**|Haiwen Zhang et.al.|[2408.13898](http://arxiv.org/abs/2408.13898)|**[link](https://github.com/zhwwwww/attribute-comprehension-of-vlms)**|
+|**2024-08-25**|**Tangram: A Challenging Benchmark for Geometric Element Recognizing**|Jiamin Tang et.al.|[2408.13854](http://arxiv.org/abs/2408.13854)|null|
+|**2024-08-24**|**IQA-EVAL: Automatic Evaluation of Human-Model Interactive Question Answering**|Ruosen Li et.al.|[2408.13545](http://arxiv.org/abs/2408.13545)|null|
+|**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
+|**2024-08-25**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/abs/2408.12528)|null|
+|**2024-08-21**|**CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering**|Yuliang Cai et.al.|[2408.11742](http://arxiv.org/abs/2408.11742)|**[link](https://github.com/yuliangcai2022/clumo)**|
+|**2024-08-21**|**Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework**|Xiao Han et.al.|[2408.11312](http://arxiv.org/abs/2408.11312)|null|
+|**2024-08-21**|**V-RoAst: A New Dataset for Visual Road Assessment**|Natchapon Jongwiriyanurak et.al.|[2408.10872](http://arxiv.org/abs/2408.10872)|null|
+|**2024-08-18**|**PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding**|Dawei Dai et.al.|[2408.09530](http://arxiv.org/abs/2408.09530)|**[link](https://github.com/ddw2aigroup2cqupt/pa-llava)**|
+|**2024-08-17**|**FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection**|Jiaqi Wang et.al.|[2408.09227](http://arxiv.org/abs/2408.09227)|**[link](https://github.com/psudslab/FEDMEKI)**|
+|**2024-08-16**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|null|
+|**2024-08-16**|**Beyond the Hype: A dispassionate look at vision-language models in medical scenario**|Yang Nan et.al.|[2408.08704](http://arxiv.org/abs/2408.08704)|null|
+|**2024-08-16**|**Med-PMC: Medical Personalized Multi-modal Consultation with a Proactive Ask-First-Observe-Next Paradigm**|Hongcheng Liu et.al.|[2408.08693](http://arxiv.org/abs/2408.08693)|**[link](https://github.com/liuhc0428/med-pmc)**|
+|**2024-08-16**|**A Survey on Benchmarks of Multimodal Large Language Models**|Jian Li et.al.|[2408.08632](http://arxiv.org/abs/2408.08632)|**[link](https://github.com/swordlidev/evaluation-multimodal-llms-survey)**|
+|**2024-08-15**|**IIU: Independent Inference Units for Knowledge-based Visual Question Answering**|Yili Li et.al.|[2408.07989](http://arxiv.org/abs/2408.07989)|**[link](https://github.com/lilidamowang/iiu)**|
+|**2024-08-14**|**Enhancing Visual Question Answering through Ranking-Based Hybrid Training and Multimodal Fusion**|Peiyuan Chen et.al.|[2408.07303](http://arxiv.org/abs/2408.07303)|null|
+|**2024-08-13**|**CROME: Cross-Modal Adapters for Efficient Multimodal LLM**|Sayna Ebrahimi et.al.|[2408.06610](http://arxiv.org/abs/2408.06610)|null|
 
 ## Embodied Agent
 
@@ -64,26 +64,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models**|Fanglong Yao et.al.|[2408.15511](http://arxiv.org/abs/2408.15511)|null|
+|**2024-08-27**|**Can LLM be a Good Path Planner based on Prompt Engineering? Mitigating the Hallucination for Path Planning**|Hourui Deng et.al.|[2408.13184](http://arxiv.org/abs/2408.13184)|null|
 |**2024-08-21**|**A Survey of Embodied Learning for Object-Centric Robotic Manipulation**|Ying Zheng et.al.|[2408.11537](http://arxiv.org/abs/2408.11537)|**[link](https://github.com/rayyoh/ocrm_survey)**|
 |**2024-08-21**|**Multimodal Datasets and Benchmarks for Reasoning about Dynamic Spatio-Temporality in Everyday Environments**|Takanori Ugai et.al.|[2408.11347](http://arxiv.org/abs/2408.11347)|null|
 |**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|**[link](https://github.com/xyz9911/FLAME)**|
 |**2024-08-20**|**All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents**|Zhiqiang Wang et.al.|[2408.10899](http://arxiv.org/abs/2408.10899)|null|
+|**2024-08-15**|**Autonomous Behavior Planning For Humanoid Loco-manipulation Through Grounded Language Model**|Jin Wang et.al.|[2408.08282](http://arxiv.org/abs/2408.08282)|null|
 |**2024-08-15**|**EmBARDiment: an Embodied AI Agent for Productivity in XR**|Riccardo Bovo et.al.|[2408.08158](http://arxiv.org/abs/2408.08158)|null|
+|**2024-08-14**|**LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**|Fan Yang et.al.|[2408.07422](http://arxiv.org/abs/2408.07422)|null|
+|**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[2408.02882](http://arxiv.org/abs/2408.02882)|null|
 |**2024-08-05**|**Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph**|Zhao Kaichen et.al.|[2408.02535](http://arxiv.org/abs/2408.02535)|null|
 |**2024-08-05**|**Perception Matters: Enhancing Embodied AI with Uncertainty-Aware Semantic Segmentation**|Sai Prasanna et.al.|[2408.02297](http://arxiv.org/abs/2408.02297)|null|
+|**2024-08-04**|**A Jellyfish Cyborg: Exploiting Natural Embodied Intelligence as Soft Robots**|Dai Owaki et.al.|[2408.01941](http://arxiv.org/abs/2408.01941)|null|
+|**2024-07-31**|**PEAR: Phrase-Based Hand-Object Interaction Anticipation**|Zichen Zhang et.al.|[2407.21510](http://arxiv.org/abs/2407.21510)|null|
 |**2024-08-15**|**The Threats of Embodied Multimodal LLMs: Jailbreaking Robotic Manipulation in the Physical World**|Hangtao Zhang et.al.|[2407.20242](http://arxiv.org/abs/2407.20242)|null|
 |**2024-07-20**|**DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-level Control**|Xinyu Xu et.al.|[2407.14758](http://arxiv.org/abs/2407.14758)|**[link](https://github.com/allenxuuu/disco)**|
 |**2024-07-16**|**VISA: Reasoning Video Object Segmentation via Large Language Models**|Cilin Yan et.al.|[2407.11325](http://arxiv.org/abs/2407.11325)|**[link](https://github.com/cilinyan/revos-api)**|
 |**2024-07-15**|**GRUtopia: Dream General Robots in a City at Scale**|Hanqing Wang et.al.|[2407.10943](http://arxiv.org/abs/2407.10943)|**[link](https://github.com/openrobotlab/grutopia)**|
 |**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062](http://arxiv.org/abs/2407.10062)|null|
-|**2024-07-11**|**MetaUrban: A Simulation Platform for Embodied AI in Urban Spaces**|Wayne Wu et.al.|[2407.08725](http://arxiv.org/abs/2407.08725)|null|
-|**2024-07-10**|**Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence**|Weize Chen et.al.|[2407.07061](http://arxiv.org/abs/2407.07061)|**[link](https://github.com/openbmb/ioa)**|
-|**2024-08-26**|**Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI**|Yang Liu et.al.|[2407.06886](http://arxiv.org/abs/2407.06886)|**[link](https://github.com/hcplab-sysu/embodied_ai_paper_list)**|
-|**2024-08-02**|**Corki: Enabling Real-time Embodied AI Robots via Algorithm-Architecture Co-Design**|Yiyang Huang et.al.|[2407.04292](http://arxiv.org/abs/2407.04292)|**[link](https://github.com/hyy0613/corki)**|
-|**2024-07-04**|**Embodied AI in Mobile Robots: Coverage Path Planning with Large Language Models**|Xiangrui Kong et.al.|[2407.02220](http://arxiv.org/abs/2407.02220)|null|
-|**2024-07-12**|**ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning**|Christopher E. Mower et.al.|[2406.19741](http://arxiv.org/abs/2406.19741)|**[link](https://github.com/huawei-noah/hebo)**|
-|**2024-07-04**|**Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**|Minghan Li et.al.|[2406.19236](http://arxiv.org/abs/2406.19236)|**[link](https://github.com/lpercc/ha3d_simulator)**|
-|**2024-06-25**|**ET tu, CLIP? Addressing Common Object Errors for Unseen Environments**|Ye Won Byun et.al.|[2406.17876](http://arxiv.org/abs/2406.17876)|null|
+|**2024-07-12**|**KUNPENG: An Embodied Large Model for Intelligent Maritime**|Naiyao Wang et.al.|[2407.09048](http://arxiv.org/abs/2407.09048)|**[link](https://github.com/acotai/kunpeng)**|
 
 ## Vision Language Action Model
 

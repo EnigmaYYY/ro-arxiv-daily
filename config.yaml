@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 20
 
 publish_readme: True
 publish_gitpage: True
@@ -23,13 +23,13 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Embodied Question Answering":
-        filters: ["Embodied Question Answering", "3D Environment Question Answering", "Interactive Question Answering"]
+        filters: ["Embodied Question Answering", "3D Environment Question Answering"]
     "Visual Question Answering":
         filters: ["Visual Question Answering", "3D Visual Question Answering"]
     "Embodied Agent":
-        filters: ["Embodied Agent", "LLM Agent", "Embodied Task Completion"]
+        filters: ["Embodied Agent", "LLM Agent"]
     "Embodied AI": 
-        filters: ["Embodied AI", "Embodied AI Survey", "Embodied Intelligence"]
+        filters: ["Embodied AI", "Embodied AI Survey"]
     "Vision Language Action Model": 
         filters: ["Vision Language Action Model", "Vision Language Action"]
     "Vision Language Navigation Model":

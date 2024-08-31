@@ -34,6 +34,16 @@ layout: default
 |**2021-10-28**|**Multi-stage Clarification in Conversational AI: The case of Question-Answering Dialogue Systems**|Hadrien Lautraite et.al.|[2110.15235](http://arxiv.org/abs/2110.15235)|null|
 |**2021-10-16**|**Explore before Moving: A Feasible Path Estimation and Memory Recalling Framework for Embodied Navigation**|Yang Wu et.al.|[2110.08571](http://arxiv.org/abs/2110.08571)|null|
 |**2021-09-16**|**Knowledge-based Embodied Question Answering**|Sinan Tan et.al.|[2109.07872](http://arxiv.org/abs/2109.07872)|null|
+|**2021-04-17**|**Mobile App Tasks with Iterative Feedback (MoTIF): Addressing Task Feasibility in Interactive Visual Environments**|Andrea Burns et.al.|[2104.08560](http://arxiv.org/abs/2104.08560)|**[link](https://github.com/aburns4/MoTIF)**|
+|**2022-01-05**|**A Survey of Embodied AI: From Simulators to Research Tasks**|Jiafei Duan et.al.|[2103.04918](http://arxiv.org/abs/2103.04918)|null|
+|**2020-08-28**|**AllenAct: A Framework for Embodied AI Research**|Luca Weihs et.al.|[2008.12760](http://arxiv.org/abs/2008.12760)|null|
+|**2020-01-31**|**Teaching Machines to Converse**|Jiwei Li et.al.|[2001.11701](http://arxiv.org/abs/2001.11701)|**[link](https://github.com/facebook/MemNN)**|
+|**2019-11-26**|**PIQA: Reasoning about Physical Commonsense in Natural Language**|Yonatan Bisk et.al.|[1911.11641](http://arxiv.org/abs/1911.11641)|null|
+|**2019-08-14**|**VideoNavQA: Bridging the Gap between Visual and Embodied Question Answering**|Cătălina Cangea et.al.|[1908.04950](http://arxiv.org/abs/1908.04950)|**[link](https://github.com/catalina17/VideoNavQA)**|
+|**2019-04-09**|**Multi-Target Embodied Question Answering**|Licheng Yu et.al.|[1904.04686](http://arxiv.org/abs/1904.04686)|**[link](https://github.com/facebookresearch/EmbodiedQA)**|
+|**2020-09-04**|**Revisiting EmbodiedQA: A Simple Baseline and Beyond**|Yu Wu et.al.|[1904.04166](http://arxiv.org/abs/1904.04166)|null|
+|**2019-04-06**|**Embodied Question Answering in Photorealistic Environments with Point Cloud Perception**|Erik Wijmans et.al.|[1904.03461](http://arxiv.org/abs/1904.03461)|null|
+|**2019-02-04**|**Embodied Multimodal Multitask Learning**|Devendra Singh Chaplot et.al.|[1902.01385](http://arxiv.org/abs/1902.01385)|null|
 
 ## Visual Question Answering
 
@@ -59,6 +69,16 @@ layout: default
 |**2024-08-14**|**Enhancing Visual Question Answering through Ranking-Based Hybrid Training and Multimodal Fusion**|Peiyuan Chen et.al.|[2408.07303](http://arxiv.org/abs/2408.07303)|null|
 |**2024-08-13**|**CROME: Cross-Modal Adapters for Efficient Multimodal LLM**|Sayna Ebrahimi et.al.|[2408.06610](http://arxiv.org/abs/2408.06610)|null|
 |**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303](http://arxiv.org/abs/2408.06303)|null|
+|**2024-08-12**|**Adapting a Foundation Model for Space-based Tasks**|Matthew Foutter et.al.|[2408.05924](http://arxiv.org/abs/2408.05924)|null|
+|**2024-08-19**|**SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning**|Yuze Zhao et.al.|[2408.05517](http://arxiv.org/abs/2408.05517)|**[link](https://github.com/modelscope/swift)**|
+|**2024-08-09**|**Revisiting Multi-Modal LLM Evaluation**|Jian Lu et.al.|[2408.05334](http://arxiv.org/abs/2408.05334)|null|
+|**2024-08-09**|**Sportify: Question Answering with Embedded Visualizations and Personified Narratives for Sports Video**|Chunggi Lee et.al.|[2408.05123](http://arxiv.org/abs/2408.05123)|null|
+|**2024-08-09**|**Surgical-VQLA++: Adversarial Contrastive Learning for Calibrated Robust Visual Question-Localized Answering in Robotic Surgery**|Long Bai et.al.|[2408.04958](http://arxiv.org/abs/2408.04958)|**[link](https://github.com/longbai1006/surgical-vqlaplus)**|
+|**2024-08-09**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|null|
+|**2024-08-07**|**Optimus: Accelerating Large-Scale Multi-Modal LLM Training by Bubble Exploitation**|Weiqi Feng et.al.|[2408.03505](http://arxiv.org/abs/2408.03505)|null|
+|**2024-08-09**|**GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**|Pengcheng Chen et.al.|[2408.03361](http://arxiv.org/abs/2408.03361)|null|
+|**2024-08-06**|**Targeted Visual Prompting for Medical Visual Question Answering**|Sergio Tascon-Morales et.al.|[2408.03043](http://arxiv.org/abs/2408.03043)|null|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|**[link](https://github.com/alpha-vllm/lumina-mgpt)**|
 
 ## Embodied Agent
 
@@ -68,6 +88,7 @@ layout: default
 |**2024-08-28**|**LogicGame: Benchmarking Rule-Based Reasoning Abilities of Large Language Models**|Jiayi Gui et.al.|[2408.15778](http://arxiv.org/abs/2408.15778)|null|
 |**2024-08-26**|**MLR-Copilot: Autonomous Machine Learning Research based on Large Language Models Agents**|Ruochen Li et.al.|[2408.14033](http://arxiv.org/abs/2408.14033)|**[link](https://github.com/du-nlp-lab/mlr-copilot)**|
 |**2024-08-22**|**MDD-5k: A New Diagnostic Conversation Dataset for Mental Disorders Synthesized via Neuro-Symbolic LLM Agents**|Congchi Yin et.al.|[2408.12142](http://arxiv.org/abs/2408.12142)|**[link](https://github.com/lemonsis/mdd-5k)**|
+|**2024-08-05**|**LLM Agents Improve Semantic Code Search**|Sarthak Jain et.al.|[2408.11058](http://arxiv.org/abs/2408.11058)|null|
 |**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|**[link](https://github.com/xyz9911/FLAME)**|
 |**2024-08-20**|**All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents**|Zhiqiang Wang et.al.|[2408.10899](http://arxiv.org/abs/2408.10899)|null|
 |**2024-08-24**|**IDEA:Enhancing the Rule Learning Ability of Language Agents through Induction, Deduction, and Abduction**|Kaiyu He et.al.|[2408.10455](http://arxiv.org/abs/2408.10455)|null|
@@ -84,6 +105,15 @@ layout: default
 |**2024-08-13**|**DataNarrative: Automated Data-Driven Storytelling with Visualizations and Texts**|Mohammed Saidul Islam et.al.|[2408.05346](http://arxiv.org/abs/2408.05346)|null|
 |**2024-08-08**|**RiskAwareBench: Towards Evaluating Physical Risk Awareness for High-level Planning of LLM-based Embodied Agents**|Zihao Zhu et.al.|[2408.04449](http://arxiv.org/abs/2408.04449)|null|
 |**2024-08-08**|**Perceive, Reflect, and Plan: Designing LLM Agent for Goal-Directed City Navigation without Instructions**|Qingbin Zeng et.al.|[2408.04168](http://arxiv.org/abs/2408.04168)|**[link](https://github.com/hiyouga/llama-factory)**|
+|**2024-08-11**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910](http://arxiv.org/abs/2408.03910)|**[link](https://github.com/modelscope/modelscope-agent)**|
+|**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[2408.02882](http://arxiv.org/abs/2408.02882)|null|
+|**2024-08-05**|**Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information**|Yauwai Yim et.al.|[2408.02559](http://arxiv.org/abs/2408.02559)|null|
+|**2024-08-22**|**SpecRover: Code Intent Extraction via LLMs**|Haifeng Ruan et.al.|[2408.02232](http://arxiv.org/abs/2408.02232)|null|
+|**2024-08-11**|**Is Generative Communication between Embodied Agents Good for Zero-Shot ObjectNav?**|Vishnu Sashank Dorbala et.al.|[2408.01877](http://arxiv.org/abs/2408.01877)|null|
+|**2024-08-03**|**The Drama Machine: Simulating Character Development with LLM Agents**|Liam Magee et.al.|[2408.01725](http://arxiv.org/abs/2408.01725)|null|
+|**2024-08-03**|**WaitGPT: Monitoring and Steering Conversational LLM Agent in Data Analysis with On-the-Fly Code Visualization**|Liwenhan Xie et.al.|[2408.01703](http://arxiv.org/abs/2408.01703)|null|
+|**2024-08-16**|**Automated Phishing Detection Using URLs and Webpages**|Huilin Wang et.al.|[2408.01667](http://arxiv.org/abs/2408.01667)|null|
+|**2024-08-04**|**Social Learning through Interactions with Other Agents: A Survey**|Dylan Hillier et.al.|[2407.21713](http://arxiv.org/abs/2407.21713)|null|
 
 ## Embodied AI
 
@@ -109,6 +139,16 @@ layout: default
 |**2024-07-15**|**GRUtopia: Dream General Robots in a City at Scale**|Hanqing Wang et.al.|[2407.10943](http://arxiv.org/abs/2407.10943)|**[link](https://github.com/openrobotlab/grutopia)**|
 |**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062](http://arxiv.org/abs/2407.10062)|null|
 |**2024-07-12**|**KUNPENG: An Embodied Large Model for Intelligent Maritime**|Naiyao Wang et.al.|[2407.09048](http://arxiv.org/abs/2407.09048)|**[link](https://github.com/acotai/kunpeng)**|
+|**2024-07-11**|**MetaUrban: A Simulation Platform for Embodied AI in Urban Spaces**|Wayne Wu et.al.|[2407.08725](http://arxiv.org/abs/2407.08725)|null|
+|**2024-07-10**|**Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence**|Weize Chen et.al.|[2407.07061](http://arxiv.org/abs/2407.07061)|**[link](https://github.com/openbmb/ioa)**|
+|**2024-08-26**|**Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI**|Yang Liu et.al.|[2407.06886](http://arxiv.org/abs/2407.06886)|**[link](https://github.com/hcplab-sysu/embodied_ai_paper_list)**|
+|**2024-07-09**|**Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1)**|Yanlong Peng et.al.|[2407.06590](http://arxiv.org/abs/2407.06590)|null|
+|**2024-07-08**|**3D Vision and Language Pretraining with Large-Scale Synthetic Data**|Dejie Yang et.al.|[2407.06084](http://arxiv.org/abs/2407.06084)|**[link](https://github.com/idejie/3DSyn)**|
+|**2024-08-02**|**Corki: Enabling Real-time Embodied AI Robots via Algorithm-Architecture Co-Design**|Yiyang Huang et.al.|[2407.04292](http://arxiv.org/abs/2407.04292)|**[link](https://github.com/hyy0613/corki)**|
+|**2024-07-04**|**Embodied AI in Mobile Robots: Coverage Path Planning with Large Language Models**|Xiangrui Kong et.al.|[2407.02220](http://arxiv.org/abs/2407.02220)|null|
+|**2024-06-27**|**From Efficient Multimodal Models to World Models: A Survey**|Xinji Mai et.al.|[2407.00118](http://arxiv.org/abs/2407.00118)|null|
+|**2024-07-12**|**ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning**|Christopher E. Mower et.al.|[2406.19741](http://arxiv.org/abs/2406.19741)|**[link](https://github.com/huawei-noah/hebo)**|
+|**2024-07-04**|**Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**|Minghan Li et.al.|[2406.19236](http://arxiv.org/abs/2406.19236)|**[link](https://github.com/lpercc/ha3d_simulator)**|
 
 ## Vision Language Action Model
 
@@ -159,6 +199,16 @@ layout: default
 |**2023-12-02**|**Planning as In-Painting: A Diffusion-Based Embodied Task Planning Framework for Environments under Uncertainty**|Cheng-Fu Yang et.al.|[2312.01097](http://arxiv.org/abs/2312.01097)|**[link](https://github.com/joeyy5588/planning-as-inpainting)**|
 |**2023-11-06**|**Exploitation-Guided Exploration for Semantic Embodied Navigation**|Justin Wasserman et.al.|[2311.03357](http://arxiv.org/abs/2311.03357)|null|
 |**2024-06-07**|**Advances in Embodied Navigation Using Large Language Models: A Survey**|Jinzhou Lin et.al.|[2311.00530](http://arxiv.org/abs/2311.00530)|**[link](https://github.com/rongtao-xu/awesome-llm-en)**|
+|**2023-09-21**|**Bridging Zero-shot Object Navigation and Foundation Models through Pixel-Guided Navigation Skill**|Wenzhe Cai et.al.|[2309.10309](http://arxiv.org/abs/2309.10309)|**[link](https://github.com/wzcai99/pixel-navigator)**|
+|**2023-09-10**|**What Is Near?: Room Locality Learning for Enhanced Robot Vision-Language-Navigation in Indoor Living Environments**|Muraleekrishna Gopinathan et.al.|[2309.05036](http://arxiv.org/abs/2309.05036)|null|
+|**2023-08-14**|**DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation**|Hanqing Wang et.al.|[2308.07498](http://arxiv.org/abs/2308.07498)|null|
+|**2023-08-12**|**Bird's-Eye-View Scene Graph for Vision-Language Navigation**|Rui Liu et.al.|[2308.04758](http://arxiv.org/abs/2308.04758)|**[link](https://github.com/defaultrui/bev-scene-graph)**|
+|**2023-12-27**|**CAVEN: An Embodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments**|Xiulong Liu et.al.|[2306.04047](http://arxiv.org/abs/2306.04047)|null|
+|**2023-07-01**|**Instance-Level Semantic Maps for Vision Language Navigation**|Laksh Nanwani et.al.|[2305.12363](http://arxiv.org/abs/2305.12363)|null|
+|**2023-05-08**|**Accessible Instruction-Following Agent**|Kairui Zhou et.al.|[2305.06358](http://arxiv.org/abs/2305.06358)|null|
+|**2023-12-26**|**Active Semantic Localization with Graph Neural Embedding**|Mitsuki Yoshida et.al.|[2305.06141](http://arxiv.org/abs/2305.06141)|null|
+|**2024-01-22**|**ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**|Dong An et.al.|[2304.03047](http://arxiv.org/abs/2304.03047)|**[link](https://github.com/marsaki/etpnav)**|
+|**2023-04-05**|**Core Challenges in Embodied Vision-Language Planning**|Jonathan Francis et.al.|[2304.02738](http://arxiv.org/abs/2304.02738)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 20
 
 publish_readme: True
 publish_gitpage: True
@@ -26,8 +26,9 @@ keywords:
         filters: ["EQA","Embodied Question Answering"]
     "Embodied Agent":
         filters: ["Embodied Agent", "LLM Agent"]
-    "VLA": 
-        filters: ["Vision-Language-Action Model", "Vision-Language-Action"]
     "Embodied AI": 
         filters: ["Embodied AI", "Embodied AI Survey"]
+    "VLA": 
+        filters: ["Vision-Language-Action Model", "Vision-Language-Action"]
+
         

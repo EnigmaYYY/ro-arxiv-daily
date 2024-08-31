@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.30
+## Updated on 2024.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -41,7 +41,7 @@
 |**2023-02-10**|**Development of an Extractive Clinical Question Answering Dataset with Multi-Answer and Multi-Focus Questions**|Sungrim Moon et.al.|[2201.02517](http://arxiv.org/abs/2201.02517)|null|
 |**2022-01-31**|**Quantum kernels for real-world predictions based on electronic health records**|Zoran Krunic et.al.|[2112.06211](http://arxiv.org/abs/2112.06211)|null|
 
-<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240831>back to top</a>)</p>
 
 ## Embodied Agent
 
@@ -68,7 +68,7 @@
 |**2024-08-08**|**RiskAwareBench: Towards Evaluating Physical Risk Awareness for High-level Planning of LLM-based Embodied Agents**|Zihao Zhu et.al.|[2408.04449](http://arxiv.org/abs/2408.04449)|null|
 |**2024-08-08**|**Perceive, Reflect, and Plan: Designing LLM Agent for Goal-Directed City Navigation without Instructions**|Qingbin Zeng et.al.|[2408.04168](http://arxiv.org/abs/2408.04168)|**[link](https://github.com/hiyouga/llama-factory)**|
 
-<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240831>back to top</a>)</p>
 
 ## Embodied AI
 
@@ -95,7 +95,7 @@
 |**2024-07-04**|**Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**|Minghan Li et.al.|[2406.19236](http://arxiv.org/abs/2406.19236)|**[link](https://github.com/lpercc/ha3d_simulator)**|
 |**2024-06-25**|**ET tu, CLIP? Addressing Common Object Errors for Unseen Environments**|Ye Won Byun et.al.|[2406.17876](http://arxiv.org/abs/2406.17876)|null|
 
-<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240831>back to top</a>)</p>
 
 ## VLA
 
@@ -112,7 +112,7 @@
 |**2024-08-13**|**Probing cluster magnetism with embedded and background radio sources in Planck clusters**|Erik Osinga et.al.|[2408.07178](http://arxiv.org/abs/2408.07178)|null|
 |**2024-08-13**|**Magnetic Field of the Quasar 1604+159 from Parsec to Kilo-parsec Scale**|Xu-Zhi Hu et.al.|[2408.06647](http://arxiv.org/abs/2408.06647)|null|
 
-<p align=right>(<a href=#updated-on-20240830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240831>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

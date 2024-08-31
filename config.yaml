@@ -25,7 +25,7 @@ keywords:
     "Embodied Question Answering":
         filters: ["Embodied Question Answering", "3D Environment Question Answering", "Interactive Question Answering"]
     "Visual Question Answering":
-        filters:["Visual Question Answering", "3D Visual Question Answering"]
+        filters: ["Visual Question Answering", "3D Visual Question Answering"]
     "Embodied Agent":
         filters: ["Embodied Agent", "LLM Agent", "Embodied Task Completion"]
     "Embodied AI": 
@@ -33,5 +33,5 @@ keywords:
     "Vision Language Action Model": 
         filters: ["Vision Language Action Model", "Vision Language Action"]
     "Vision Language Navigation Model":
-        filters:["Vision Language Navigation Model", "Vision Language Navigation", "Embodied Navigation"]
+        filters: ["Vision Language Navigation Model", "Vision Language Navigation", "Embodied Navigation"]
         

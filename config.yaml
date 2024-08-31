@@ -23,12 +23,15 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Embodied Question Answering":
-        filters: ["Embodied Question Answering", "Visual Question Answering", "3D Environment Question Answering", "Interactive Question Answering", "Embodied Navigation"]
+        filters: ["Embodied Question Answering", "3D Environment Question Answering", "Interactive Question Answering"]
+    "Visual Question Answering":
+        filters:["Visual Question Answering", "3D Visual Question Answering"]
     "Embodied Agent":
         filters: ["Embodied Agent", "LLM Agent", "Embodied Task Completion"]
     "Embodied AI": 
         filters: ["Embodied AI", "Embodied AI Survey", "Embodied Intelligence"]
     "Vision Language Action Model": 
         filters: ["Vision Language Action Model", "Vision Language Action"]
-
+    "Vision Language Navigation Model":
+        filters:["Vision Language Navigation Model", "Vision Language Navigation", "Embodied Navigation"]
         

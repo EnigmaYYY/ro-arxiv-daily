@@ -14,12 +14,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-24**|**IQA-EVAL: Automatic Evaluation of Human-Model Interactive Question Answering**|Ruosen Li et.al.|[2408.13545](http://arxiv.org/abs/2408.13545)|null|
+|**2024-07-25**|**Audio Entailment: Assessing Deductive Reasoning for Audio Understanding**|Soham Deshmukh et.al.|[2407.18062](http://arxiv.org/abs/2407.18062)|**[link](https://github.com/microsoft/audioentailment)**|
+|**2024-07-13**|**IoT-LM: Large Multisensory Language Models for the Internet of Things**|Shentong Mo et.al.|[2407.09801](http://arxiv.org/abs/2407.09801)|**[link](https://github.com/multi-iot/multiiot)**|
+|**2024-07-30**|**MFE-ETP: A Comprehensive Evaluation Benchmark for Multi-modal Foundation Models on Embodied Task Planning**|Min Zhang et.al.|[2407.05047](http://arxiv.org/abs/2407.05047)|**[link](https://github.com/TJURLLAB-EAI/MFE-ETP)**|
+|**2024-06-25**|**Embodied Question Answering via Multi-LLM Systems**|Bhrij Patel et.al.|[2406.10918](http://arxiv.org/abs/2406.10918)|null|
+|**2024-05-26**|**Map-based Modular Approach for Zero-shot Embodied Question Answering**|Koya Sakamoto et.al.|[2405.16559](http://arxiv.org/abs/2405.16559)|null|
+|**2024-05-08**|**S-EQA: Tackling Situational Queries in Embodied Question Answering**|Vishnu Sashank Dorbala et.al.|[2405.04732](http://arxiv.org/abs/2405.04732)|null|
+|**2024-07-07**|**Explore until Confident: Efficient Exploration for Embodied Question Answering**|Allen Z. Ren et.al.|[2403.15941](http://arxiv.org/abs/2403.15941)|null|
+|**2024-07-29**|**MEIA: Multimodal Embodied Perception and Interaction in Unknown Environments**|Yang Liu et.al.|[2402.00290](http://arxiv.org/abs/2402.00290)|**[link](https://github.com/hcplab-sysu/causalvlr)**|
+|**2024-04-01**|**Towards Learning a Generalist Model for Embodied Navigation**|Duo Zheng et.al.|[2312.02010](http://arxiv.org/abs/2312.02010)|**[link](https://github.com/lavi-lab/navillm)**|
+|**2024-06-06**|**Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**|Andy Zhou et.al.|[2310.04406](http://arxiv.org/abs/2310.04406)|**[link](https://github.com/lapisrocks/languageagenttreesearch)**|
+|**2023-11-11**|**Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference**|Zachary Levonian et.al.|[2310.03184](http://arxiv.org/abs/2310.03184)|**[link](https://github.com/digitalharborfoundation/rag-for-math-qa)**|
+|**2023-08-21**|**PaniniQA: Enhancing Patient Education Through Interactive Question Answering**|Pengshan Cai et.al.|[2308.03253](http://arxiv.org/abs/2308.03253)|**[link](https://github.com/pengshancai/paniniqa)**|
+|**2023-07-30**|**Synthesizing Event-centric Knowledge Graphs of Daily Activities Using Virtual Space**|Shusaku Egami et.al.|[2307.16206](http://arxiv.org/abs/2307.16206)|**[link](https://github.com/aistairc/virtualhome2kg)**|
+|**2023-06-12**|**LLM as A Robotic Brain: Unifying Egocentric Memory and Control**|Jinjie Mai et.al.|[2304.09349](http://arxiv.org/abs/2304.09349)|null|
+|**2023-08-17**|**Do I Have Your Attention: A Large Scale Engagement Prediction Dataset and Baselines**|Monisha Singh et.al.|[2302.00431](http://arxiv.org/abs/2302.00431)|**[link](https://github.com/engagenet/engagenet_baselines)**|
+|**2024-04-19**|**Interactive Question Answering Systems: Literature Review**|Giovanni Maria Biancofiore et.al.|[2209.01621](http://arxiv.org/abs/2209.01621)|null|
+|**2021-10-28**|**Multi-stage Clarification in Conversational AI: The case of Question-Answering Dialogue Systems**|Hadrien Lautraite et.al.|[2110.15235](http://arxiv.org/abs/2110.15235)|null|
+|**2021-10-16**|**Explore before Moving: A Feasible Path Estimation and Memory Recalling Framework for Embodied Navigation**|Yang Wu et.al.|[2110.08571](http://arxiv.org/abs/2110.08571)|null|
+|**2021-09-16**|**Knowledge-based Embodied Question Answering**|Sinan Tan et.al.|[2109.07872](http://arxiv.org/abs/2109.07872)|null|
+
+## Visual Question Answering
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-29**|**M4CXR: Exploring Multi-task Potentials of Multi-modal Large Language Models for Chest X-ray Interpretation**|Jonggwon Park et.al.|[2408.16213](http://arxiv.org/abs/2408.16213)|null|
 |**2024-08-28**|**Can SAR improve RSVQA performance?**|Lucrezia Tosato et.al.|[2408.15642](http://arxiv.org/abs/2408.15642)|null|
 |**2024-08-28**|**Can Visual Language Models Replace OCR-Based Visual Question Answering Pipelines in Production? A Case Study in Retail**|Bianca Lamm et.al.|[2408.15626](http://arxiv.org/abs/2408.15626)|null|
 |**2024-08-25**|**Evaluating Attribute Comprehension in Large Vision-Language Models**|Haiwen Zhang et.al.|[2408.13898](http://arxiv.org/abs/2408.13898)|**[link](https://github.com/zhwwwww/attribute-comprehension-of-vlms)**|
 |**2024-08-25**|**Tangram: A Challenging Benchmark for Geometric Element Recognizing**|Jiamin Tang et.al.|[2408.13854](http://arxiv.org/abs/2408.13854)|null|
-|**2024-08-24**|**IQA-EVAL: Automatic Evaluation of Human-Model Interactive Question Answering**|Ruosen Li et.al.|[2408.13545](http://arxiv.org/abs/2408.13545)|null|
 |**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
 |**2024-08-25**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/abs/2408.12528)|null|
 |**2024-08-21**|**CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering**|Yuliang Cai et.al.|[2408.11742](http://arxiv.org/abs/2408.11742)|**[link](https://github.com/yuliangcai2022/clumo)**|
@@ -34,6 +58,7 @@ layout: default
 |**2024-08-15**|**IIU: Independent Inference Units for Knowledge-based Visual Question Answering**|Yili Li et.al.|[2408.07989](http://arxiv.org/abs/2408.07989)|**[link](https://github.com/lilidamowang/iiu)**|
 |**2024-08-14**|**Enhancing Visual Question Answering through Ranking-Based Hybrid Training and Multimodal Fusion**|Peiyuan Chen et.al.|[2408.07303](http://arxiv.org/abs/2408.07303)|null|
 |**2024-08-13**|**CROME: Cross-Modal Adapters for Efficient Multimodal LLM**|Sayna Ebrahimi et.al.|[2408.06610](http://arxiv.org/abs/2408.06610)|null|
+|**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303](http://arxiv.org/abs/2408.06303)|null|
 
 ## Embodied Agent
 
@@ -109,6 +134,31 @@ layout: default
 |**2024-05-09**|**An Embodied Generalist Agent in 3D World**|Jiangyong Huang et.al.|[2311.12871](http://arxiv.org/abs/2311.12871)|**[link](https://github.com/embodied-generalist/embodied-generalist)**|
 |**2023-07-28**|**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**|Anthony Brohan et.al.|[2307.15818](http://arxiv.org/abs/2307.15818)|null|
 |**2023-09-21**|**A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter**|Kechun Xu et.al.|[2302.12610](http://arxiv.org/abs/2302.12610)|**[link](https://github.com/xukechun/Vision-Language-Grasping)**|
+
+## Vision Language Navigation Model
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-20**|**DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-level Control**|Xinyu Xu et.al.|[2407.14758](http://arxiv.org/abs/2407.14758)|**[link](https://github.com/allenxuuu/disco)**|
+|**2024-07-12**|**OVExp: Open Vocabulary Exploration for Object-Oriented Navigation**|Meng Wei et.al.|[2407.09016](http://arxiv.org/abs/2407.09016)|null|
+|**2024-07-10**|**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**|Chashi Mahiul Islam et.al.|[2407.07392](http://arxiv.org/abs/2407.07392)|null|
+|**2024-08-20**|**Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation**|Jiaqi Chen et.al.|[2407.05890](http://arxiv.org/abs/2407.05890)|null|
+|**2024-07-04**|**ELCC: the Emergent Language Corpus Collection**|Brendon Boldt et.al.|[2407.04158](http://arxiv.org/abs/2407.04158)|null|
+|**2024-06-28**|**Into the Unknown: Generating Geospatial Descriptions for New Environments**|Tzuf Paz-Argaman et.al.|[2406.19967](http://arxiv.org/abs/2406.19967)|null|
+|**2024-06-05**|**Correctable Landmark Discovery via Large Models for Vision-Language Navigation**|Bingqian Lin et.al.|[2405.18721](http://arxiv.org/abs/2405.18721)|**[link](https://github.com/expectorlin/console)**|
+|**2024-04-27**|**Open-Set 3D Semantic Instance Maps for Vision Language Navigation -- O3D-SIM**|Laksh Nanwani et.al.|[2404.17922](http://arxiv.org/abs/2404.17922)|**[link](https://github.com/Smart-Wheelchair-RRC/o3d-sim)**|
+|**2024-04-24**|**MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI**|Kaining Ying et.al.|[2404.16006](http://arxiv.org/abs/2404.16006)|null|
+|**2024-04-02**|**Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation**|Zihan Wang et.al.|[2404.01943](http://arxiv.org/abs/2404.01943)|**[link](https://github.com/mrzihan/hnr-vln)**|
+|**2024-03-21**|**Leveraging Large Language Model-based Room-Object Relationships Knowledge for Enhancing Multimodal-Input Object Goal Navigation**|Leyuan Sun et.al.|[2403.14163](http://arxiv.org/abs/2403.14163)|null|
+|**2024-03-21**|**Volumetric Environment Representation for Vision-Language Navigation**|Rui Liu et.al.|[2403.14158](http://arxiv.org/abs/2403.14158)|**[link](https://github.com/defaultrui/vln-ver)**|
+|**2024-04-02**|**Can LLMs Generate Human-Like Wayfinding Instructions? Towards Platform-Agnostic Embodied Instruction Synthesis**|Vishnu Sashank Dorbala et.al.|[2403.11487](http://arxiv.org/abs/2403.11487)|null|
+|**2024-03-13**|**TINA: Think, Interaction, and Action Framework for Zero-Shot Vision Language Navigation**|Dingbang Li et.al.|[2403.08833](http://arxiv.org/abs/2403.08833)|null|
+|**2024-03-11**|**Mapping High-level Semantic Regions in Indoor Environments without Object Recognition**|Roberto Bigazzi et.al.|[2403.07076](http://arxiv.org/abs/2403.07076)|null|
+|**2024-03-15**|**Vision-Language Navigation with Embodied Intelligence: A Survey**|Peng Gao et.al.|[2402.14304](http://arxiv.org/abs/2402.14304)|null|
+|**2024-04-01**|**Towards Learning a Generalist Model for Embodied Navigation**|Duo Zheng et.al.|[2312.02010](http://arxiv.org/abs/2312.02010)|**[link](https://github.com/lavi-lab/navillm)**|
+|**2023-12-02**|**Planning as In-Painting: A Diffusion-Based Embodied Task Planning Framework for Environments under Uncertainty**|Cheng-Fu Yang et.al.|[2312.01097](http://arxiv.org/abs/2312.01097)|**[link](https://github.com/joeyy5588/planning-as-inpainting)**|
+|**2023-11-06**|**Exploitation-Guided Exploration for Semantic Embodied Navigation**|Justin Wasserman et.al.|[2311.03357](http://arxiv.org/abs/2311.03357)|null|
+|**2024-06-07**|**Advances in Embodied Navigation Using Large Language Models: A Survey**|Jinzhou Lin et.al.|[2311.00530](http://arxiv.org/abs/2311.00530)|**[link](https://github.com/rongtao-xu/awesome-llm-en)**|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

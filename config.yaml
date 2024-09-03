@@ -29,7 +29,7 @@ keywords:
     "Embodied Agent":
         filters: ["Embodied Agent", "LLM Agent"]
     "Embodied AI": 
-        filters: ["Embodied AI", "Embodied AI Survey"]
+        filters: ["Embodied AI", "Embodied AI Survey", "Embodied Model", "Embodied Manipulation"]
     "Vision Language Action Model": 
         filters: ["Vision Language Action Model", "Vision Language Action"]
     "Vision Language Navigation Model":

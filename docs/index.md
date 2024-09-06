@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving**|Julong Wei et.al.|[2409.03272](http://arxiv.org/abs/2409.03272)|null|
 |**2024-09-04**|**MOSMOS: Multi-organ segmentation facilitated by medical report supervision**|Weiwei Tian et.al.|[2409.02418](http://arxiv.org/abs/2409.02418)|null|
 |**2024-09-03**|**How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?**|Saeid Asgari Taghanaki et.al.|[2409.02253](http://arxiv.org/abs/2409.02253)|null|
 |**2024-09-03**|**Blocks as Probes: Dissecting Categorization Ability of Large Multimodal Models**|Bin Fu et.al.|[2409.01560](http://arxiv.org/abs/2409.01560)|null|
@@ -71,6 +72,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Rx Strategist: Prescription Verification using LLM Agents System**|Phuc Phan Van et.al.|[2409.03440](http://arxiv.org/abs/2409.03440)|null|
+|**2024-09-05**|**Game On: Towards Language Models as RL Experimenters**|Jingwei Zhang et.al.|[2409.03402](http://arxiv.org/abs/2409.03402)|null|
+|**2024-09-05**|**GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding**|Yukun Cao et.al.|[2409.03258](http://arxiv.org/abs/2409.03258)|null|
+|**2024-09-05**|**E2CL: Exploration-based Error Correction Learning for Embodied Agents**|Hanlin Wang et.al.|[2409.03256](http://arxiv.org/abs/2409.03256)|null|
 |**2024-09-02**|**Evolution of Social Norms in LLM Agents using Natural Language**|Ilya Horiguchi et.al.|[2409.00993](http://arxiv.org/abs/2409.00993)|null|
 |**2024-09-01**|**JaxLife: An Open-Ended Agentic Simulator**|Chris Lu et.al.|[2409.00853](http://arxiv.org/abs/2409.00853)|**[link](https://github.com/luchris429/jaxlife)**|
 |**2024-08-20**|**Automating Knowledge Discovery from Scientific Literature via LLMs: A Dual-Agent Approach with Progressive Ontology Prompting**|Yuting Hu et.al.|[2409.00054](http://arxiv.org/abs/2409.00054)|null|
@@ -131,6 +136,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving**|Julong Wei et.al.|[2409.03272](http://arxiv.org/abs/2409.03272)|null|
 |**2024-08-19**|**CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving**|Hidehisa Arai et.al.|[2408.10845](http://arxiv.org/abs/2408.10845)|null|
 |**2024-08-02**|**Actra: Optimized Transformer Architecture for Vision-Language-Action Models in Robot Learning**|Yueen Ma et.al.|[2408.01147](http://arxiv.org/abs/2408.01147)|null|
 |**2024-07-12**|**Robotic Control via Embodied Chain-of-Thought Reasoning**|Michał Zawalski et.al.|[2407.08693](http://arxiv.org/abs/2407.08693)|null|

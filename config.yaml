@@ -24,6 +24,8 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "Embodied Question Answering":
         filters: ["Embodied Question Answering", "3D Environment Question Answering"]
+    "Embodied Navigation":
+        filters: ["Embodied Navigation", "Embodied Exploration", "Object-goal Navigation", "ObjectNav", "InstanceImageNav"]
     "Visual Question Answering":
         filters: ["Visual Question Answering", "3D Visual Question Answering"]
     "Embodied Agent":
@@ -33,5 +35,5 @@ keywords:
     "Vision Language Action Model": 
         filters: ["Vision Language Action Model", "Vision Language Action"]
     "Vision Language Navigation Model":
-        filters: ["Vision Language Navigation Model", "Vision Language Navigation", "Embodied Navigation"]
+        filters: ["Vision Language Navigation Model", "Vision Language Navigation"]
         

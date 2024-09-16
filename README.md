@@ -77,7 +77,7 @@
 |**2024-08-21**|**V-RoAst: A New Dataset for Visual Road Assessment**|Natchapon Jongwiriyanurak et.al.|[2408.10872](http://arxiv.org/abs/2408.10872)|**[link](https://github.com/PongNJ/V-RoAst)**|
 |**2024-08-18**|**PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding**|Dawei Dai et.al.|[2408.09530](http://arxiv.org/abs/2408.09530)|**[link](https://github.com/ddw2aigroup2cqupt/pa-llava)**|
 |**2024-08-17**|**FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection**|Jiaqi Wang et.al.|[2408.09227](http://arxiv.org/abs/2408.09227)|**[link](https://github.com/psudslab/FEDMEKI)**|
-|**2024-08-16**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|null|
+|**2024-08-16**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|**[link](https://github.com/guangyans/sys2-llava)**|
 |**2024-08-16**|**Beyond the Hype: A dispassionate look at vision-language models in medical scenario**|Yang Nan et.al.|[2408.08704](http://arxiv.org/abs/2408.08704)|null|
 |**2024-08-16**|**Med-PMC: Medical Personalized Multi-modal Consultation with a Proactive Ask-First-Observe-Next Paradigm**|Hongcheng Liu et.al.|[2408.08693](http://arxiv.org/abs/2408.08693)|**[link](https://github.com/liuhc0428/med-pmc)**|
 |**2024-08-16**|**A Survey on Benchmarks of Multimodal Large Language Models**|Jian Li et.al.|[2408.08632](http://arxiv.org/abs/2408.08632)|**[link](https://github.com/swordlidev/evaluation-multimodal-llms-survey)**|
@@ -93,10 +93,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-10**|**MAGDA: Multi-agent guideline-driven diagnostic assistance**|David Bani-Harouni et.al.|[2409.06351](http://arxiv.org/abs/2409.06351)|null|
-|**2024-09-09**|**Interpretable Responsibility Sharing as a Heuristic for Task and Motion Planning**|Arda Sarp Yenicesu et.al.|[2409.05586](http://arxiv.org/abs/2409.05586)|null|
+|**2024-09-09**|**Interpretable Responsibility Sharing as a Heuristic for Task and Motion Planning**|Arda Sarp Yenicesu et.al.|[2409.05586](http://arxiv.org/abs/2409.05586)|**[link](https://github.com/asyncs/irs)**|
 |**2024-09-09**|**Seeing is Believing? Enhancing Vision-Language Navigation using Visual Perturbations**|Xuesong Zhang et.al.|[2409.05552](http://arxiv.org/abs/2409.05552)|null|
-|**2024-09-08**|**A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement**|Huan Zhang et.al.|[2409.05001](http://arxiv.org/abs/2409.05001)|null|
-|**2024-09-06**|**Sparse Rewards Can Self-Train Dialogue Agents**|Barrett Martin Lattimer et.al.|[2409.04617](http://arxiv.org/abs/2409.04617)|null|
+|**2024-09-08**|**A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement**|Huan Zhang et.al.|[2409.05001](http://arxiv.org/abs/2409.05001)|**[link](https://github.com/nju-websoft/paircoder)**|
+|**2024-09-06**|**Sparse Rewards Can Self-Train Dialogue Agents**|Barrett Martin Lattimer et.al.|[2409.04617](http://arxiv.org/abs/2409.04617)|**[link](https://github.com/asappresearch/josh-llm-simulation-training)**|
 |**2024-09-05**|**Rx Strategist: Prescription Verification using LLM Agents System**|Phuc Phan Van et.al.|[2409.03440](http://arxiv.org/abs/2409.03440)|null|
 |**2024-09-05**|**Game On: Towards Language Models as RL Experimenters**|Jingwei Zhang et.al.|[2409.03402](http://arxiv.org/abs/2409.03402)|null|
 |**2024-09-05**|**GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding**|Yukun Cao et.al.|[2409.03258](http://arxiv.org/abs/2409.03258)|null|

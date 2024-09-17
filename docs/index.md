@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-30**|**MFE-ETP: A Comprehensive Evaluation Benchmark for Multi-modal Foundation Models on Embodied Task Planning**|Min Zhang et.al.|[2407.05047](http://arxiv.org/abs/2407.05047)|**[link](https://github.com/TJURLLAB-EAI/MFE-ETP)**|
-|**2024-06-25**|**Embodied Question Answering via Multi-LLM Systems**|Bhrij Patel et.al.|[2406.10918](http://arxiv.org/abs/2406.10918)|null|
+|**2024-09-16**|**Central Answer Modeling for an Embodied Multi-LLM System**|Bhrij Patel et.al.|[2406.10918](http://arxiv.org/abs/2406.10918)|null|
 |**2024-05-26**|**Map-based Modular Approach for Zero-shot Embodied Question Answering**|Koya Sakamoto et.al.|[2405.16559](http://arxiv.org/abs/2405.16559)|null|
 |**2024-05-08**|**S-EQA: Tackling Situational Queries in Embodied Question Answering**|Vishnu Sashank Dorbala et.al.|[2405.04732](http://arxiv.org/abs/2405.04732)|null|
 |**2024-07-07**|**Explore until Confident: Efficient Exploration for Embodied Question Answering**|Allen Z. Ren et.al.|[2403.15941](http://arxiv.org/abs/2403.15941)|null|
@@ -39,6 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-15**|**Explore the Hallucination on Low-level Perception for MLLMs**|Yinan Sun et.al.|[2409.09748](http://arxiv.org/abs/2409.09748)|null|
+|**2024-09-15**|**NEVLP: Noise-Robust Framework for Efficient Vision-Language Pre-training**|Yiyi Tao et.al.|[2409.09582](http://arxiv.org/abs/2409.09582)|null|
+|**2024-09-14**|**One missing piece in Vision and Language: A Survey on Comics Understanding**|Emanuele Vivoli et.al.|[2409.09502](http://arxiv.org/abs/2409.09502)|**[link](https://github.com/emanuelevivoli/awesome-comics-understanding)**|
+|**2024-09-14**|**Guiding Vision-Language Model Selection for Visual Question-Answering Across Tasks, Domains, and Knowledge Types**|Neelabh Sinha et.al.|[2409.09269](http://arxiv.org/abs/2409.09269)|null|
 |**2024-09-11**|**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**|Md Zarif Hossain et.al.|[2409.07353](http://arxiv.org/abs/2409.07353)|**[link](https://github.com/speedlab-git/robust-encoder-against-jailbreak-attack)**|
 |**2024-09-11**|**Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering**|Weixi Weng et.al.|[2409.07331](http://arxiv.org/abs/2409.07331)|null|
 |**2024-09-10**|**LIME-M: Less Is More for Evaluation of MLLMs**|Kang Zhu et.al.|[2409.06851](http://arxiv.org/abs/2409.06851)|**[link](https://github.com/kangreen0210/lime-m)**|
@@ -79,6 +83,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Instigating Cooperation among LLM Agents Using Adaptive Information Modulation**|Qiliang Chen et.al.|[2409.10372](http://arxiv.org/abs/2409.10372)|null|
+|**2024-09-16**|**E2Map: Experience-and-Emotion Map for Self-Reflective Robot Navigation with Language Models**|Chan Kim et.al.|[2409.10027](http://arxiv.org/abs/2409.10027)|null|
+|**2024-09-15**|**Automatic Control With Human-Like Reasoning: Exploring Language Model Embodied Air Traffic Agents**|Justas Andriuškevičius et.al.|[2409.09717](http://arxiv.org/abs/2409.09717)|null|
+|**2024-09-15**|**RethinkMCTS: Refining Erroneous Thoughts in Monte Carlo Tree Search for Code Generation**|Qingyao Li et.al.|[2409.09584](http://arxiv.org/abs/2409.09584)|null|
+|**2024-09-14**|**Enhancing Decision-Making for LLM Agents via Step-Level Q-Value Models**|Yuanzhao Zhai et.al.|[2409.09345](http://arxiv.org/abs/2409.09345)|null|
+|**2024-09-14**|**Python Symbolic Execution with LLM-powered Code Generation**|Wenhan Wang et.al.|[2409.09271](http://arxiv.org/abs/2409.09271)|null|
 |**2024-09-13**|**AI-LieDar: Examine the Trade-off Between Utility and Truthfulness in LLM Agents**|Zhe Su et.al.|[2409.09013](http://arxiv.org/abs/2409.09013)|null|
 |**2024-09-13**|**Safeguarding Decentralized Social Media: LLM Agents for Automating Community Rule Compliance**|Lucio La Cava et.al.|[2409.08963](http://arxiv.org/abs/2409.08963)|null|
 |**2024-09-10**|**MAGDA: Multi-agent guideline-driven diagnostic assistance**|David Bani-Harouni et.al.|[2409.06351](http://arxiv.org/abs/2409.06351)|null|
@@ -179,6 +189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**ASMA: An Adaptive Safety Margin Algorithm for Vision-Language Drone Navigation via Scene-Aware Control Barrier Functions**|Sourav Sanyal et.al.|[2409.10283](http://arxiv.org/abs/2409.10283)|null|
 |**2024-09-09**|**StratXplore: Strategic Novelty-seeking and Instruction-aligned Exploration for Vision and Language Navigation**|Muraleekrishna Gopinathan et.al.|[2409.05593](http://arxiv.org/abs/2409.05593)|null|
 |**2024-09-09**|**Seeing is Believing? Enhancing Vision-Language Navigation using Visual Perturbations**|Xuesong Zhang et.al.|[2409.05552](http://arxiv.org/abs/2409.05552)|null|
 |**2024-09-04**|**Vision-Language Navigation with Continual Learning**|Zhiyuan Li et.al.|[2409.02561](http://arxiv.org/abs/2409.02561)|null|
@@ -208,6 +219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Towards Physically-Realizable Adversarial Attacks in Embodied Vision Navigation**|Meng Chen et.al.|[2409.10071](http://arxiv.org/abs/2409.10071)|**[link](https://github.com/chen37058/physical-attacks-in-embodied-navigation)**|
 |**2024-09-09**|**StratXplore: Strategic Novelty-seeking and Instruction-aligned Exploration for Vision and Language Navigation**|Muraleekrishna Gopinathan et.al.|[2409.05593](http://arxiv.org/abs/2409.05593)|null|
 |**2024-08-11**|**Is Generative Communication between Embodied Agents Good for Zero-Shot ObjectNav?**|Vishnu Sashank Dorbala et.al.|[2408.01877](http://arxiv.org/abs/2408.01877)|null|
 |**2024-07-20**|**DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-level Control**|Xinyu Xu et.al.|[2407.14758](http://arxiv.org/abs/2407.14758)|**[link](https://github.com/allenxuuu/disco)**|

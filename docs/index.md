@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -138,7 +138,7 @@ layout: default
 |**2024-09-03**|**PR2: A Physics- and Photo-realistic Testbed for Embodied AI and Humanoid Robots**|Hangxin Liu et.al.|[2409.01559](http://arxiv.org/abs/2409.01559)|**[link](https://github.com/pr2-humanoid/PR2-Platform)**|
 |**2024-08-16**|**Navigating the sociotechnical labyrinth: Dynamic certification for responsible embodied AI**|Georgios Bakirtzis et.al.|[2409.00015](http://arxiv.org/abs/2409.00015)|null|
 |**2024-08-21**|**A Survey of Embodied Learning for Object-Centric Robotic Manipulation**|Ying Zheng et.al.|[2408.11537](http://arxiv.org/abs/2408.11537)|**[link](https://github.com/rayyoh/ocrm_survey)**|
-|**2024-08-21**|**Multimodal Datasets and Benchmarks for Reasoning about Dynamic Spatio-Temporality in Everyday Environments**|Takanori Ugai et.al.|[2408.11347](http://arxiv.org/abs/2408.11347)|null|
+|**2024-09-17**|**Multimodal Datasets and Benchmarks for Reasoning about Dynamic Spatio-Temporality in Everyday Environments**|Takanori Ugai et.al.|[2408.11347](http://arxiv.org/abs/2408.11347)|null|
 |**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|**[link](https://github.com/xyz9911/FLAME)**|
 |**2024-08-20**|**All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents**|Zhiqiang Wang et.al.|[2408.10899](http://arxiv.org/abs/2408.10899)|null|
 |**2024-08-15**|**EmBARDiment: an Embodied AI Agent for Productivity in XR**|Riccardo Bovo et.al.|[2408.08158](http://arxiv.org/abs/2408.08158)|null|

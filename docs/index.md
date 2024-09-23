@@ -56,7 +56,7 @@ layout: default
 |**2024-09-06**|**COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes**|Koen Kraaijveld et.al.|[2409.04053](http://arxiv.org/abs/2409.04053)|null|
 |**2024-09-05**|**OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving**|Julong Wei et.al.|[2409.03272](http://arxiv.org/abs/2409.03272)|null|
 |**2024-09-04**|**MOSMOS: Multi-organ segmentation facilitated by medical report supervision**|Weiwei Tian et.al.|[2409.02418](http://arxiv.org/abs/2409.02418)|null|
-|**2024-09-03**|**How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?**|Saeid Asgari Taghanaki et.al.|[2409.02253](http://arxiv.org/abs/2409.02253)|null|
+|**2024-09-03**|**How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?**|Saeid Asgari Taghanaki et.al.|[2409.02253](http://arxiv.org/abs/2409.02253)|**[link](https://github.com/asgsaeid/cad_vqa)**|
 |**2024-09-03**|**Blocks as Probes: Dissecting Categorization Ability of Large Multimodal Models**|Bin Fu et.al.|[2409.01560](http://arxiv.org/abs/2409.01560)|null|
 |**2024-09-02**|**Kvasir-VQA: A Text-Image Pair GI Tract Dataset**|Sushant Gautam et.al.|[2409.01437](http://arxiv.org/abs/2409.01437)|**[link](https://github.com/simula/Kvasir-VQA)**|
 |**2024-08-27**|**Zero-Shot Visual Reasoning by Vision-Language Models: Benchmarking and Analysis**|Aishik Nagar et.al.|[2409.00106](http://arxiv.org/abs/2409.00106)|null|
@@ -181,7 +181,7 @@ layout: default
 |**2024-06-28**|**HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid**|Xinyu Xu et.al.|[2406.19972](http://arxiv.org/abs/2406.19972)|**[link](https://github.com/AllenXuuu/HumanVLA)**|
 |**2024-06-23**|**Towards Natural Language-Driven Assembly Using Foundation Models**|Omkar Joglekar et.al.|[2406.16093](http://arxiv.org/abs/2406.16093)|null|
 |**2024-09-05**|**OpenVLA: An Open-Source Vision-Language-Action Model**|Moo Jin Kim et.al.|[2406.09246](http://arxiv.org/abs/2406.09246)|null|
-|**2024-05-31**|**Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning**|Yang Chen et.al.|[2405.20606](http://arxiv.org/abs/2405.20606)|null|
+|**2024-05-31**|**Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning**|Yang Chen et.al.|[2405.20606](http://arxiv.org/abs/2405.20606)|**[link](https://github.com/cseeyangchen/c2vl)**|
 |**2024-05-23**|**A Survey on Vision-Language-Action Models for Embodied AI**|Yueen Ma et.al.|[2405.14093](http://arxiv.org/abs/2405.14093)|null|
 |**2024-08-19**|**Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations**|Koffivi Fidèle Gbagbe et.al.|[2405.06039](http://arxiv.org/abs/2405.06039)|null|
 |**2024-08-11**|**LEGENT: Open Platform for Embodied Agents**|Zhili Cheng et.al.|[2404.18243](http://arxiv.org/abs/2404.18243)|null|

@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**A Unified Hallucination Mitigation Framework for Large Vision-Language Models**|Yue Chang et.al.|[2409.16494](http://arxiv.org/abs/2409.16494)|null|
 |**2024-09-23**|**MediConfusion: Can you trust your AI radiologist? Probing the reliability of multimodal medical foundation models**|Mohammad Shahab Sepehri et.al.|[2409.15477](http://arxiv.org/abs/2409.15477)|**[link](https://github.com/mshahabsepehri/mediconfusion)**|
 |**2024-09-23**|**Detect, Describe, Discriminate: Moving Beyond VQA for MLLM Evaluation**|Manu Gaur et.al.|[2409.15125](http://arxiv.org/abs/2409.15125)|null|
 |**2024-09-23**|**Can CLIP Count Stars? An Empirical Study on Quantity Bias in CLIP**|Zeliang Zhang et.al.|[2409.15035](http://arxiv.org/abs/2409.15035)|null|
@@ -107,6 +108,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making**|Dayuan Fu et.al.|[2409.16686](http://arxiv.org/abs/2409.16686)|null|
+|**2024-09-24**|**MultiTalk: Introspective and Extrospective Dialogue for Human-Environment-LLM Alignment**|Venkata Naren Devarakonda et.al.|[2409.16455](http://arxiv.org/abs/2409.16455)|null|
 |**2024-09-23**|**Safe Guard: an LLM-agent for Real-time Voice-based Hate Speech Detection in Social Virtual Reality**|Yiwen Xu et.al.|[2409.15623](http://arxiv.org/abs/2409.15623)|null|
 |**2024-09-25**|**Towards a Realistic Long-Term Benchmark for Open-Web Research Agents**|Peter Mühlbacher et.al.|[2409.14913](http://arxiv.org/abs/2409.14913)|null|
 |**2024-09-23**|**KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems**|Zixuan Wang et.al.|[2409.14908](http://arxiv.org/abs/2409.14908)|null|

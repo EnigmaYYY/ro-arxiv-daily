@@ -40,6 +40,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**World to Code: Multi-modal Data Generation via Self-Instructed Compositional Captioning and Filtering**|Jiacong Wang et.al.|[2409.20424](http://arxiv.org/abs/2409.20424)|null|
+|**2024-09-29**|**T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition**|Chen Yeh et.al.|[2409.19734](http://arxiv.org/abs/2409.19734)|**[link](https://github.com/nctu-eva-lab/vhd11k)**|
+|**2024-09-28**|**3D-CT-GPT: Generating 3D Radiology Reports through Integration of Large Vision-Language Models**|Hao Chen et.al.|[2409.19330](http://arxiv.org/abs/2409.19330)|null|
+|**2024-09-28**|**TrojVLM: Backdoor Attack Against Vision Language Models**|Weimin Lyu et.al.|[2409.19232](http://arxiv.org/abs/2409.19232)|null|
 |**2024-09-27**|**Charting the Future: Using Chart Question-Answering for Scalable Evaluation of LLM-Driven Data Visualizations**|James Ford et.al.|[2409.18764](http://arxiv.org/abs/2409.18764)|null|
 |**2024-09-27**|**Enhancing Explainability in Multimodal Large Language Models Using Ontological Context**|Jihen Amara et.al.|[2409.18753](http://arxiv.org/abs/2409.18753)|null|
 |**2024-09-26**|**DARE: Diverse Visual Question Answering with Robustness Evaluation**|Hannah Sterz et.al.|[2409.18023](http://arxiv.org/abs/2409.18023)|null|
@@ -101,6 +105,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-29**|**Grounding 3D Scene Affordance From Egocentric Interactions**|Cuiyu Liu et.al.|[2409.19650](http://arxiv.org/abs/2409.19650)|null|
+|**2024-09-28**|**Spatial Reasoning and Planning for Deep Embodied Agents**|Shu Ishida et.al.|[2409.19479](http://arxiv.org/abs/2409.19479)|null|
+|**2024-09-28**|**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**|Ahmad Khaliq et.al.|[2409.19293](http://arxiv.org/abs/2409.19293)|**[link](https://github.com/ahmedest61/vlad-buff)**|
 |**2024-09-26**|**Embodied-RAG: General non-parametric Embodied Memory for Retrieval and Generation**|Quanting Xie et.al.|[2409.18313](http://arxiv.org/abs/2409.18313)|null|
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
 |**2024-09-25**|**AAPM: Large Language Model Agent-based Asset Pricing Models**|Junyan Cheng et.al.|[2409.17266](http://arxiv.org/abs/2409.17266)|null|
@@ -166,6 +173,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-28**|**Language-guided Robust Navigation for Mobile Robots in Dynamically-changing Environments**|Cody Simons et.al.|[2409.19459](http://arxiv.org/abs/2409.19459)|null|
 |**2024-09-27**|**MiniVLN: Efficient Vision-and-Language Navigation by Progressive Knowledge Distillation**|Junyou Zhu et.al.|[2409.18800](http://arxiv.org/abs/2409.18800)|null|
 |**2024-09-24**|**AIR-Embodied: An Efficient Active 3DGS-based Interaction and Reconstruction Framework with Embodied Large Language Model**|Zhenghao Qi et.al.|[2409.16019](http://arxiv.org/abs/2409.16019)|null|
 |**2024-09-24**|**ReLEP: A Novel Framework for Real-world Long-horizon Embodied Planning**|Siyuan Liu et.al.|[2409.15658](http://arxiv.org/abs/2409.15658)|null|
@@ -205,6 +213,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-29**|**RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model**|Shunlei Li et.al.|[2409.19590](http://arxiv.org/abs/2409.19590)|null|
 |**2024-09-23**|**ReVLA: Reverting Visual Domain Limitation of Robotic Foundation Models**|Sombit Dey et.al.|[2409.15250](http://arxiv.org/abs/2409.15250)|null|
 |**2024-09-20**|**Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models**|Hao Cheng et.al.|[2409.13174](http://arxiv.org/abs/2409.13174)|null|
 |**2024-09-19**|**Towards Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation: An Empirical Study**|Zhijie Wang et.al.|[2409.12894](http://arxiv.org/abs/2409.12894)|null|

@@ -124,6 +124,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents**|Junpeng Yue et.al.|[2410.03450](http://arxiv.org/abs/2410.03450)|null|
+|**2024-10-04**|**Permissive Information-Flow Analysis for Large Language Models**|Shoaib Ahmed Siddiqui et.al.|[2410.03055](http://arxiv.org/abs/2410.03055)|null|
+|**2024-10-03**|**Bayesian Mechanics of Synaptic Learning under the Free Energy Principle**|Chang Sub Kim et.al.|[2410.02972](http://arxiv.org/abs/2410.02972)|null|
+|**2024-10-03**|**AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML**|Patara Trirat et.al.|[2410.02958](http://arxiv.org/abs/2410.02958)|null|
 |**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
 |**2024-10-03**|**Grounding Large Language Models In Embodied Environment With Imperfect World Models**|Haolan Liu et.al.|[2410.02742](http://arxiv.org/abs/2410.02742)|null|
 |**2024-10-03**|**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**|Zhaowei Wang et.al.|[2410.02730](http://arxiv.org/abs/2410.02730)|null|
@@ -203,6 +207,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**MO-DDN: A Coarse-to-Fine Attribute-based Exploration Agent for Multi-object Demand-driven Navigation**|Hongcheng Wang et.al.|[2410.03488](http://arxiv.org/abs/2410.03488)|null|
 |**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
 |**2024-10-02**|**SonicSim: A customizable simulation platform for speech processing in moving sound source scenarios**|Kai Li et.al.|[2410.01481](http://arxiv.org/abs/2410.01481)|**[link](https://github.com/jusperlee/sonicsim)**|
 |**2024-10-02**|**Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks**|Yue Zhong et.al.|[2410.01176](http://arxiv.org/abs/2410.01176)|null|

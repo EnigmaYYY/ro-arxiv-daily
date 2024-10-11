@@ -51,6 +51,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**|Shengcao Cao et.al.|[2410.08209](http://arxiv.org/abs/2410.08209)|null|
+|**2024-10-09**|**Retrieval Replace Reduction: An effective visual token reduction method via semantic match**|Yingen Liu et.al.|[2410.07278](http://arxiv.org/abs/2410.07278)|null|
 |**2024-10-08**|**ERVQA: A Dataset to Benchmark the Readiness of Large Vision Language Models in Hospital Environments**|Sourjyadip Ray et.al.|[2410.06420](http://arxiv.org/abs/2410.06420)|**[link](https://github.com/sourjyadip/ervqa-data)**|
 |**2024-10-08**|**Beyond Captioning: Task-Specific Prompting for Improved VLM Performance in Mathematical Reasoning**|Ayush Singh et.al.|[2410.05928](http://arxiv.org/abs/2410.05928)|null|
 |**2024-10-08**|**Core Tokensets for Data-efficient Sequential Training of Transformers**|Subarnaduti Paul et.al.|[2410.05800](http://arxiv.org/abs/2410.05800)|null|
@@ -133,8 +135,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Benchmarking Agentic Workflow Generation**|Shuofei Qiao et.al.|[2410.07869](http://arxiv.org/abs/2410.07869)|null|
+|**2024-10-10**|**AgentBank: Towards Generalized LLM Agents via Fine-Tuning on 50000+ Interaction Trajectories**|Yifan Song et.al.|[2410.07706](http://arxiv.org/abs/2410.07706)|null|
+|**2024-10-09**|**WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents**|Siyu Zhou et.al.|[2410.07484](http://arxiv.org/abs/2410.07484)|null|
 |**2024-10-09**|**Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**|Manling Li et.al.|[2410.07166](http://arxiv.org/abs/2410.07166)|**[link](https://github.com/embodied-agent-interface/embodied-agent-interface)**|
-|**2024-10-09**|**I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**|Gian Maria Campedelli et.al.|[2410.07109](http://arxiv.org/abs/2410.07109)|null|
+|**2024-10-09**|**I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**|Gian Maria Campedelli et.al.|[2410.07109](http://arxiv.org/abs/2410.07109)|**[link](https://github.com/mobs-fbk/llm_interaction_simulator)**|
 |**2024-10-09**|**Reproducing and Extending Experiments in Behavioral Strategy with Large Language Models**|Daniel Albert et.al.|[2410.06932](http://arxiv.org/abs/2410.06932)|null|
 |**2024-10-09**|**M ${}^{3}$ Bench: Benchmarking Whole-body Motion Generation for Mobile Manipulation in 3D Scenes**|Zeyu Zhang et.al.|[2410.06678](http://arxiv.org/abs/2410.06678)|null|
 |**2024-10-08**|**AgentSquare: Automatic LLM Agent Search in Modular Design Space**|Yu Shang et.al.|[2410.06153](http://arxiv.org/abs/2410.06153)|**[link](https://github.com/tsinghua-fib-lab/agentsquare)**|
@@ -225,6 +230,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**SPA: 3D Spatial-Awareness Enables Effective Embodied Representation**|Haoyi Zhu et.al.|[2410.08208](http://arxiv.org/abs/2410.08208)|null|
 |**2024-10-09**|**Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**|Manling Li et.al.|[2410.07166](http://arxiv.org/abs/2410.07166)|**[link](https://github.com/embodied-agent-interface/embodied-agent-interface)**|
 |**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|null|
 |**2024-10-08**|**FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance**|Ruocheng Wang et.al.|[2410.05791](http://arxiv.org/abs/2410.05791)|null|
@@ -277,6 +283,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation**|Qingwen Bu et.al.|[2410.08001](http://arxiv.org/abs/2410.08001)|null|
 |**2024-09-12**|**HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers**|Jianke Zhang et.al.|[2410.05273](http://arxiv.org/abs/2410.05273)|null|
 |**2024-10-07**|**LADEV: A Language-Driven Testing and Evaluation Platform for Vision-Language-Action Models in Robotic Manipulation**|Zhijie Wang et.al.|[2410.05191](http://arxiv.org/abs/2410.05191)|null|
 |**2024-10-02**|**Run-time Observation Interventions Make Vision-Language-Action Models More Visually Robust**|Asher J. Hancock et.al.|[2410.01971](http://arxiv.org/abs/2410.01971)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -295,7 +295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-09**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|
+|**2024-10-10**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|
 |**2024-09-25**|**Navigating the Nuances: A Fine-grained Evaluation of Vision-Language Navigation**|Zehao Wang et.al.|[2409.17313](http://arxiv.org/abs/2409.17313)|null|
 |**2024-09-16**|**ASMA: An Adaptive Safety Margin Algorithm for Vision-Language Drone Navigation via Scene-Aware Control Barrier Functions**|Sourav Sanyal et.al.|[2409.10283](http://arxiv.org/abs/2409.10283)|null|
 |**2024-09-09**|**StratXplore: Strategic Novelty-seeking and Instruction-aligned Exploration for Vision and Language Navigation**|Muraleekrishna Gopinathan et.al.|[2409.05593](http://arxiv.org/abs/2409.05593)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -41,7 +41,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-14**|**Towards Foundation Models for 3D Vision: How Close Are We?**|Yiming Zuo et.al.|[2410.10799](http://arxiv.org/abs/2410.10799)|null|
-|**2024-10-14**|**LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content**|Nimrod Shabtay et.al.|[2410.10783](http://arxiv.org/abs/2410.10783)|**[link](https://github.com/nimrodshabtay/livexiv)**|
+|**2024-10-15**|**LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content**|Nimrod Shabtay et.al.|[2410.10783](http://arxiv.org/abs/2410.10783)|**[link](https://github.com/nimrodshabtay/livexiv)**|
 |**2024-10-14**|**Eliminating the Language Bias for Visual Question Answering with fine-grained Causal Intervention**|Ying Liu et.al.|[2410.10184](http://arxiv.org/abs/2410.10184)|null|
 |**2024-10-13**|**Surgical-LLaVA: Toward Surgical Scenario Understanding via Large Language and Vision Models**|Juseong Jin et.al.|[2410.09750](http://arxiv.org/abs/2410.09750)|null|
 |**2024-10-13**|**MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models**|Hang Hua et.al.|[2410.09733](http://arxiv.org/abs/2410.09733)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -41,8 +41,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-29**|**Are VLMs Really Blind**|Ayush Singh et.al.|[2410.22029](http://arxiv.org/abs/2410.22029)|null|
-|**2024-10-29**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259](http://arxiv.org/abs/2410.21259)|**[link](https://github.com/wad3birch/AutoBench-V)**|
+|**2024-10-29**|**Are VLMs Really Blind**|Ayush Singh et.al.|[2410.22029](http://arxiv.org/abs/2410.22029)|**[link](https://github.com/vlgiitr/Are-VLMs-Really-Blind)**|
+|**2024-10-29**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259](http://arxiv.org/abs/2410.21259)|null|
 |**2024-10-28**|**Efficient Bilinear Attention-based Fusion for Medical Visual Question Answering**|Zhilin Zhang et.al.|[2410.21000](http://arxiv.org/abs/2410.21000)|null|
 |**2024-10-28**|**Attention Overlap Is Responsible for The Entity Missing Problem in Text-to-image Diffusion Models!**|Arash Marioriyad et.al.|[2410.20972](http://arxiv.org/abs/2410.20972)|null|
 |**2024-10-28**|**Face-MLLM: A Large Face Perception Model**|Haomiao Sun et.al.|[2410.20717](http://arxiv.org/abs/2410.20717)|null|

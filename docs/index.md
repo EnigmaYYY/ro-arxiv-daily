@@ -41,6 +41,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**SparrowVQE: Visual Question Explanation for Course Content Understanding**|Jialu Li et.al.|[2411.07516](http://arxiv.org/abs/2411.07516)|**[link](https://github.com/youshanzhang/sparrowvqe)**|
 |**2024-11-08**|**Aligned Vector Quantization for Edge-Cloud Collabrative Vision-Language Models**|Xiao Liu et.al.|[2411.05961](http://arxiv.org/abs/2411.05961)|null|
 |**2024-11-08**|**Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent**|Linfeng He et.al.|[2411.05898](http://arxiv.org/abs/2411.05898)|null|
 |**2024-11-05**|**From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing**|Xintian Sun et.al.|[2411.05826](http://arxiv.org/abs/2411.05826)|null|
@@ -189,7 +190,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-10**|**Hermes: A Large Language Model Framework on the Journey to Autonomous Networks**|Fadhel Ayed et.al.|[2411.06490](http://arxiv.org/abs/2411.06490)|null|
-|**2024-11-08**|**Game-theoretic LLM: Agent Workflow for Negotiation Games**|Wenyue Hua et.al.|[2411.05990](http://arxiv.org/abs/2411.05990)|**[link](https://github.com/wenyueh/game_theory)**|
+|**2024-11-12**|**Game-theoretic LLM: Agent Workflow for Negotiation Games**|Wenyue Hua et.al.|[2411.05990](http://arxiv.org/abs/2411.05990)|**[link](https://github.com/wenyueh/game_theory)**|
 |**2024-11-08**|**LightVA: Lightweight Visual Analytics with LLM Agent-Based Task Planning and Execution**|Yuheng Zhao et.al.|[2411.05651](http://arxiv.org/abs/2411.05651)|null|
 |**2024-11-08**|**Enhancing Robustness in Language-Driven Robotics: A Modular Approach to Failure Reduction**|Émiland Garrabé et.al.|[2411.05474](http://arxiv.org/abs/2411.05474)|null|
 |**2024-11-08**|**Enhancing Cluster Resilience: LLM-agent Based Autonomous Intelligent Cluster Diagnosis System and Evaluation Framework**|Honghao Shi et.al.|[2411.05349](http://arxiv.org/abs/2411.05349)|null|
@@ -360,7 +361,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-11**|**Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory**|Junyeong Park et.al.|[2411.06736](http://arxiv.org/abs/2411.06736)|null|
+|**2024-11-12**|**Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory**|Junyeong Park et.al.|[2411.06736](http://arxiv.org/abs/2411.06736)|null|
 |**2024-11-08**|**Autoregressive Models in Vision: A Survey**|Jing Xiong et.al.|[2411.05902](http://arxiv.org/abs/2411.05902)|**[link](https://github.com/chaofantao/autoregressive-models-in-vision-survey)**|
 |**2024-11-04**|**3D Audio-Visual Segmentation**|Artem Sokolov et.al.|[2411.02236](http://arxiv.org/abs/2411.02236)|null|
 |**2024-10-17**|**IGOR: Image-GOal Representations are the Atomic Control Units for Foundation Models in Embodied AI**|Xiaoyu Chen et.al.|[2411.00785](http://arxiv.org/abs/2411.00785)|null|
@@ -464,6 +465,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**NL-SLAM for OC-VLN: Natural Language Grounded SLAM for Object-Centric VLN**|Sonia Raychaudhuri et.al.|[2411.07848](http://arxiv.org/abs/2411.07848)|null|
 |**2024-11-06**|**To Ask or Not to Ask? Detecting Absence of Information in Vision and Language Navigation**|Savitha Sam Abraham et.al.|[2411.05831](http://arxiv.org/abs/2411.05831)|null|
 |**2024-10-18**|**Vision-Language Navigation with Energy-Based Policy**|Rui Liu et.al.|[2410.14250](http://arxiv.org/abs/2410.14250)|null|
 |**2024-10-10**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|

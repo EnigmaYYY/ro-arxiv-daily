@@ -52,6 +52,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**Open-World Task and Motion Planning via Vision-Language Model Inferred Constraints**|Nishanth Kumar et.al.|[2411.08253](http://arxiv.org/abs/2411.08253)|null|
 |**2024-11-12**|**SparrowVQE: Visual Question Explanation for Course Content Understanding**|Jialu Li et.al.|[2411.07516](http://arxiv.org/abs/2411.07516)|**[link](https://github.com/youshanzhang/sparrowvqe)**|
 |**2024-11-08**|**Aligned Vector Quantization for Edge-Cloud Collabrative Vision-Language Models**|Xiao Liu et.al.|[2411.05961](http://arxiv.org/abs/2411.05961)|null|
 |**2024-11-08**|**Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent**|Linfeng He et.al.|[2411.05898](http://arxiv.org/abs/2411.05898)|null|
@@ -202,6 +203,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**NavAgent: Multi-scale Urban Street View Fusion For UAV Embodied Vision-and-Language Navigation**|Youzhi Liu et.al.|[2411.08579](http://arxiv.org/abs/2411.08579)|null|
+|**2024-11-13**|**Towards Evaluating Large Language Models for Graph Query Generation**|Siraj Munir et.al.|[2411.08449](http://arxiv.org/abs/2411.08449)|null|
+|**2024-11-13**|**Collaborative Participatory Research with LLM Agents in South Asia: An Empirically-Grounded Methodological Initiative and Agenda from Field Evidence in Sri Lanka**|Xinjie Zhao et.al.|[2411.08294](http://arxiv.org/abs/2411.08294)|null|
 |**2024-11-10**|**Hermes: A Large Language Model Framework on the Journey to Autonomous Networks**|Fadhel Ayed et.al.|[2411.06490](http://arxiv.org/abs/2411.06490)|null|
 |**2024-11-12**|**Game-theoretic LLM: Agent Workflow for Negotiation Games**|Wenyue Hua et.al.|[2411.05990](http://arxiv.org/abs/2411.05990)|**[link](https://github.com/wenyueh/game_theory)**|
 |**2024-11-08**|**LightVA: Lightweight Visual Analytics with LLM Agent-Based Task Planning and Execution**|Yuheng Zhao et.al.|[2411.05651](http://arxiv.org/abs/2411.05651)|null|
@@ -442,7 +446,7 @@
 |---|---|---|---|---|
 |**2024-11-04**|**Benchmarking Vision, Language, & Action Models on Robotic Learning Tasks**|Pranav Guruprasad et.al.|[2411.05821](http://arxiv.org/abs/2411.05821)|**[link](https://github.com/ManifoldRG/MultiNet)**|
 |**2024-11-04**|**DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution**|Yang Yue et.al.|[2411.02359](http://arxiv.org/abs/2411.02359)|**[link](https://github.com/yueyang130/deer-vla)**|
-|**2024-11-02**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
+|**2024-11-13**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
 |**2024-10-21**|**A Dual Process VLA: Efficient Robotic Manipulation Leveraging VLM**|ByungOk Han et.al.|[2410.15549](http://arxiv.org/abs/2410.15549)|null|
 |**2024-10-17**|**Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand**|Cheng Pan et.al.|[2410.14022](http://arxiv.org/abs/2410.14022)|null|
 |**2024-10-15**|**Latent Action Pretraining from Videos**|Seonghyeon Ye et.al.|[2410.11758](http://arxiv.org/abs/2410.11758)|null|
@@ -521,6 +525,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**NavAgent: Multi-scale Urban Street View Fusion For UAV Embodied Vision-and-Language Navigation**|Youzhi Liu et.al.|[2411.08579](http://arxiv.org/abs/2411.08579)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-10-29**|**Diffusion as Reasoning: Enhancing Object Goal Navigation with LLM-Biased Diffusion Model**|Yiming Ji et.al.|[2410.21842](http://arxiv.org/abs/2410.21842)|null|
 |**2024-10-26**|**EfficientEQA: An Efficient Approach for Open Vocabulary Embodied Question Answering**|Kai Cheng et.al.|[2410.20263](http://arxiv.org/abs/2410.20263)|null|

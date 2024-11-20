@@ -52,6 +52,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs**|Zhehan Kan et.al.|[2411.12713](http://arxiv.org/abs/2411.12713)|null|
+|**2024-11-19**|**A Survey of Medical Vision-and-Language Applications and Their Techniques**|Qi Chen et.al.|[2411.12195](http://arxiv.org/abs/2411.12195)|null|
 |**2024-11-18**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2411.11706](http://arxiv.org/abs/2411.11706)|null|
 |**2024-11-18**|**Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts**|Jingxuan Li et.al.|[2411.11479](http://arxiv.org/abs/2411.11479)|null|
 |**2024-11-17**|**A Comprehensive Survey on Visual Question Answering Datasets and Algorithms**|Raihan Kabir et.al.|[2411.11150](http://arxiv.org/abs/2411.11150)|null|
@@ -214,7 +216,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-18**|**Generative World Explorer**|Taiming Lu et.al.|[2411.11844](http://arxiv.org/abs/2411.11844)|null|
+|**2024-11-19**|**Generative World Explorer**|Taiming Lu et.al.|[2411.11844](http://arxiv.org/abs/2411.11844)|null|
 |**2024-11-18**|**LLM-IE: A Python Package for Generative Information Extraction with Large Language Models**|Enshuo Hsu et.al.|[2411.11779](http://arxiv.org/abs/2411.11779)|null|
 |**2024-11-18**|**OASIS: Open Agents Social Interaction Simulations on One Million Agents**|Ziyi Yang et.al.|[2411.11581](http://arxiv.org/abs/2411.11581)|null|
 |**2024-11-16**|**IntentGPT: Few-shot Intent Discovery with Large Language Models**|Juan A. Rodriguez et.al.|[2411.10670](http://arxiv.org/abs/2411.10670)|null|
@@ -398,7 +400,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-18**|**Generative World Explorer**|Taiming Lu et.al.|[2411.11844](http://arxiv.org/abs/2411.11844)|null|
+|**2024-11-19**|**Generative World Explorer**|Taiming Lu et.al.|[2411.11844](http://arxiv.org/abs/2411.11844)|null|
 |**2024-11-14**|**Architect: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting**|Yian Wang et.al.|[2411.09823](http://arxiv.org/abs/2411.09823)|null|
 |**2024-11-12**|**Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory**|Junyeong Park et.al.|[2411.06736](http://arxiv.org/abs/2411.06736)|null|
 |**2024-11-08**|**Autoregressive Models in Vision: A Survey**|Jing Xiong et.al.|[2411.05902](http://arxiv.org/abs/2411.05902)|**[link](https://github.com/chaofantao/autoregressive-models-in-vision-survey)**|

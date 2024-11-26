@@ -52,10 +52,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-24**|**Text-Guided Coarse-to-Fine Fusion Network for Robust Remote Sensing Visual Question Answering**|Zhicheng Zhao et.al.|[2411.15770](http://arxiv.org/abs/2411.15770)|null|
+|**2024-11-23**|**ReWind: Understanding Long Videos with Instructed Learnable Memory**|Anxhelo Diko et.al.|[2411.15556](http://arxiv.org/abs/2411.15556)|null|
+|**2024-11-23**|**freePruner: A Training-free Approach for Large Multimodal Model Acceleration**|Bingxin Xu et.al.|[2411.15446](http://arxiv.org/abs/2411.15446)|null|
+|**2024-11-23**|**FINECAPTION: Compositional Image Captioning Focusing on Wherever You Want at Any Granularity**|Hang Hua et.al.|[2411.15411](http://arxiv.org/abs/2411.15411)|null|
+|**2024-11-20**|**Uni-Mlip: Unified Self-supervision for Medical Vision Language Pre-training**|Ameera Bawazir et.al.|[2411.15207](http://arxiv.org/abs/2411.15207)|null|
 |**2024-11-21**|**GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI**|Tianbin Li et.al.|[2411.14522](http://arxiv.org/abs/2411.14522)|**[link](https://github.com/uni-medical/gmai-vl)**|
 |**2024-11-21**|**Visual Contexts Clarify Ambiguous Expressions: A Benchmark Dataset**|Heejeong Nam et.al.|[2411.14137](http://arxiv.org/abs/2411.14137)|null|
 |**2024-11-20**|**Teaching VLMs to Localize Specific Objects from In-context Examples**|Sivan Doveh et.al.|[2411.13317](http://arxiv.org/abs/2411.13317)|**[link](https://github.com/sivandoveh/iploc)**|
-|**2024-11-20**|**LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement**|Siwen Jiao et.al.|[2411.12980](http://arxiv.org/abs/2411.12980)|null|
+|**2024-11-25**|**LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement**|Siwen Jiao et.al.|[2411.12980](http://arxiv.org/abs/2411.12980)|null|
 |**2024-11-19**|**Med-2E3: A 2D-Enhanced 3D Medical Multimodal Large Language Model**|Yiming Shi et.al.|[2411.12783](http://arxiv.org/abs/2411.12783)|null|
 |**2024-11-19**|**CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs**|Zhehan Kan et.al.|[2411.12713](http://arxiv.org/abs/2411.12713)|null|
 |**2024-11-19**|**A Survey of Medical Vision-and-Language Applications and Their Techniques**|Qi Chen et.al.|[2411.12195](http://arxiv.org/abs/2411.12195)|null|
@@ -221,6 +226,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation**|Linqing Zhong et.al.|[2411.16425](http://arxiv.org/abs/2411.16425)|null|
+|**2024-11-25**|**Open-Vocabulary Octree-Graph for 3D Scene Understanding**|Zhigang Wang et.al.|[2411.16253](http://arxiv.org/abs/2411.16253)|null|
+|**2024-11-25**|**Agent-Based Modelling Meets Generative AI in Social Network Simulations**|Antonino Ferraro et.al.|[2411.16031](http://arxiv.org/abs/2411.16031)|null|
+|**2024-11-24**|**From Laws to Motivation: Guiding Exploration through Law-Based Reasoning and Rewards**|Ziyu Chen et.al.|[2411.15891](http://arxiv.org/abs/2411.15891)|null|
+|**2024-11-23**|**The Decoy Dilemma in Online Medical Information Evaluation: A Comparative Study of Credibility Assessments by LLM and Human Judges**|Jiqun Liu et.al.|[2411.15396](http://arxiv.org/abs/2411.15396)|null|
 |**2024-11-22**|**XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models**|Yixin Dong et.al.|[2411.15100](http://arxiv.org/abs/2411.15100)|null|
 |**2024-11-22**|**ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data**|Junhong Shen et.al.|[2411.15004](http://arxiv.org/abs/2411.15004)|**[link](https://github.com/colonylabs/ScribeAgent)**|
 |**2024-11-21**|**Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning**|Hang Zhou et.al.|[2411.14497](http://arxiv.org/abs/2411.14497)|**[link](https://github.com/CANGLETIAN/Star-Agents)**|
@@ -417,9 +427,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Functionality understanding and segmentation in 3D scenes**|Jaime Corsetti et.al.|[2411.16310](http://arxiv.org/abs/2411.16310)|null|
+|**2024-11-24**|**ROOT: VLM based System for Indoor Scene Understanding and Beyond**|Yonghui Wang et.al.|[2411.15714](http://arxiv.org/abs/2411.15714)|**[link](https://github.com/harrytea/root)**|
 |**2024-11-21**|**SplatR : Experience Goal Visual Rearrangement with 3D Gaussian Splatting and Dense Feature Matching**|Arjun P S et.al.|[2411.14322](http://arxiv.org/abs/2411.14322)|null|
 |**2024-11-21**|**Multimodal 3D Reasoning Segmentation with Complex Scenes**|Xueying Jiang et.al.|[2411.13927](http://arxiv.org/abs/2411.13927)|null|
-|**2024-11-20**|**MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning**|Mircea Lică et.al.|[2411.12977](http://arxiv.org/abs/2411.12977)|null|
+|**2024-11-25**|**MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning**|Mircea Lică et.al.|[2411.12977](http://arxiv.org/abs/2411.12977)|null|
 |**2024-11-19**|**Generative World Explorer**|Taiming Lu et.al.|[2411.11844](http://arxiv.org/abs/2411.11844)|null|
 |**2024-11-14**|**Architect: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting**|Yian Wang et.al.|[2411.09823](http://arxiv.org/abs/2411.09823)|null|
 |**2024-11-12**|**Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory**|Junyeong Park et.al.|[2411.06736](http://arxiv.org/abs/2411.06736)|null|
@@ -531,6 +543,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**UnitedVLN: Generalizable Gaussian Splatting for Continuous Vision-Language Navigation**|Guangzhao Dai et.al.|[2411.16053](http://arxiv.org/abs/2411.16053)|null|
 |**2024-11-12**|**NL-SLAM for OC-VLN: Natural Language Grounded SLAM for Object-Centric VLN**|Sonia Raychaudhuri et.al.|[2411.07848](http://arxiv.org/abs/2411.07848)|null|
 |**2024-11-06**|**To Ask or Not to Ask? Detecting Absence of Information in Vision and Language Navigation**|Savitha Sam Abraham et.al.|[2411.05831](http://arxiv.org/abs/2411.05831)|null|
 |**2024-10-18**|**Vision-Language Navigation with Energy-Based Policy**|Rui Liu et.al.|[2410.14250](http://arxiv.org/abs/2410.14250)|null|

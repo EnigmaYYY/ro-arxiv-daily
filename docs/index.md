@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences**|Hongyan Zhi et.al.|[2412.01292](http://arxiv.org/abs/2412.01292)|null|
 |**2024-10-26**|**EfficientEQA: An Efficient Approach for Open Vocabulary Embodied Question Answering**|Kai Cheng et.al.|[2410.20263](http://arxiv.org/abs/2410.20263)|null|
 |**2024-08-30**|**"Is This It?": Towards Ecologically Valid Benchmarks for Situated Collaboration**|Dan Bohus et.al.|[2409.10525](http://arxiv.org/abs/2409.10525)|null|
 |**2024-10-07**|**MFE-ETP: A Comprehensive Evaluation Benchmark for Multi-modal Foundation Models on Embodied Task Planning**|Min Zhang et.al.|[2407.05047](http://arxiv.org/abs/2407.05047)|**[link](https://github.com/TJURLLAB-EAI/MFE-ETP)**|
@@ -41,6 +42,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**CEGI: Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs**|Abhas Kumar et.al.|[2412.02602](http://arxiv.org/abs/2412.02602)|null|
+|**2024-12-03**|**Copy-Move Forgery Detection and Question Answering for Remote Sensing Image**|Ze Zhang et.al.|[2412.02575](http://arxiv.org/abs/2412.02575)|**[link](https://github.com/shenyedepisa/rscmqa)**|
+|**2024-12-03**|**Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey**|Yunkai Dang et.al.|[2412.02104](http://arxiv.org/abs/2412.02104)|null|
+|**2024-12-02**|**Understanding the World's Museums through Vision-Language Reasoning**|Ada-Astrid Balauca et.al.|[2412.01370](http://arxiv.org/abs/2412.01370)|null|
+|**2024-11-29**|**DLaVA: Document Language and Vision Assistant for Answer Localization with Enhanced Interpretability and Trustworthiness**|Ahmad Mohammadshirazi et.al.|[2412.00151](http://arxiv.org/abs/2412.00151)|null|
+|**2024-11-28**|**Sparse Attention Vectors: Generative Multimodal Model Features Are Discriminative Vision-Language Classifiers**|Chancharik Mitra et.al.|[2412.00142](http://arxiv.org/abs/2412.00142)|null|
+|**2024-11-27**|**ElectroVizQA: How well do Multi-modal LLMs perform in Electronics Visual Question Answering?**|Pragati Shuddhodhan Meshram et.al.|[2412.00102](http://arxiv.org/abs/2412.00102)|null|
 |**2024-11-29**|**SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks**|Kim-Celine Kahl et.al.|[2411.19688](http://arxiv.org/abs/2411.19688)|**[link](https://github.com/iml-dkfz/sure-vqa)**|
 |**2024-11-28**|**Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs**|Anirudh Phukan et.al.|[2411.19187](http://arxiv.org/abs/2411.19187)|null|
 |**2024-11-27**|**Active Data Curation Effectively Distills Large-Scale Multimodal Models**|Vishaal Udandarao et.al.|[2411.18674](http://arxiv.org/abs/2411.18674)|null|
@@ -224,6 +232,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-30**|**Planning from Imagination: Episodic Simulation and Episodic Memory for Vision-and-Language Navigation**|Yiyuan Pan et.al.|[2412.01857](http://arxiv.org/abs/2412.01857)|null|
+|**2024-12-02**|**HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing**|Lajos Muzsai et.al.|[2412.01778](http://arxiv.org/abs/2412.01778)|**[link](https://github.com/aielte-research/HackSynth)**|
+|**2024-12-02**|**Medchain: Bridging the Gap Between LLM Agents and Clinical Practice through Interactive Sequential Benchmarking**|Jie Liu et.al.|[2412.01605](http://arxiv.org/abs/2412.01605)|null|
+|**2024-12-02**|**The Bare Necessities: Designing Simple, Effective Open-Vocabulary Scene Graphs**|Christina Kassab et.al.|[2412.01539](http://arxiv.org/abs/2412.01539)|null|
+|**2024-12-02**|**Can Large Language Models Serve as Evaluators for Code Summarization?**|Yang Wu et.al.|[2412.01333](http://arxiv.org/abs/2412.01333)|null|
+|**2024-12-02**|**RL2: Reinforce Large Language Model to Assist Safe Reinforcement Learning for Energy Management of Active Distribution Networks**|Xu Yang et.al.|[2412.01303](http://arxiv.org/abs/2412.01303)|null|
+|**2024-12-02**|**Generating Freeform Endoskeletal Robots**|Muhan Li et.al.|[2412.01036](http://arxiv.org/abs/2412.01036)|null|
+|**2024-12-02**|**SAUP: Situation Awareness Uncertainty Propagation on LLM Agent**|Qiwei Zhao et.al.|[2412.01033](http://arxiv.org/abs/2412.01033)|null|
+|**2024-12-01**|**STEVE-Audio: Expanding the Goal Conditioning Modalities of Embodied Agents in Minecraft**|Nicholas Lenzen et.al.|[2412.00949](http://arxiv.org/abs/2412.00949)|null|
+|**2024-11-30**|**Benchmark Real-time Adaptation and Communication Capabilities of Embodied Agent in Collaborative Scenarios**|Shipeng Liu et.al.|[2412.00435](http://arxiv.org/abs/2412.00435)|null|
 |**2024-11-28**|**Using a Feedback Loop for LLM-based Infrastructure as Code Generation**|Mayur Amarnath Palavalli et.al.|[2411.19043](http://arxiv.org/abs/2411.19043)|**[link](https://github.com/Mayur-Palavalli/LLM-IaC-generation)**|
 |**2024-11-28**|**MATATA: a weak-supervised MAthematical Tool-Assisted reasoning for Tabular Applications**|Vishnou Vinayagame et.al.|[2411.18915](http://arxiv.org/abs/2411.18915)|null|
 |**2024-11-28**|**Wearable intelligent throat enables natural speech in stroke patients with dysarthria**|Chenyu Tang et.al.|[2411.18266](http://arxiv.org/abs/2411.18266)|null|
@@ -431,6 +449,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Gaussian Object Carver: Object-Compositional Gaussian Splatting with surfaces completion**|Liu Liu et.al.|[2412.02075](http://arxiv.org/abs/2412.02075)|null|
+|**2024-12-02**|**DaDu-E: Rethinking the Role of Large Language Model in Robotic Computing Pipeline**|Wenhao Sun et.al.|[2412.01663](http://arxiv.org/abs/2412.01663)|null|
+|**2024-12-02**|**SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model**|Chunlin Yu et.al.|[2412.01550](http://arxiv.org/abs/2412.01550)|null|
+|**2024-12-02**|**Holistic Understanding of 3D Scenes as Universal Scene Description**|Anna-Maria Halacheva et.al.|[2412.01398](http://arxiv.org/abs/2412.01398)|null|
+|**2024-12-02**|**LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences**|Hongyan Zhi et.al.|[2412.01292](http://arxiv.org/abs/2412.01292)|null|
 |**2024-11-23**|**SnapMem: Snapshot-based 3D Scene Memory for Embodied Exploration and Reasoning**|Yuncong Yang et.al.|[2411.17735](http://arxiv.org/abs/2411.17735)|null|
 |**2024-11-26**|**Functionality understanding and segmentation in 3D scenes**|Jaime Corsetti et.al.|[2411.16310](http://arxiv.org/abs/2411.16310)|null|
 |**2024-11-24**|**ROOT: VLM based System for Indoor Scene Understanding and Beyond**|Yonghui Wang et.al.|[2411.15714](http://arxiv.org/abs/2411.15714)|**[link](https://github.com/harrytea/root)**|
@@ -501,6 +524,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control**|Seongmin Park et.al.|[2412.01034](http://arxiv.org/abs/2412.01034)|null|
+|**2024-11-29**|**SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters**|Jianping Jiang et.al.|[2412.00174](http://arxiv.org/abs/2412.00174)|null|
 |**2024-11-29**|**CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation**|Qixiu Li et.al.|[2411.19650](http://arxiv.org/abs/2411.19650)|null|
 |**2024-11-28**|**GRAPE: Generalizing Robot Policy via Preference Alignment**|Zijian Zhang et.al.|[2411.19309](http://arxiv.org/abs/2411.19309)|null|
 |**2024-11-26**|**ShowUI: One Vision-Language-Action Model for GUI Visual Agent**|Kevin Qinghong Lin et.al.|[2411.17465](http://arxiv.org/abs/2411.17465)|**[link](https://github.com/showlab/showui)**|

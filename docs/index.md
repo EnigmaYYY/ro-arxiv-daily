@@ -42,6 +42,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora**|Michael Y. Hu et.al.|[2412.05149](http://arxiv.org/abs/2412.05149)|null|
+|**2024-12-06**|**EACO: Enhancing Alignment in Multimodal LLMs via Critical Observation**|Yongxin Wang et.al.|[2412.04903](http://arxiv.org/abs/2412.04903)|null|
 |**2024-12-05**|**T2I-FactualBench: Benchmarking the Factuality of Text-to-Image Models with Knowledge-Intensive Concepts**|Ziwei Huang et.al.|[2412.04300](http://arxiv.org/abs/2412.04300)|null|
 |**2024-12-03**|**CEGI: Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs**|Abhas Kumar et.al.|[2412.02602](http://arxiv.org/abs/2412.02602)|null|
 |**2024-12-03**|**Copy-Move Forgery Detection and Question Answering for Remote Sensing Image**|Ze Zhang et.al.|[2412.02575](http://arxiv.org/abs/2412.02575)|**[link](https://github.com/shenyedepisa/rscmqa)**|
@@ -233,7 +235,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|**[link](https://github.com/ykiwu/embodiedocc)**|
+|**2024-12-06**|**TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft**|Qian Long et.al.|[2412.05255](http://arxiv.org/abs/2412.05255)|**[link](https://github.com/teamcraft-bench/teamcraft)**|
+|**2024-12-06**|**Sense and Sensitivity: Evaluating the simulation of social dynamics via Large Language Models**|Da Ju et.al.|[2412.05093](http://arxiv.org/abs/2412.05093)|null|
+|**2024-12-06**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|**[link](https://github.com/ykiwu/embodiedocc)**|
 |**2024-12-05**|**Practical Considerations for Agentic LLM Systems**|Chris Sypherd et.al.|[2412.04093](http://arxiv.org/abs/2412.04093)|null|
 |**2024-12-05**|**LossAgent: Towards Any Optimization Objectives for Image Processing with LLM Agents**|Bingchen Li et.al.|[2412.04090](http://arxiv.org/abs/2412.04090)|null|
 |**2024-12-05**|**MISR: Measuring Instrumental Self-Reasoning in Frontier Models**|Kai Fronsdal et.al.|[2412.03904](http://arxiv.org/abs/2412.03904)|**[link](https://github.com/kaifronsdal/self-reasoning-evals)**|
@@ -617,7 +621,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|**[link](https://github.com/ykiwu/embodiedocc)**|
+|**2024-12-06**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|**[link](https://github.com/ykiwu/embodiedocc)**|
 |**2024-11-23**|**SnapMem: Snapshot-based 3D Scene Memory for Embodied Exploration and Reasoning**|Yuncong Yang et.al.|[2411.17735](http://arxiv.org/abs/2411.17735)|null|
 |**2024-11-13**|**NavAgent: Multi-scale Urban Street View Fusion For UAV Embodied Vision-and-Language Navigation**|Youzhi Liu et.al.|[2411.08579](http://arxiv.org/abs/2411.08579)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|

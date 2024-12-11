@@ -42,8 +42,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities**|Sahal Shaji Mullappilly et.al.|[2412.07769](http://arxiv.org/abs/2412.07769)|null|
+|**2024-12-10**|**MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models**|Sayak Chakrabarty et.al.|[2412.07148](http://arxiv.org/abs/2412.07148)|**[link](https://github.com/souradipp76/mm-poe)**|
+|**2024-12-09**|**FM2DS: Few-Shot Multimodal Multihop Data Synthesis with Knowledge Distillation for Question Answering**|Amirhossein Abaskohi et.al.|[2412.07030](http://arxiv.org/abs/2412.07030)|null|
 |**2024-12-09**|**Ranked from Within: Ranking Large Multimodal Models for Visual Question Answering Without Labels**|Weijie Tu et.al.|[2412.06461](http://arxiv.org/abs/2412.06461)|null|
-|**2024-12-07**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679](http://arxiv.org/abs/2412.05679)|**[link](https://github.com/xuliu-cyber/rsunivlm)**|
+|**2024-12-10**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679](http://arxiv.org/abs/2412.05679)|**[link](https://github.com/xuliu-cyber/rsunivlm)**|
 |**2024-12-06**|**Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora**|Michael Y. Hu et.al.|[2412.05149](http://arxiv.org/abs/2412.05149)|null|
 |**2024-12-06**|**EACO: Enhancing Alignment in Multimodal LLMs via Critical Observation**|Yongxin Wang et.al.|[2412.04903](http://arxiv.org/abs/2412.04903)|null|
 |**2024-12-07**|**T2I-FactualBench: Benchmarking the Factuality of Text-to-Image Models with Knowledge-Intensive Concepts**|Ziwei Huang et.al.|[2412.04300](http://arxiv.org/abs/2412.04300)|null|
@@ -237,6 +240,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Searching for Structure: Investigating Emergent Communication with Large Language Models**|Tom Kouwenhoven et.al.|[2412.07646](http://arxiv.org/abs/2412.07646)|null|
+|**2024-12-10**|**SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World**|Jiaqi Zhang et.al.|[2412.07472](http://arxiv.org/abs/2412.07472)|**[link](https://github.com/tsinghua-fib-lab/smartagent)**|
+|**2024-12-06**|**Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System**|Fang Zeng et.al.|[2412.06828](http://arxiv.org/abs/2412.06828)|null|
 |**2024-12-09**|**AutoDCWorkflow: LLM-based Data Cleaning Workflow Auto-Generation and Benchmark**|Lan Li et.al.|[2412.06724](http://arxiv.org/abs/2412.06724)|null|
 |**2024-12-09**|**Toward LLM-Agent-Based Modeling of Transportation Systems: A Conceptual Framework**|Tianming Liu et.al.|[2412.06681](http://arxiv.org/abs/2412.06681)|null|
 |**2024-12-09**|**Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects**|Louis Milliken et.al.|[2412.06294](http://arxiv.org/abs/2412.06294)|null|
@@ -475,7 +481,7 @@ layout: default
 |**2024-12-02**|**SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model**|Chunlin Yu et.al.|[2412.01550](http://arxiv.org/abs/2412.01550)|null|
 |**2024-12-02**|**Holistic Understanding of 3D Scenes as Universal Scene Description**|Anna-Maria Halacheva et.al.|[2412.01398](http://arxiv.org/abs/2412.01398)|null|
 |**2024-12-02**|**LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences**|Hongyan Zhi et.al.|[2412.01292](http://arxiv.org/abs/2412.01292)|null|
-|**2024-11-23**|**SnapMem: Snapshot-based 3D Scene Memory for Embodied Exploration and Reasoning**|Yuncong Yang et.al.|[2411.17735](http://arxiv.org/abs/2411.17735)|null|
+|**2024-12-10**|**3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning**|Yuncong Yang et.al.|[2411.17735](http://arxiv.org/abs/2411.17735)|null|
 |**2024-12-04**|**Functionality understanding and segmentation in 3D scenes**|Jaime Corsetti et.al.|[2411.16310](http://arxiv.org/abs/2411.16310)|null|
 |**2024-11-24**|**ROOT: VLM based System for Indoor Scene Understanding and Beyond**|Yonghui Wang et.al.|[2411.15714](http://arxiv.org/abs/2411.15714)|**[link](https://github.com/harrytea/root)**|
 |**2024-11-21**|**SplatR : Experience Goal Visual Rearrangement with 3D Gaussian Splatting and Dense Feature Matching**|Arjun P S et.al.|[2411.14322](http://arxiv.org/abs/2411.14322)|null|
@@ -634,7 +640,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-09**|**Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks**|Jiazhao Zhang et.al.|[2412.06224](http://arxiv.org/abs/2412.06224)|null|
 |**2024-12-06**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|**[link](https://github.com/ykiwu/embodiedocc)**|
-|**2024-11-23**|**SnapMem: Snapshot-based 3D Scene Memory for Embodied Exploration and Reasoning**|Yuncong Yang et.al.|[2411.17735](http://arxiv.org/abs/2411.17735)|null|
+|**2024-12-10**|**3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning**|Yuncong Yang et.al.|[2411.17735](http://arxiv.org/abs/2411.17735)|null|
 |**2024-11-13**|**NavAgent: Multi-scale Urban Street View Fusion For UAV Embodied Vision-and-Language Navigation**|Youzhi Liu et.al.|[2411.08579](http://arxiv.org/abs/2411.08579)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-10-29**|**Diffusion as Reasoning: Enhancing Object Goal Navigation with LLM-Biased Diffusion Model**|Yiming Ji et.al.|[2410.21842](http://arxiv.org/abs/2410.21842)|null|

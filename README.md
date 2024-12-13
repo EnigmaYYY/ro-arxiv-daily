@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,21 +47,21 @@
 |**2018-11-12**|**Blindfold Baselines for Embodied QA**|Ankesh Anand et.al.|[1811.05013](http://arxiv.org/abs/1811.05013)|**[link](https://github.com/ankeshanand/blindfold-baselines-eqa)**|
 |**2019-05-02**|**Neural Modular Control for Embodied Question Answering**|Abhishek Das et.al.|[1810.11181](http://arxiv.org/abs/1810.11181)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Visual Question Answering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-11**|**Can We Generate Visual Programs Without Prompting LLMs?**|Michal Shlapentokh-Rothman et.al.|[2412.08564](http://arxiv.org/abs/2412.08564)|null|
-|**2024-12-11**|**Discrete Subgraph Sampling for Interpretable Graph based Visual Question Answering**|Pascal Tilli et.al.|[2412.08263](http://arxiv.org/abs/2412.08263)|null|
+|**2024-12-11**|**Discrete Subgraph Sampling for Interpretable Graph based Visual Question Answering**|Pascal Tilli et.al.|[2412.08263](http://arxiv.org/abs/2412.08263)|**[link](https://github.com/digitalphonetics/intrinsic-subgraph-generation-for-vqa)**|
 |**2024-12-11**|**Illusory VQA: Benchmarking and Enhancing Multimodal Models on Visual Illusions**|Mohammadmostafa Rostamkhani et.al.|[2412.08169](http://arxiv.org/abs/2412.08169)|**[link](https://github.com/IllusoryVQA/IllusoryVQA)**|
 |**2024-12-11**|**How Vision-Language Tasks Benefit from Large Pre-trained Models: A Survey**|Yayun Qi et.al.|[2412.08158](http://arxiv.org/abs/2412.08158)|null|
 |**2024-12-11**|**Barking Up The Syntactic Tree: Enhancing VLM Training with Syntactic Losses**|Jiayun Luo et.al.|[2412.08110](http://arxiv.org/abs/2412.08110)|null|
 |**2024-12-10**|**3DSRBench: A Comprehensive 3D Spatial Reasoning Benchmark**|Wufei Ma et.al.|[2412.07825](http://arxiv.org/abs/2412.07825)|null|
-|**2024-12-10**|**BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities**|Sahal Shaji Mullappilly et.al.|[2412.07769](http://arxiv.org/abs/2412.07769)|null|
+|**2024-12-10**|**BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities**|Sahal Shaji Mullappilly et.al.|[2412.07769](http://arxiv.org/abs/2412.07769)|**[link](https://github.com/mbzuai-oryx/bimedix2)**|
 |**2024-12-10**|**MM-PoE: Multiple Choice Reasoning via. Process of Elimination using Multi-Modal Models**|Sayak Chakrabarty et.al.|[2412.07148](http://arxiv.org/abs/2412.07148)|**[link](https://github.com/souradipp76/mm-poe)**|
-|**2024-12-09**|**FM2DS: Few-Shot Multimodal Multihop Data Synthesis with Knowledge Distillation for Question Answering**|Amirhossein Abaskohi et.al.|[2412.07030](http://arxiv.org/abs/2412.07030)|null|
+|**2024-12-09**|**FM2DS: Few-Shot Multimodal Multihop Data Synthesis with Knowledge Distillation for Question Answering**|Amirhossein Abaskohi et.al.|[2412.07030](http://arxiv.org/abs/2412.07030)|**[link](https://github.com/servicenow/fm2ds)**|
 |**2024-12-09**|**Ranked from Within: Ranking Large Multimodal Models for Visual Question Answering Without Labels**|Weijie Tu et.al.|[2412.06461](http://arxiv.org/abs/2412.06461)|null|
 |**2024-12-10**|**RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts**|Xu Liu et.al.|[2412.05679](http://arxiv.org/abs/2412.05679)|**[link](https://github.com/xuliu-cyber/rsunivlm)**|
 |**2024-12-06**|**Findings of the Second BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora**|Michael Y. Hu et.al.|[2412.05149](http://arxiv.org/abs/2412.05149)|null|
@@ -253,7 +253,7 @@
 |**2024-08-13**|**CROME: Cross-Modal Adapters for Efficient Multimodal LLM**|Sayna Ebrahimi et.al.|[2408.06610](http://arxiv.org/abs/2408.06610)|null|
 |**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303](http://arxiv.org/abs/2408.06303)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Embodied Agent
 
@@ -263,7 +263,7 @@
 |**2024-12-11**|**From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons**|Andrew Szot et.al.|[2412.08442](http://arxiv.org/abs/2412.08442)|null|
 |**2024-12-11**|**Federated In-Context LLM Agent Learning**|Panlong Wu et.al.|[2412.08054](http://arxiv.org/abs/2412.08054)|null|
 |**2024-12-11**|**MAGIC: Mastering Physical Adversarial Generation in Context through Collaborative LLM Agents**|Yun Xing et.al.|[2412.08014](http://arxiv.org/abs/2412.08014)|null|
-|**2024-12-10**|**MAGE: A Multi-Agent Engine for Automated RTL Code Generation**|Yujie Zhao et.al.|[2412.07822](http://arxiv.org/abs/2412.07822)|null|
+|**2024-12-10**|**MAGE: A Multi-Agent Engine for Automated RTL Code Generation**|Yujie Zhao et.al.|[2412.07822](http://arxiv.org/abs/2412.07822)|**[link](https://github.com/stable-lab/MAGE-A-Multi-Agent-Engine-for-Automated-RTL-Code-Generation)**|
 |**2024-12-11**|**Searching for Structure: Investigating Emergent Communication with Large Language Models**|Tom Kouwenhoven et.al.|[2412.07646](http://arxiv.org/abs/2412.07646)|null|
 |**2024-12-10**|**SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World**|Jiaqi Zhang et.al.|[2412.07472](http://arxiv.org/abs/2412.07472)|**[link](https://github.com/tsinghua-fib-lab/smartagent)**|
 |**2024-12-06**|**Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System**|Fang Zeng et.al.|[2412.06828](http://arxiv.org/abs/2412.06828)|null|
@@ -494,13 +494,13 @@
 |**2024-08-08**|**RiskAwareBench: Towards Evaluating Physical Risk Awareness for High-level Planning of LLM-based Embodied Agents**|Zihao Zhu et.al.|[2408.04449](http://arxiv.org/abs/2408.04449)|**[link](https://github.com/zihao-ai/earbench)**|
 |**2024-08-08**|**Perceive, Reflect, and Plan: Designing LLM Agent for Goal-Directed City Navigation without Instructions**|Qingbin Zeng et.al.|[2408.04168](http://arxiv.org/abs/2408.04168)|**[link](https://github.com/hiyouga/llama-factory)**|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Embodied AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-11**|**Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel**|Zun Wang et.al.|[2412.08467](http://arxiv.org/abs/2412.08467)|null|
+|**2024-12-11**|**Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel**|Zun Wang et.al.|[2412.08467](http://arxiv.org/abs/2412.08467)|**[link](https://github.com/wz0919/vln-srdf)**|
 |**2024-12-11**|**From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons**|Andrew Szot et.al.|[2412.08442](http://arxiv.org/abs/2412.08442)|null|
 |**2024-12-09**|**Jess+: designing embodied AI for interactive music-making**|Craig Vear et.al.|[2412.06469](http://arxiv.org/abs/2412.06469)|**[link](https://github.com/DigiScore/jess_plus)**|
 |**2024-12-08**|**InfiniteWorld: A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction**|Pengzhen Ren et.al.|[2412.05789](http://arxiv.org/abs/2412.05789)|null|
@@ -575,7 +575,7 @@
 |**2024-07-04**|**Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**|Minghan Li et.al.|[2406.19236](http://arxiv.org/abs/2406.19236)|**[link](https://github.com/lpercc/ha3d_simulator)**|
 |**2024-06-25**|**ET tu, CLIP? Addressing Common Object Errors for Unseen Environments**|Ye Won Byun et.al.|[2406.17876](http://arxiv.org/abs/2406.17876)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Vision Language Action Model
 
@@ -627,7 +627,7 @@
 |**2023-07-28**|**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**|Anthony Brohan et.al.|[2307.15818](http://arxiv.org/abs/2307.15818)|null|
 |**2023-09-21**|**A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter**|Kechun Xu et.al.|[2302.12610](http://arxiv.org/abs/2302.12610)|**[link](https://github.com/xukechun/Vision-Language-Grasping)**|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Vision Language Navigation Model
 
@@ -666,7 +666,7 @@
 |**2023-11-06**|**Exploitation-Guided Exploration for Semantic Embodied Navigation**|Justin Wasserman et.al.|[2311.03357](http://arxiv.org/abs/2311.03357)|null|
 |**2024-06-07**|**Advances in Embodied Navigation Using Large Language Models: A Survey**|Jinzhou Lin et.al.|[2311.00530](http://arxiv.org/abs/2311.00530)|**[link](https://github.com/rongtao-xu/awesome-llm-en)**|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Embodied Navigation
 
@@ -698,7 +698,7 @@
 |**2024-04-24**|**MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI**|Kaining Ying et.al.|[2404.16006](http://arxiv.org/abs/2404.16006)|null|
 |**2024-09-13**|**Object Instance Retrieval in Assistive Robotics: Leveraging Fine-Tuned SimSiam with Multi-View Images Based on 3D Semantic Map**|Taichi Sakaguchi et.al.|[2404.09647](http://arxiv.org/abs/2404.09647)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

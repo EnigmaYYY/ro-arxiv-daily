@@ -280,6 +280,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
+|**2024-12-19**|**Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling**|Ziyi Ni et.al.|[2412.15305](http://arxiv.org/abs/2412.15305)|null|
+|**2024-12-17**|**Memory-Augmented Agent Training for Business Document Understanding**|Jiale Liu et.al.|[2412.15274](http://arxiv.org/abs/2412.15274)|null|
 |**2024-12-19**|**On Verbalized Confidence Scores for LLMs**|Daniel Yang et.al.|[2412.14737](http://arxiv.org/abs/2412.14737)|**[link](https://github.com/danielyxyang/llm-verbalized-uq)**|
 |**2024-12-19**|**Agent-SafetyBench: Evaluating the Safety of LLM Agents**|Zhexin Zhang et.al.|[2412.14470](http://arxiv.org/abs/2412.14470)|**[link](https://github.com/thu-coai/agent-safetybench)**|
 |**2024-12-18**|**Tree-of-Code: A Hybrid Approach for Robust Complex Task Planning and Execution**|Ziyi Ni et.al.|[2412.14212](http://arxiv.org/abs/2412.14212)|null|
@@ -535,7 +538,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-19**|**ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Objects**|Qihang Cao et.al.|[2412.14837](http://arxiv.org/abs/2412.14837)|null|
-|**2024-12-09**|**ManiSkill-HAB: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks**|Arth Shukla et.al.|[2412.13211](http://arxiv.org/abs/2412.13211)|**[link](https://github.com/arth-shukla/mshab)**|
+|**2024-12-20**|**ManiSkill-HAB: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks**|Arth Shukla et.al.|[2412.13211](http://arxiv.org/abs/2412.13211)|**[link](https://github.com/arth-shukla/mshab)**|
 |**2024-12-16**|**ON as ALC: Active Loop Closing Object Goal Navigation**|Daiki Iwata et.al.|[2412.11523](http://arxiv.org/abs/2412.11523)|null|
 |**2024-12-14**|**Grasp What You Want: Embodied Dexterous Grasping System Driven by Your Voice**|Junliang Li et.al.|[2412.10694](http://arxiv.org/abs/2412.10694)|null|
 |**2024-12-11**|**CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs**|Yihan Cao et.al.|[2412.10439](http://arxiv.org/abs/2412.10439)|null|
@@ -623,6 +626,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning**|Xinyang Tong et.al.|[2412.15576](http://arxiv.org/abs/2412.15576)|null|
 |**2024-12-18**|**Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models**|Xinghang Li et.al.|[2412.14058](http://arxiv.org/abs/2412.14058)|null|
 |**2024-12-15**|**Modality-Driven Design for Multi-Step Dexterous Manipulation: Insights from Neuroscience**|Naoki Wake et.al.|[2412.11337](http://arxiv.org/abs/2412.11337)|null|
 |**2024-12-13**|**TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies**|Ruijie Zheng et.al.|[2412.10345](http://arxiv.org/abs/2412.10345)|null|

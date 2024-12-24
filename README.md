@@ -56,6 +56,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Cross-Lingual Text-Rich Visual Comprehension: An Information Theory Perspective**|Xinmiao Yu et.al.|[2412.17787](http://arxiv.org/abs/2412.17787)|null|
+|**2024-12-23**|**Survey of Large Multimodal Model Datasets, Application Categories and Taxonomy**|Priyaranjan Pattnayak et.al.|[2412.17759](http://arxiv.org/abs/2412.17759)|null|
+|**2024-12-23**|**Multimodal Preference Data Synthetic Alignment with Reward Model**|Robert Wijaya et.al.|[2412.17417](http://arxiv.org/abs/2412.17417)|null|
+|**2024-12-23**|**FFA Sora, video generation as fundus fluorescein angiography simulator**|Xinyuan Wu et.al.|[2412.17346](http://arxiv.org/abs/2412.17346)|null|
+|**2024-12-22**|**Prompting Large Language Models with Rationale Heuristics for Knowledge-based Visual Question Answering**|Zhongjian Hu et.al.|[2412.16936](http://arxiv.org/abs/2412.16936)|null|
+|**2024-12-21**|**SilVar: Speech Driven Multimodal Model for Reasoning Visual Question Answering and Object Localization**|Tan-Hanh Pham et.al.|[2412.16771](http://arxiv.org/abs/2412.16771)|null|
+|**2024-12-19**|**Defeasible Visual Entailment: Benchmark, Evaluator, and Reward-Driven Optimization**|Yue Zhang et.al.|[2412.16232](http://arxiv.org/abs/2412.16232)|null|
 |**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models**|Zijun Chen et.al.|[2412.14660](http://arxiv.org/abs/2412.14660)|**[link](https://github.com/hfutml/calibration-mllm)**|
 |**2024-12-19**|**FedPIA -- Permuting and Integrating Adapters leveraging Wasserstein Barycenters for Finetuning Foundation Models in Multi-Modal Federated Learning**|Pramit Saha et.al.|[2412.14424](http://arxiv.org/abs/2412.14424)|null|
@@ -280,6 +287,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Large Language Model Safety: A Holistic Survey**|Dan Shi et.al.|[2412.17686](http://arxiv.org/abs/2412.17686)|null|
+|**2024-12-23**|**Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples**|Taewoong Kim et.al.|[2412.17288](http://arxiv.org/abs/2412.17288)|null|
+|**2024-12-23**|**LegalAgentBench: Evaluating LLM Agents in Legal Domain**|Haitao Li et.al.|[2412.17259](http://arxiv.org/abs/2412.17259)|**[link](https://github.com/cshaitao/legalagentbench)**|
+|**2024-12-22**|**LLM Agent for Fire Dynamics Simulations**|Leidong Xu et.al.|[2412.17146](http://arxiv.org/abs/2412.17146)|null|
+|**2024-12-21**|**The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents**|Feiran Jia et.al.|[2412.16682](http://arxiv.org/abs/2412.16682)|null|
 |**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
 |**2024-12-19**|**Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling**|Ziyi Ni et.al.|[2412.15305](http://arxiv.org/abs/2412.15305)|null|
 |**2024-12-17**|**Memory-Augmented Agent Training for Business Document Understanding**|Jiale Liu et.al.|[2412.15274](http://arxiv.org/abs/2412.15274)|null|
@@ -537,6 +549,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation**|Riku Uemura et.al.|[2412.17282](http://arxiv.org/abs/2412.17282)|null|
+|**2024-12-21**|**POEX: Policy Executable Embodied AI Jailbreak Attacks**|Xuancun Lu et.al.|[2412.16633](http://arxiv.org/abs/2412.16633)|null|
 |**2024-12-19**|**ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Objects**|Qihang Cao et.al.|[2412.14837](http://arxiv.org/abs/2412.14837)|null|
 |**2024-12-20**|**ManiSkill-HAB: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks**|Arth Shukla et.al.|[2412.13211](http://arxiv.org/abs/2412.13211)|**[link](https://github.com/arth-shukla/mshab)**|
 |**2024-12-16**|**ON as ALC: Active Loop Closing Object Goal Navigation**|Daiki Iwata et.al.|[2412.11523](http://arxiv.org/abs/2412.11523)|null|
@@ -626,8 +640,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-20**|**QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning**|Xinyang Tong et.al.|[2412.15576](http://arxiv.org/abs/2412.15576)|null|
-|**2024-12-18**|**Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models**|Xinghang Li et.al.|[2412.14058](http://arxiv.org/abs/2412.14058)|null|
+|**2024-12-23**|**QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning**|Xinyang Tong et.al.|[2412.15576](http://arxiv.org/abs/2412.15576)|null|
+|**2024-12-23**|**Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models**|Xinghang Li et.al.|[2412.14058](http://arxiv.org/abs/2412.14058)|null|
 |**2024-12-15**|**Modality-Driven Design for Multi-Step Dexterous Manipulation: Insights from Neuroscience**|Naoki Wake et.al.|[2412.11337](http://arxiv.org/abs/2412.11337)|null|
 |**2024-12-13**|**TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies**|Ruijie Zheng et.al.|[2412.10345](http://arxiv.org/abs/2412.10345)|null|
 |**2024-12-09**|**Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks**|Jiazhao Zhang et.al.|[2412.06224](http://arxiv.org/abs/2412.06224)|null|

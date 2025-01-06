@@ -198,7 +198,7 @@ layout: default
 |**2024-10-12**|**Skipping Computations in Multimodal LLMs**|Mustafa Shukor et.al.|[2410.09454](http://arxiv.org/abs/2410.09454)|**[link](https://github.com/mshukor/ima-lmms)**|
 |**2024-10-12**|**Declarative Knowledge Distillation from Large Language Models for Visual Question Answering Datasets**|Thomas Eiter et.al.|[2410.09428](http://arxiv.org/abs/2410.09428)|**[link](https://github.com/pudumagico/kr2024)**|
 |**2024-10-12**|**Zero-shot Commonsense Reasoning over Machine Imagination**|Hyuntae Park et.al.|[2410.09329](http://arxiv.org/abs/2410.09329)|**[link](https://github.com/Park-ing-lot/Imagine)**|
-|**2024-10-11**|**Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping**|Yue Yang et.al.|[2410.08695](http://arxiv.org/abs/2410.08695)|null|
+|**2024-10-11**|**Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping**|Yue Yang et.al.|[2410.08695](http://arxiv.org/abs/2410.08695)|**[link](https://github.com/yangyue5114/DME)**|
 |**2024-10-11**|**ViT3D Alignment of LLaMA3: 3D Medical Image Report Generation**|Siyou Li et.al.|[2410.08588](http://arxiv.org/abs/2410.08588)|null|
 |**2024-10-10**|**VoxelPrompt: A Vision-Language Agent for Grounded Medical Image Analysis**|Andrew Hoopes et.al.|[2410.08397](http://arxiv.org/abs/2410.08397)|null|
 |**2024-10-10**|**Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**|Shengcao Cao et.al.|[2410.08209](http://arxiv.org/abs/2410.08209)|null|
@@ -606,7 +606,7 @@ layout: default
 |**2024-10-11**|**ARCap: Collecting High-quality Human Demonstrations for Robot Learning with Augmented Reality Feedback**|Sirui Chen et.al.|[2410.08464](http://arxiv.org/abs/2410.08464)|null|
 |**2024-10-11**|**SPA: 3D Spatial-Awareness Enables Effective Embodied Representation**|Haoyi Zhu et.al.|[2410.08208](http://arxiv.org/abs/2410.08208)|**[link](https://github.com/haoyizhu/realrobot)**|
 |**2024-10-09**|**Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**|Manling Li et.al.|[2410.07166](http://arxiv.org/abs/2410.07166)|**[link](https://github.com/embodied-agent-interface/embodied-agent-interface)**|
-|**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|null|
+|**2024-10-08**|**Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective**|Guiyang Hou et.al.|[2410.06195](http://arxiv.org/abs/2410.06195)|**[link](https://github.com/gyhou123/egosocialarena)**|
 |**2024-10-08**|**FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance**|Ruocheng Wang et.al.|[2410.05791](http://arxiv.org/abs/2410.05791)|null|
 |**2024-10-08**|**Learning the Generalizable Manipulation Skills on Soft-body Tasks via Guided Self-attention Behavior Cloning Policy**|Xuetao Li et.al.|[2410.05756](http://arxiv.org/abs/2410.05756)|null|
 |**2024-10-04**|**ActPlan-1K: Benchmarking the Procedural Planning Ability of Visual Language Models in Household Activities**|Ying Su et.al.|[2410.03907](http://arxiv.org/abs/2410.03907)|null|

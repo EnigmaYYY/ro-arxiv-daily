@@ -45,6 +45,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225](http://arxiv.org/abs/2501.03225)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
+|**2025-01-05**|**Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate Modality Imbalance in VLMs?**|Simon Park et.al.|[2501.02669](http://arxiv.org/abs/2501.02669)|**[link](https://github.com/princeton-pli/vlm_s2h)**|
+|**2025-01-04**|**Accounting for Focus Ambiguity in Visual Questions**|Chongyan Chen et.al.|[2501.02201](http://arxiv.org/abs/2501.02201)|null|
 |**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-03**|**Interpretable Face Anti-Spoofing: Enhancing Generalization with Multimodal Large Language Models**|Guosheng Zhang et.al.|[2501.01720](http://arxiv.org/abs/2501.01720)|null|
 |**2025-01-02**|**CLIP-UP: CLIP-Based Unanswerable Problem Detection for Visual Question Answering**|Ben Vardi et.al.|[2501.01371](http://arxiv.org/abs/2501.01371)|null|
@@ -285,6 +288,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-04**|**Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey**|Zongxia Li et.al.|[2501.02189](http://arxiv.org/abs/2501.02189)|null|
 |**2025-01-02**|**Harnessing Multi-Agent LLMs for Complex Engineering Problem-Solving: A Framework for Senior Design Projects**|Abdullah Mushtaq et.al.|[2501.01205](http://arxiv.org/abs/2501.01205)|null|
 |**2025-01-01**|**Agentic Systems: A Guide to Transforming Industries with Vertical AI Agents**|Fouad Bousetouane et.al.|[2501.00881](http://arxiv.org/abs/2501.00881)|null|
 |**2024-12-31**|**MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation**|Chia-Yuan Chang et.al.|[2501.00332](http://arxiv.org/abs/2501.00332)|null|
@@ -657,6 +661,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
 |**2024-12-29**|**Improving Vision-Language-Action Models via Chain-of-Affordance**|Jinming Li et.al.|[2412.20451](http://arxiv.org/abs/2412.20451)|null|
 |**2024-12-24**|**VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks**|Shiduo Zhang et.al.|[2412.18194](http://arxiv.org/abs/2412.18194)|null|
 |**2024-12-23**|**QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning**|Xinyang Tong et.al.|[2412.15576](http://arxiv.org/abs/2412.15576)|null|

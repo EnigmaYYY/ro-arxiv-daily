@@ -56,6 +56,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**Visual question answering: from early developments to recent advances -- a survey**|Ngoc Dung Huynh et.al.|[2501.03939](http://arxiv.org/abs/2501.03939)|null|
+|**2025-01-07**|**KAnoCLIP: Zero-Shot Anomaly Detection through Knowledge-Driven Prompt Learning and Enhanced Cross-Modal Integration**|Chengyuan Li et.al.|[2501.03786](http://arxiv.org/abs/2501.03786)|null|
 |**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225](http://arxiv.org/abs/2501.03225)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
 |**2025-01-05**|**Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate Modality Imbalance in VLMs?**|Simon Park et.al.|[2501.02669](http://arxiv.org/abs/2501.02669)|**[link](https://github.com/princeton-pli/vlm_s2h)**|
 |**2025-01-04**|**Accounting for Focus Ambiguity in Visual Questions**|Chongyan Chen et.al.|[2501.02201](http://arxiv.org/abs/2501.02201)|null|
@@ -301,6 +303,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**Toward Inclusive Educational AI: Auditing Frontier LLMs through a Multiplexity Lens**|Abdullah Mushtaq et.al.|[2501.03259](http://arxiv.org/abs/2501.03259)|null|
 |**2025-01-04**|**Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey**|Zongxia Li et.al.|[2501.02189](http://arxiv.org/abs/2501.02189)|null|
 |**2025-01-02**|**Harnessing Multi-Agent LLMs for Complex Engineering Problem-Solving: A Framework for Senior Design Projects**|Abdullah Mushtaq et.al.|[2501.01205](http://arxiv.org/abs/2501.01205)|null|
 |**2025-01-01**|**Agentic Systems: A Guide to Transforming Industries with Vertical AI Agents**|Fouad Bousetouane et.al.|[2501.00881](http://arxiv.org/abs/2501.00881)|null|
@@ -583,7 +586,7 @@
 |**2024-12-31**|**Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding**|Yue Fan et.al.|[2501.00358](http://arxiv.org/abs/2501.00358)|null|
 |**2024-12-30**|**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**|Fangwei Zhong et.al.|[2412.20977](http://arxiv.org/abs/2412.20977)|null|
 |**2024-12-28**|**Embodied AI-empowered Low Altitude Economy: Integrated Sensing, Communications, Computation, and Control (ISC3)**|Yaoqi Yang et.al.|[2412.19996](http://arxiv.org/abs/2412.19996)|null|
-|**2024-12-26**|**PlanLLM: Video Procedure Planning with Refinable Large Language Models**|Dejie Yang et.al.|[2412.19139](http://arxiv.org/abs/2412.19139)|**[link](https://github.com/idejie/planllm)**|
+|**2025-01-07**|**PlanLLM: Video Procedure Planning with Refinable Large Language Models**|Dejie Yang et.al.|[2412.19139](http://arxiv.org/abs/2412.19139)|**[link](https://github.com/idejie/planllm)**|
 |**2024-12-30**|**Embodied Image Quality Assessment for Robotic Intelligence**|Jianbo Zhang et.al.|[2412.18774](http://arxiv.org/abs/2412.18774)|**[link](https://github.com/jianbo-maker/epd_benchmark)**|
 |**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|**[link](https://github.com/FJDeFi/Decentralized-Intelligence-in-GameFi)**|
 |**2024-12-24**|**ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**|Hongjie Li et.al.|[2412.18600](http://arxiv.org/abs/2412.18600)|null|
@@ -678,6 +681,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints**|Mingjie Pan et.al.|[2501.03841](http://arxiv.org/abs/2501.03841)|null|
 |**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
 |**2024-12-29**|**Improving Vision-Language-Action Models via Chain-of-Affordance**|Jinming Li et.al.|[2412.20451](http://arxiv.org/abs/2412.20451)|null|
 |**2024-12-24**|**VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks**|Shiduo Zhang et.al.|[2412.18194](http://arxiv.org/abs/2412.18194)|null|

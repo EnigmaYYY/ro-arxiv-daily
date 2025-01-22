@@ -57,6 +57,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model**|Xianwei Zhuang et.al.|[2501.12327](http://arxiv.org/abs/2501.12327)|**[link](https://github.com/VARGPT-family/VARGPT)**|
+|**2025-01-18**|**Can Multimodal LLMs do Visual Temporal Understanding and Reasoning? The answer is No!**|Mohamed Fazli Imam et.al.|[2501.10674](http://arxiv.org/abs/2501.10674)|null|
 |**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
 |**2025-01-16**|**Double Visual Defense: Adversarial Pre-training and Instruction Tuning for Improving Vision-Language Model Robustness**|Zeyu Wang et.al.|[2501.09446](http://arxiv.org/abs/2501.09446)|null|
 |**2025-01-15**|**Embodied Scene Understanding for Vision Language Models via MetaVQA**|Weizhen Wang et.al.|[2501.09167](http://arxiv.org/abs/2501.09167)|null|
@@ -314,6 +316,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**LLM-Agents Driven Automated Simulation Testing and Analysis of small Uncrewed Aerial Systems**|Venkata Sai Aswath Duvvuru et.al.|[2501.11864](http://arxiv.org/abs/2501.11864)|null|
+|**2025-01-21**|**EmbodiedEval: Evaluate Multimodal LLMs as Embodied Agents**|Zhili Cheng et.al.|[2501.11858](http://arxiv.org/abs/2501.11858)|**[link](https://github.com/thunlp/embodiedeval)**|
+|**2025-01-20**|**Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training**|Siyu Yuan et.al.|[2501.11425](http://arxiv.org/abs/2501.11425)|**[link](https://github.com/bytedance/agent-r)**|
+|**2025-01-20**|**Large Language Model Agents for Radio Map Generation and Wireless Network Planning**|Hongye Quan et.al.|[2501.11283](http://arxiv.org/abs/2501.11283)|null|
+|**2025-01-20**|**PlotEdit: Natural Language-Driven Accessible Chart Editing in PDFs via Multimodal LLM Agents**|Kanika Goswami et.al.|[2501.11233](http://arxiv.org/abs/2501.11233)|null|
+|**2025-01-18**|**Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments**|Hongjin Su et.al.|[2501.10893](http://arxiv.org/abs/2501.10893)|null|
+|**2025-01-18**|**ML-SceGen: A Multi-level Scenario Generation Framework**|Yicheng Xiao et.al.|[2501.10782](http://arxiv.org/abs/2501.10782)|null|
 |**2025-01-17**|**PaSa: An LLM Agent for Comprehensive Academic Paper Search**|Yichen He et.al.|[2501.10120](http://arxiv.org/abs/2501.10120)|null|
 |**2025-01-17**|**Universal Actions for Enhanced Embodied Foundation Models**|Jinliang Zheng et.al.|[2501.10105](http://arxiv.org/abs/2501.10105)|**[link](https://github.com/2toinf/uniact)**|
 |**2025-01-17**|**A Survey on LLM Test-Time Compute via Search: Tasks, LLM Profiling, Search Algorithms, and Relevant Frameworks**|Xinzhe Li et.al.|[2501.10069](http://arxiv.org/abs/2501.10069)|null|
@@ -609,6 +618,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**EmbodiedEval: Evaluate Multimodal LLMs as Embodied Agents**|Zhili Cheng et.al.|[2501.11858](http://arxiv.org/abs/2501.11858)|**[link](https://github.com/thunlp/embodiedeval)**|
 |**2025-01-17**|**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning**|Yuecheng Liu et.al.|[2501.10074](http://arxiv.org/abs/2501.10074)|null|
 |**2025-01-15**|**Embodied Scene Understanding for Vision Language Models via MetaVQA**|Weizhen Wang et.al.|[2501.09167](http://arxiv.org/abs/2501.09167)|null|
 |**2025-01-15**|**Physical AI Agents: Integrating Cognitive Intelligence with Real-World Action**|Fouad Bousetouane et.al.|[2501.08944](http://arxiv.org/abs/2501.08944)|null|
@@ -781,7 +791,7 @@
 |---|---|---|---|---|
 |**2024-12-18**|**NAVCON: A Cognitively Inspired and Linguistically Grounded Corpus for Vision and Language Navigation**|Karan Wanchoo et.al.|[2412.13026](http://arxiv.org/abs/2412.13026)|null|
 |**2024-12-13**|**Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments**|Kehan Chen et.al.|[2412.10137](http://arxiv.org/abs/2412.10137)|null|
-|**2024-12-12**|**Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**|Xinshuai Song et.al.|[2412.09082](http://arxiv.org/abs/2412.09082)|null|
+|**2025-01-20**|**Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**|Xinshuai Song et.al.|[2412.09082](http://arxiv.org/abs/2412.09082)|null|
 |**2024-12-08**|**doScenes: An Autonomous Driving Dataset with Natural Language Instruction for Human Interaction and Vision-Language Navigation**|Parthib Roy et.al.|[2412.05893](http://arxiv.org/abs/2412.05893)|null|
 |**2024-11-25**|**UnitedVLN: Generalizable Gaussian Splatting for Continuous Vision-Language Navigation**|Guangzhao Dai et.al.|[2411.16053](http://arxiv.org/abs/2411.16053)|null|
 |**2024-11-12**|**NL-SLAM for OC-VLN: Natural Language Grounded SLAM for Object-Centric VLN**|Sonia Raychaudhuri et.al.|[2411.07848](http://arxiv.org/abs/2411.07848)|null|

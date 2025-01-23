@@ -57,6 +57,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Patent Figure Classification using Large Vision-language Models**|Sushil Awale et.al.|[2501.12751](http://arxiv.org/abs/2501.12751)|**[link](https://github.com/tibhannover/patent-figure-classification)**|
+|**2025-01-22**|**Combining Knowledge Graph and LLMs for Enhanced Zero-shot Visual Question Answering**|Qian Tao et.al.|[2501.12697](http://arxiv.org/abs/2501.12697)|null|
 |**2025-01-21**|**VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model**|Xianwei Zhuang et.al.|[2501.12327](http://arxiv.org/abs/2501.12327)|**[link](https://github.com/VARGPT-family/VARGPT)**|
 |**2025-01-18**|**Can Multimodal LLMs do Visual Temporal Understanding and Reasoning? The answer is No!**|Mohamed Fazli Imam et.al.|[2501.10674](http://arxiv.org/abs/2501.10674)|null|
 |**2025-01-16**|**A Simple Aerial Detection Baseline of Multimodal Language Models**|Qingyun Li et.al.|[2501.09720](http://arxiv.org/abs/2501.09720)|**[link](https://github.com/li-qingyun/mllm-mmrotate)**|
@@ -619,7 +621,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-21**|**EmbodiedEval: Evaluate Multimodal LLMs as Embodied Agents**|Zhili Cheng et.al.|[2501.11858](http://arxiv.org/abs/2501.11858)|**[link](https://github.com/thunlp/embodiedeval)**|
-|**2025-01-17**|**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning**|Yuecheng Liu et.al.|[2501.10074](http://arxiv.org/abs/2501.10074)|null|
+|**2025-01-22**|**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning**|Yuecheng Liu et.al.|[2501.10074](http://arxiv.org/abs/2501.10074)|null|
 |**2025-01-15**|**Embodied Scene Understanding for Vision Language Models via MetaVQA**|Weizhen Wang et.al.|[2501.09167](http://arxiv.org/abs/2501.09167)|null|
 |**2025-01-15**|**Physical AI Agents: Integrating Cognitive Intelligence with Real-World Action**|Fouad Bousetouane et.al.|[2501.08944](http://arxiv.org/abs/2501.08944)|null|
 |**2025-01-13**|**A Survey of Embodied AI in Healthcare: Techniques, Applications, and Opportunities**|Yihao Liu et.al.|[2501.07468](http://arxiv.org/abs/2501.07468)|null|

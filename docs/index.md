@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -55,7 +55,7 @@ layout: default
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**DocMIA: Document-Level Membership Inference Attacks against DocVQA Models**|Khanh Nguyen et.al.|[2502.03692](http://arxiv.org/abs/2502.03692)|null|
 |**2025-02-05**|**VQA-Levels: A Hierarchical Approach for Classifying Questions in VQA**|Madhuri Latha Madaka et.al.|[2502.02951](http://arxiv.org/abs/2502.02951)|null|
-|**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|null|
+|**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|**[link](https://github.com/hashmatshadab/robust-llava)**|
 |**2025-02-04**|**Hypo3D: Exploring Hypothetical Reasoning in 3D**|Ye Mao et.al.|[2502.00954](http://arxiv.org/abs/2502.00954)|null|
 |**2025-02-02**|**VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**|Yuxin Lin et.al.|[2502.00843](http://arxiv.org/abs/2502.00843)|null|
 |**2025-01-31**|**Anatomy Might Be All You Need: Forecasting What to Do During Surgery**|Gary Sarwin et.al.|[2501.18011](http://arxiv.org/abs/2501.18011)|null|

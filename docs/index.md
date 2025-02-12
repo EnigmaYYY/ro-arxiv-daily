@@ -324,6 +324,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**MAGELLAN: Metacognitive predictions of learning progress guide autotelic LLM agents in large goal spaces**|Loris Gaven et.al.|[2502.07709](http://arxiv.org/abs/2502.07709)|null|
+|**2025-02-11**|**Approximating Human Strategic Reasoning with LLM-Enhanced Recursive Reasoners Leveraging Multi-agent Hypergames**|Vince Trencsenyi et.al.|[2502.07443](http://arxiv.org/abs/2502.07443)|null|
+|**2025-02-11**|**Graph RAG-Tool Fusion**|Elias Lumer et.al.|[2502.07223](http://arxiv.org/abs/2502.07223)|null|
+|**2025-02-11**|**Don't Just Demo, Teach Me the Principles: A Principle-Based Multi-Agent Prompting Strategy for Text Classification**|Peipei Wei et.al.|[2502.07165](http://arxiv.org/abs/2502.07165)|null|
+|**2025-02-10**|**Interactive Data Harmonization with LLM Agents**|Aécio Santos et.al.|[2502.07132](http://arxiv.org/abs/2502.07132)|null|
+|**2025-02-10**|**Repository-level Code Search with Neural Retrieval Methods**|Siddharth Gandhi et.al.|[2502.07067](http://arxiv.org/abs/2502.07067)|null|
+|**2025-02-10**|**SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering**|Xuehang Guo et.al.|[2502.06994](http://arxiv.org/abs/2502.06994)|null|
+|**2025-02-10**|**Position: Episodic Memory is the Missing Piece for Long-Term LLM Agents**|Mathis Pink et.al.|[2502.06975](http://arxiv.org/abs/2502.06975)|null|
 |**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787](http://arxiv.org/abs/2502.06787)|null|
 |**2025-02-10**|**Towards Internet-Scale Training For Agents**|Brandon Trabucco et.al.|[2502.06776](http://arxiv.org/abs/2502.06776)|null|
 |**2025-02-10**|**Hephaestus: Improving Fundamental Agent Capabilities of Large Language Models through Continual Pre-Training**|Yuchen Zhuang et.al.|[2502.06589](http://arxiv.org/abs/2502.06589)|null|
@@ -667,6 +675,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**TorchResist: Open-Source Differentiable Resist Simulator**|Zixiao Wang et.al.|[2502.06838](http://arxiv.org/abs/2502.06838)|null|
 |**2025-02-01**|**RefDrone: A Challenging Benchmark for Referring Expression Comprehension in Drone Scenes**|Zhichao Sun et.al.|[2502.00392](http://arxiv.org/abs/2502.00392)|null|
 |**2025-02-01**|**Latent Action Learning Requires Supervision in the Presence of Distractors**|Alexander Nikulin et.al.|[2502.00379](http://arxiv.org/abs/2502.00379)|null|
 |**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318](http://arxiv.org/abs/2501.19318)|null|
@@ -777,8 +786,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Survey on Vision-Language-Action Models**|Adilzhan Adilkhanov et.al.|[2502.06851](http://arxiv.org/abs/2502.06851)|null|
 |**2025-02-09**|**DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control**|Junjie Wen et.al.|[2502.05855](http://arxiv.org/abs/2502.05855)|null|
-|**2025-02-08**|**HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation**|Yi Li et.al.|[2502.05485](http://arxiv.org/abs/2502.05485)|null|
+|**2025-02-11**|**HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation**|Yi Li et.al.|[2502.05485](http://arxiv.org/abs/2502.05485)|null|
 |**2025-02-08**|**ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy**|Yuhui Chen et.al.|[2502.05450](http://arxiv.org/abs/2502.05450)|null|
 |**2025-02-06**|**Probing a Vision-Language-Action Model for Symbolic States and Integration into a Cognitive Architecture**|Hong Lu et.al.|[2502.04558](http://arxiv.org/abs/2502.04558)|null|
 |**2025-02-04**|**VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation**|Siyu Xu et.al.|[2502.02175](http://arxiv.org/abs/2502.02175)|null|
@@ -849,6 +859,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation**|Navid Rajabi et.al.|[2502.07306](http://arxiv.org/abs/2502.07306)|null|
 |**2025-02-10**|**VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning**|Yi Du et.al.|[2502.00931](http://arxiv.org/abs/2502.00931)|null|
 |**2024-12-18**|**NAVCON: A Cognitively Inspired and Linguistically Grounded Corpus for Vision and Language Navigation**|Karan Wanchoo et.al.|[2412.13026](http://arxiv.org/abs/2412.13026)|null|
 |**2024-12-13**|**Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments**|Kehan Chen et.al.|[2412.10137](http://arxiv.org/abs/2412.10137)|null|

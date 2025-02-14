@@ -46,6 +46,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**EmoAssist: Emotional Assistant for Visual Impairment Community**|Xingyu Qi et.al.|[2502.09285](http://arxiv.org/abs/2502.09285)|null|
+|**2025-02-13**|**Abduction of Domain Relationships from Data for VQA**|Al Mehdi Saadat Chowdhury et.al.|[2502.09219](http://arxiv.org/abs/2502.09219)|null|
+|**2025-02-13**|**Visual Graph Question Answering with ASP and LLMs for Language Parsing**|Jakob Johannes Bauer et.al.|[2502.09211](http://arxiv.org/abs/2502.09211)|null|
 |**2025-02-11**|**Vision-Language Models for Edge Networks: A Comprehensive Survey**|Ahmed Sharshar et.al.|[2502.07855](http://arxiv.org/abs/2502.07855)|null|
 |**2025-02-09**|**ClinKD: Cross-Modal Clinic Knowledge Distiller For Multi-Task Medical Images**|Hongyu Ge et.al.|[2502.05928](http://arxiv.org/abs/2502.05928)|null|
 |**2025-02-09**|**Performance Analysis of Traditional VQA Models Under Limited Computational Resources**|Jihao Gu et.al.|[2502.05738](http://arxiv.org/abs/2502.05738)|null|
@@ -325,6 +328,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**|Rui Yang et.al.|[2502.09560](http://arxiv.org/abs/2502.09560)|null|
+|**2025-02-13**|**RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage**|Peter Yong Zhong et.al.|[2502.08966](http://arxiv.org/abs/2502.08966)|null|
+|**2025-02-12**|**If Multi-Agent Debate is the Answer, What is the Question?**|Hangfan Zhang et.al.|[2502.08788](http://arxiv.org/abs/2502.08788)|null|
 |**2025-02-12**|**SPeCtrum: A Grounded Framework for Multidimensional Identity Representation in LLM-Based Agent**|Keyeun Lee et.al.|[2502.08599](http://arxiv.org/abs/2502.08599)|null|
 |**2025-02-12**|**Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks**|Ang Li et.al.|[2502.08586](http://arxiv.org/abs/2502.08586)|null|
 |**2025-02-11**|**Symbiotic Cooperation for Web Agents: Harnessing Complementary Strengths of Large and Small LLMs**|Ruichen Zhang et.al.|[2502.07942](http://arxiv.org/abs/2502.07942)|null|
@@ -679,6 +685,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization**|Onat Şahin et.al.|[2502.09278](http://arxiv.org/abs/2502.09278)|null|
 |**2025-02-12**|**Human-Centric Foundation Models: Perception, Generation and Agentic Modeling**|Shixiang Tang et.al.|[2502.08556](http://arxiv.org/abs/2502.08556)|null|
 |**2025-02-06**|**TorchResist: Open-Source Differentiable Resist Simulator**|Zixiao Wang et.al.|[2502.06838](http://arxiv.org/abs/2502.06838)|null|
 |**2025-02-01**|**RefDrone: A Challenging Benchmark for Referring Expression Comprehension in Drone Scenes**|Zhichao Sun et.al.|[2502.00392](http://arxiv.org/abs/2502.00392)|null|
@@ -791,6 +798,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation**|Hongyin Zhang et.al.|[2502.09268](http://arxiv.org/abs/2502.09268)|null|
 |**2025-02-07**|**Survey on Vision-Language-Action Models**|Adilzhan Adilkhanov et.al.|[2502.06851](http://arxiv.org/abs/2502.06851)|null|
 |**2025-02-09**|**DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control**|Junjie Wen et.al.|[2502.05855](http://arxiv.org/abs/2502.05855)|null|
 |**2025-02-11**|**HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation**|Yi Li et.al.|[2502.05485](http://arxiv.org/abs/2502.05485)|null|
@@ -864,6 +872,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**ClipRover: Zero-shot Vision-Language Exploration and Target Discovery by Mobile Robots**|Yuxuan Zhang et.al.|[2502.08791](http://arxiv.org/abs/2502.08791)|null|
 |**2025-02-11**|**TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation**|Navid Rajabi et.al.|[2502.07306](http://arxiv.org/abs/2502.07306)|null|
 |**2025-02-10**|**VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning**|Yi Du et.al.|[2502.00931](http://arxiv.org/abs/2502.00931)|null|
 |**2024-12-18**|**NAVCON: A Cognitively Inspired and Linguistically Grounded Corpus for Vision and Language Navigation**|Karan Wanchoo et.al.|[2412.13026](http://arxiv.org/abs/2412.13026)|null|

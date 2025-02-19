@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space**|Yong Zhao et.al.|[2502.12532](http://arxiv.org/abs/2502.12532)|null|
 |**2025-01-24**|**Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding**|Liping Yuan et.al.|[2501.07888](http://arxiv.org/abs/2501.07888)|**[link](https://github.com/bytedance/tarsier)**|
 |**2024-12-19**|**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**|Saumya Saxena et.al.|[2412.14480](http://arxiv.org/abs/2412.14480)|null|
 |**2024-12-14**|**NoisyEQA: Benchmarking Embodied Question Answering Against Noisy Queries**|Tao Wu et.al.|[2412.10726](http://arxiv.org/abs/2412.10726)|null|
@@ -57,6 +58,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
+|**2025-02-18**|**SimpleVQA: Multimodal Factuality Evaluation for Multimodal Large Language Models**|Xianfu Cheng et.al.|[2502.13059](http://arxiv.org/abs/2502.13059)|null|
 |**2025-02-17**|**"See the World, Discover Knowledge": A Chinese Factuality Evaluation for Large Vision Language Models**|Jihao Gu et.al.|[2502.11718](http://arxiv.org/abs/2502.11718)|null|
 |**2025-02-17**|**MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression**|Linjie Mu et.al.|[2502.11651](http://arxiv.org/abs/2502.11651)|null|
 |**2025-02-13**|**On the robustness of multimodal language model towards distractions**|Ming Liu et.al.|[2502.09818](http://arxiv.org/abs/2502.09818)|null|
@@ -344,6 +347,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Interactive Agents to Overcome Ambiguity in Software Engineering**|Sanidhya Vijayvargiya et.al.|[2502.13069](http://arxiv.org/abs/2502.13069)|null|
+|**2025-02-18**|**Towards a Design Guideline for RPA Evaluation: A Survey of Large Language Model-Based Role-Playing Agents**|Chaoran Chen et.al.|[2502.13012](http://arxiv.org/abs/2502.13012)|null|
+|**2025-02-18**|**Towards Adaptive Feedback with AI: Comparing the Feedback Quality of LLMs and Teachers on Experimentation Protocols**|Kathrin Seßler et.al.|[2502.12842](http://arxiv.org/abs/2502.12842)|null|
+|**2025-02-18**|**UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design**|Yuxuan Lu et.al.|[2502.12561](http://arxiv.org/abs/2502.12561)|null|
+|**2025-02-18**|**CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space**|Yong Zhao et.al.|[2502.12532](http://arxiv.org/abs/2502.12532)|null|
+|**2025-02-18**|**EDGE: Efficient Data Selection for LLM Agents via Guideline Effectiveness**|Yunxiao Zhang et.al.|[2502.12494](http://arxiv.org/abs/2502.12494)|null|
+|**2025-02-18**|**EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning**|Xiaoqian Liu et.al.|[2502.12486](http://arxiv.org/abs/2502.12486)|null|
+|**2025-02-18**|**Investigating and Extending Homans' Social Exchange Theory with Large Language Model based Agents**|Lei Wang et.al.|[2502.12450](http://arxiv.org/abs/2502.12450)|null|
+|**2025-02-17**|**Connecting Large Language Model Agent to High Performance Computing Resource**|Heng Ma et.al.|[2502.12280](http://arxiv.org/abs/2502.12280)|null|
 |**2025-02-17**|**HARBOR: Exploring Persona Dynamics in Multi-Agent Competition**|Kenan Jiang et.al.|[2502.12149](http://arxiv.org/abs/2502.12149)|null|
 |**2025-02-17**|**Scaling Autonomous Agents via Automatic Reward Modeling And Planning**|Zhenfang Chen et.al.|[2502.12130](http://arxiv.org/abs/2502.12130)|null|
 |**2025-02-17**|**A-MEM: Agentic Memory for LLM Agents**|Wujiang Xu et.al.|[2502.12110](http://arxiv.org/abs/2502.12110)|null|
@@ -717,6 +729,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation**|Zekun Qi et.al.|[2502.13143](http://arxiv.org/abs/2502.13143)|null|
 |**2025-02-17**|**VLP: Vision-Language Preference Learning for Embodied Manipulation**|Runze Liu et.al.|[2502.11918](http://arxiv.org/abs/2502.11918)|null|
 |**2025-02-17**|**Defining and Evaluating Visual Language Models' Basic Spatial Abilities: A Perspective from Psychometrics**|Wenrui Xu et.al.|[2502.11859](http://arxiv.org/abs/2502.11859)|null|
 |**2025-02-17**|**Generative Multi-Agent Collaboration in Embodied AI: A Systematic Review**|Di Wu et.al.|[2502.11518](http://arxiv.org/abs/2502.11518)|null|

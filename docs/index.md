@@ -47,6 +47,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**BioD2C: A Dual-level Semantic Consistency Constraint Framework for Biomedical VQA**|Zhengyang Ji et.al.|[2503.02476](http://arxiv.org/abs/2503.02476)|null|
+|**2025-03-04**|**Are Large Vision Language Models Good Game Players?**|Xinyu Wang et.al.|[2503.02358](http://arxiv.org/abs/2503.02358)|null|
+|**2025-03-03**|**Watch Out Your Album! On the Inadvertent Privacy Memorization in Multi-Modal Large Language Models**|Tianjie Ju et.al.|[2503.01208](http://arxiv.org/abs/2503.01208)|**[link](https://github.com/illusionhi/probingprivacy)**|
+|**2025-03-02**|**FunBench: Benchmarking Fundus Reading Skills of MLLMs**|Qijie Wei et.al.|[2503.00901](http://arxiv.org/abs/2503.00901)|null|
+|**2025-03-01**|**CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering**|Tianyu Huai et.al.|[2503.00413](http://arxiv.org/abs/2503.00413)|null|
 |**2025-02-28**|**Fine-Grained Retrieval-Augmented Generation for Visual Question Answering**|Zhengxuan Zhang et.al.|[2502.20964](http://arxiv.org/abs/2502.20964)|null|
 |**2025-02-28**|**PathVG: A New Benchmark and Dataset for Pathology Visual Grounding**|Chunlin Zhong et.al.|[2502.20869](http://arxiv.org/abs/2502.20869)|null|
 |**2025-02-28**|**MedHallTune: An Instruction-Tuning Benchmark for Mitigating Medical Hallucination in Vision-Language Models**|Qiao Yan et.al.|[2502.20780](http://arxiv.org/abs/2502.20780)|null|
@@ -354,6 +359,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**MPO: Boosting LLM Agents with Meta Plan Optimization**|Weimin Xiong et.al.|[2503.02682](http://arxiv.org/abs/2503.02682)|null|
+|**2025-03-04**|**Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent**|Xingzuo Li et.al.|[2503.02519](http://arxiv.org/abs/2503.02519)|null|
+|**2025-03-04**|**Teaching Metric Distance to Autoregressive Multimodal Foundational Models**|Jiwan Chung et.al.|[2503.02379](http://arxiv.org/abs/2503.02379)|null|
+|**2025-03-04**|**ATLaS: Agent Tuning via Learning Critical Steps**|Zhixun Chen et.al.|[2503.02197](http://arxiv.org/abs/2503.02197)|null|
+|**2025-03-03**|**Persuasion at Play: Understanding Misinformation Dynamics in Demographic-Aware Human-LLM Interactions**|Angana Borah et.al.|[2503.02038](http://arxiv.org/abs/2503.02038)|null|
+|**2025-03-03**|**MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents**|Kunlun Zhu et.al.|[2503.01935](http://arxiv.org/abs/2503.01935)|null|
+|**2025-03-03**|**Student engagement in collaborative learning with AI agents in an LLM-empowered learning environment: A cluster analysis**|Zhanxin Hao et.al.|[2503.01694](http://arxiv.org/abs/2503.01694)|null|
+|**2025-03-02**|**NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks In Open Domains**|Wonje Choi et.al.|[2503.00870](http://arxiv.org/abs/2503.00870)|null|
+|**2025-03-02**|**Evaluating Personalized Tool-Augmented LLMs from the Perspectives of Personalization and Proactivity**|Yupu Hao et.al.|[2503.00771](http://arxiv.org/abs/2503.00771)|**[link](https://github.com/hypasd-art/etapp)**|
+|**2025-03-02**|**CLEA: Closed-Loop Embodied Agent for Enhancing Task Execution in Dynamic Environments**|Mingcong Lei et.al.|[2503.00729](http://arxiv.org/abs/2503.00729)|**[link](https://github.com/SP4595/CLEA-Closed-Loop-Embodied-Agent)**|
 |**2025-02-28**|**ARIES: Autonomous Reasoning with LLMs on Interactive Thought Graph Environments**|Pedro Gimenes et.al.|[2502.21208](http://arxiv.org/abs/2502.21208)|null|
 |**2025-02-28**|**PASemiQA: Plan-Assisted Agent for Question Answering on Semi-Structured Data with Text and Relational Information**|Hansi Yang et.al.|[2502.21087](http://arxiv.org/abs/2502.21087)|null|
 |**2025-02-28**|**The Power of Personality: A Human Simulation Perspective to Investigate Large Language Model Agents**|Yifan Duan et.al.|[2502.20859](http://arxiv.org/abs/2502.20859)|null|
@@ -766,7 +781,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-28**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
+|**2025-03-04**|**WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation**|Dujun Nie et.al.|[2503.02247](http://arxiv.org/abs/2503.02247)|null|
+|**2025-03-02**|**AffordGrasp: In-Context Affordance Reasoning for Open-Vocabulary Task-Oriented Grasping in Clutter**|Yingbo Tang et.al.|[2503.00778](http://arxiv.org/abs/2503.00778)|null|
+|**2025-03-04**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
 |**2025-02-19**|**Sce2DriveX: A Generalized MLLM Framework for Scene-to-Drive Learning**|Rui Zhao et.al.|[2502.14917](http://arxiv.org/abs/2502.14917)|null|
 |**2025-02-21**|**MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation**|Lingfeng Zhang et.al.|[2502.13451](http://arxiv.org/abs/2502.13451)|null|
 |**2025-02-25**|**Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks**|Wenpeng Xing et.al.|[2502.13175](http://arxiv.org/abs/2502.13175)|null|
@@ -889,6 +906,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Wenxuan Song et.al.|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
+|**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Artem Lykov et.al.|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
+|**2025-03-03**|**A Taxonomy for Evaluating Generalist Robot Policies**|Jensen Gao et.al.|[2503.01238](http://arxiv.org/abs/2503.01238)|null|
 |**2025-02-28**|**DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping**|Yifan Zhong et.al.|[2502.20900](http://arxiv.org/abs/2502.20900)|null|
 |**2025-02-27**|**Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success**|Moo Jin Kim et.al.|[2502.19645](http://arxiv.org/abs/2502.19645)|null|
 |**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/abs/2502.19417)|null|
@@ -971,7 +991,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-28**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
+|**2025-03-04**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
 |**2025-02-12**|**ClipRover: Zero-shot Vision-Language Exploration and Target Discovery by Mobile Robots**|Yuxuan Zhang et.al.|[2502.08791](http://arxiv.org/abs/2502.08791)|null|
 |**2025-02-11**|**TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation**|Navid Rajabi et.al.|[2502.07306](http://arxiv.org/abs/2502.07306)|null|
 |**2025-02-10**|**VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning**|Yi Du et.al.|[2502.00931](http://arxiv.org/abs/2502.00931)|null|

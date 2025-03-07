@@ -47,7 +47,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-05**|**Enhancing Vietnamese VQA through Curriculum Learning on Raw and Augmented Text Representations**|Khoi Anh Nguyen et.al.|[2503.03285](http://arxiv.org/abs/2503.03285)|null|
+|**2025-03-06**|**Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation**|Aishik Konwer et.al.|[2503.04639](http://arxiv.org/abs/2503.04639)|null|
+|**2025-03-06**|**Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**|Wenke Huang et.al.|[2503.04543](http://arxiv.org/abs/2503.04543)|null|
+|**2025-03-06**|**AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM**|Sunghyun Ahn et.al.|[2503.04504](http://arxiv.org/abs/2503.04504)|null|
+|**2025-03-06**|**Question-Aware Gaussian Experts for Audio-Visual Question Answering**|Hongyeob Kim et.al.|[2503.04459](http://arxiv.org/abs/2503.04459)|**[link](https://github.com/AIM-SKKU/QA-TIGER)**|
+|**2025-03-06**|**Enhancing Vietnamese VQA through Curriculum Learning on Raw and Augmented Text Representations**|Khoi Anh Nguyen et.al.|[2503.03285](http://arxiv.org/abs/2503.03285)|null|
 |**2025-03-04**|**BioD2C: A Dual-level Semantic Consistency Constraint Framework for Biomedical VQA**|Zhengyang Ji et.al.|[2503.02476](http://arxiv.org/abs/2503.02476)|null|
 |**2025-03-04**|**Are Large Vision Language Models Good Game Players?**|Xinyu Wang et.al.|[2503.02358](http://arxiv.org/abs/2503.02358)|null|
 |**2025-03-03**|**Watch Out Your Album! On the Inadvertent Privacy Memorization in Multi-Modal Large Language Models**|Tianjie Ju et.al.|[2503.01208](http://arxiv.org/abs/2503.01208)|**[link](https://github.com/illusionhi/probingprivacy)**|
@@ -360,6 +364,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**ToolFuzz -- Automated Agent Tool Testing**|Ivan Milev et.al.|[2503.04479](http://arxiv.org/abs/2503.04479)|null|
+|**2025-03-06**|**Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks**|Lukáš Gajdošech et.al.|[2503.04308](http://arxiv.org/abs/2503.04308)|null|
+|**2025-03-06**|**Measuring temporal effects of agent knowledge by date-controlled tool use**|R. Patrick Xian et.al.|[2503.04188](http://arxiv.org/abs/2503.04188)|null|
+|**2025-03-06**|**InterChat: Enhancing Generative Visual Analytics using Multimodal Interactions**|Juntong Chen et.al.|[2503.04110](http://arxiv.org/abs/2503.04110)|null|
 |**2025-03-05**|**A Practical Memory Injection Attack against LLM Agents**|Shen Dong et.al.|[2503.03704](http://arxiv.org/abs/2503.03704)|null|
 |**2025-03-04**|**MPO: Boosting LLM Agents with Meta Plan Optimization**|Weimin Xiong et.al.|[2503.02682](http://arxiv.org/abs/2503.02682)|null|
 |**2025-03-04**|**Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent**|Xingzuo Li et.al.|[2503.02519](http://arxiv.org/abs/2503.02519)|null|
@@ -908,6 +916,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**VLA Model-Expert Collaboration for Bi-directional Manipulation Learning**|Tian-Yu Xiang et.al.|[2503.04163](http://arxiv.org/abs/2503.04163)|null|
 |**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
 |**2025-03-05**|**SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning**|Borong Zhang et.al.|[2503.03480](http://arxiv.org/abs/2503.03480)|null|
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Wenxuan Song et.al.|[2503.02310](http://arxiv.org/abs/2503.02310)|null|

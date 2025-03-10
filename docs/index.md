@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -368,7 +368,7 @@ layout: default
 |**2025-03-06**|**Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks**|Lukáš Gajdošech et.al.|[2503.04308](http://arxiv.org/abs/2503.04308)|null|
 |**2025-03-06**|**Measuring temporal effects of agent knowledge by date-controlled tool use**|R. Patrick Xian et.al.|[2503.04188](http://arxiv.org/abs/2503.04188)|null|
 |**2025-03-06**|**InterChat: Enhancing Generative Visual Analytics using Multimodal Interactions**|Juntong Chen et.al.|[2503.04110](http://arxiv.org/abs/2503.04110)|null|
-|**2025-03-05**|**A Practical Memory Injection Attack against LLM Agents**|Shen Dong et.al.|[2503.03704](http://arxiv.org/abs/2503.03704)|null|
+|**2025-03-07**|**A Practical Memory Injection Attack against LLM Agents**|Shen Dong et.al.|[2503.03704](http://arxiv.org/abs/2503.03704)|null|
 |**2025-03-04**|**MPO: Boosting LLM Agents with Meta Plan Optimization**|Weimin Xiong et.al.|[2503.02682](http://arxiv.org/abs/2503.02682)|null|
 |**2025-03-04**|**Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent**|Xingzuo Li et.al.|[2503.02519](http://arxiv.org/abs/2503.02519)|null|
 |**2025-03-04**|**Teaching Metric Distance to Autoregressive Multimodal Foundational Models**|Jiwan Chung et.al.|[2503.02379](http://arxiv.org/abs/2503.02379)|null|
@@ -1049,7 +1049,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-20**|**Mem2Ego: Empowering Vision-Language Models with Global-to-Ego Memory for Long-Horizon Embodied Navigation**|Lingfeng Zhang et.al.|[2502.14254](http://arxiv.org/abs/2502.14254)|null|
-|**2025-03-03**|**NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM**|Zihan Wang et.al.|[2502.11142](http://arxiv.org/abs/2502.11142)|**[link](https://github.com/MrZihan/NavRAG)**|
+|**2025-03-07**|**NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM**|Zihan Wang et.al.|[2502.11142](http://arxiv.org/abs/2502.11142)|**[link](https://github.com/MrZihan/NavRAG)**|
 |**2024-12-11**|**CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs**|Yihan Cao et.al.|[2412.10439](http://arxiv.org/abs/2412.10439)|null|
 |**2024-12-11**|**RoomTour3D: Geometry-Aware Video-Instruction Tuning for Embodied Navigation**|Mingfei Han et.al.|[2412.08591](http://arxiv.org/abs/2412.08591)|null|
 |**2025-02-06**|**Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks**|Jiazhao Zhang et.al.|[2412.06224](http://arxiv.org/abs/2412.06224)|null|

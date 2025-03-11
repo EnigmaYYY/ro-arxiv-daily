@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-09**|**Vector Quantized Feature Fields for Fast 3D Semantic Lifting**|George Tang et.al.|[2503.06469](http://arxiv.org/abs/2503.06469)|null|
 |**2025-02-20**|**CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space**|Yong Zhao et.al.|[2502.12532](http://arxiv.org/abs/2502.12532)|**[link](https://github.com/tsinghua-fib-lab/CityEQA)**|
 |**2025-01-24**|**Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding**|Liping Yuan et.al.|[2501.07888](http://arxiv.org/abs/2501.07888)|**[link](https://github.com/bytedance/tarsier)**|
 |**2024-12-19**|**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**|Saumya Saxena et.al.|[2412.14480](http://arxiv.org/abs/2412.14480)|null|
@@ -58,6 +59,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**From Text to Visuals: Using LLMs to Generate Math Diagrams with Vector Graphics**|Jaewook Lee et.al.|[2503.07429](http://arxiv.org/abs/2503.07429)|null|
+|**2025-03-09**|**RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**|Tri Le et.al.|[2503.06796](http://arxiv.org/abs/2503.06796)|null|
+|**2025-03-09**|**TI-JEPA: An Innovative Energy-based Joint Embedding Strategy for Text-Image Multimodal Systems**|Khang H. N. Vo et.al.|[2503.06380](http://arxiv.org/abs/2503.06380)|null|
+|**2025-03-08**|**MoEMoE: Question Guided Dense and Scalable Sparse Mixture-of-Expert for Multi-source Multi-modal Answering**|Vinay Kumar Verma et.al.|[2503.06296](http://arxiv.org/abs/2503.06296)|null|
+|**2025-03-08**|**SplatTalk: 3D VQA with Gaussian Splatting**|Anh Thai et.al.|[2503.06271](http://arxiv.org/abs/2503.06271)|null|
+|**2025-03-08**|**Treble Counterfactual VLMs: A Causal Approach to Hallucination**|Li Li et.al.|[2503.06169](http://arxiv.org/abs/2503.06169)|null|
+|**2025-03-08**|**Integrating Frequency-Domain Representations with Low-Rank Adaptation in Vision-Language Models**|Md Azim Khan et.al.|[2503.06003](http://arxiv.org/abs/2503.06003)|null|
 |**2025-03-06**|**Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation**|Aishik Konwer et.al.|[2503.04639](http://arxiv.org/abs/2503.04639)|null|
 |**2025-03-06**|**Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**|Wenke Huang et.al.|[2503.04543](http://arxiv.org/abs/2503.04543)|null|
 |**2025-03-06**|**AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM**|Sunghyun Ahn et.al.|[2503.04504](http://arxiv.org/abs/2503.04504)|null|
@@ -377,6 +385,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**LLMs syntactically adapt their language use to their conversational partner**|Florian Kandra et.al.|[2503.07457](http://arxiv.org/abs/2503.07457)|null|
+|**2025-03-10**|**Experimental Exploration: Investigating Cooperative Interaction Behavior Between Humans and Large Language Model Agents**|Guanxuan Jiang et.al.|[2503.07320](http://arxiv.org/abs/2503.07320)|null|
+|**2025-03-10**|**Automated Movie Generation via Multi-Agent CoT Planning**|Weijia Wu et.al.|[2503.07314](http://arxiv.org/abs/2503.07314)|null|
+|**2025-03-10**|**DatawiseAgent: A Notebook-Centric LLM Agent Framework for Automated Data Science**|Ziming You et.al.|[2503.07044](http://arxiv.org/abs/2503.07044)|null|
+|**2025-03-10**|**ProjectEval: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation**|Kaiyuan Liu et.al.|[2503.07010](http://arxiv.org/abs/2503.07010)|null|
+|**2025-03-09**|**Exploring LLM Agents for Cleaning Tabular Machine Learning Datasets**|Tommaso Bendinelli et.al.|[2503.06664](http://arxiv.org/abs/2503.06664)|null|
+|**2025-03-09**|**Performant LLM Agentic Framework for Conversational AI**|Alex Casella et.al.|[2503.06410](http://arxiv.org/abs/2503.06410)|null|
+|**2025-03-07**|**Enhancing Reasoning with Collaboration and Memory**|Julie Michelman et.al.|[2503.05944](http://arxiv.org/abs/2503.05944)|null|
+|**2025-03-07**|**This Is Your Doge, If It Please You: Exploring Deception and Robustness in Mixture of LLMs**|Lorenz Wolf et.al.|[2503.05856](http://arxiv.org/abs/2503.05856)|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
 |**2025-03-07**|**ORANSight-2.0: Foundational LLMs for O-RAN**|Pranshav Gajjar et.al.|[2503.05200](http://arxiv.org/abs/2503.05200)|null|
 |**2025-03-05**|**Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents**|Jingying Zeng et.al.|[2503.04830](http://arxiv.org/abs/2503.04830)|null|
@@ -937,6 +954,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Refined Policy Distillation: From VLA Generalists to RL Experts**|Tobias Jülg et.al.|[2503.05833](http://arxiv.org/abs/2503.05833)|null|
 |**2025-03-06**|**VLA Model-Expert Collaboration for Bi-directional Manipulation Learning**|Tian-Yu Xiang et.al.|[2503.04163](http://arxiv.org/abs/2503.04163)|null|
 |**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
 |**2025-03-05**|**SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning**|Borong Zhang et.al.|[2503.03480](http://arxiv.org/abs/2503.03480)|null|

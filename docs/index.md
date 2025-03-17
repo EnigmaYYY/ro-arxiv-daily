@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**|Kaixuan Jiang et.al.|[2503.11117](http://arxiv.org/abs/2503.11117)|null|
 |**2025-03-09**|**Vector Quantized Feature Fields for Fast 3D Semantic Lifting**|George Tang et.al.|[2503.06469](http://arxiv.org/abs/2503.06469)|null|
 |**2025-02-20**|**CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space**|Yong Zhao et.al.|[2502.12532](http://arxiv.org/abs/2502.12532)|**[link](https://github.com/tsinghua-fib-lab/CityEQA)**|
 |**2025-01-24**|**Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding**|Liping Yuan et.al.|[2501.07888](http://arxiv.org/abs/2501.07888)|**[link](https://github.com/bytedance/tarsier)**|
@@ -48,6 +49,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**T2I-FineEval: Fine-Grained Compositional Metric for Text-to-Image Evaluation**|Seyed Mohammad Hadi Hosseini et.al.|[2503.11481](http://arxiv.org/abs/2503.11481)|null|
+|**2025-03-14**|**DynRsl-VLM: Enhancing Autonomous Driving Perception with Dynamic Resolution Vision-Language Models**|Xirui Zhou et.al.|[2503.11265](http://arxiv.org/abs/2503.11265)|null|
 |**2025-03-13**|**DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[2503.10621](http://arxiv.org/abs/2503.10621)|**[link](https://github.com/ayesha-ishaq/drivelmm-o1)**|
 |**2025-03-13**|**How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game**|Ziyue Wang et.al.|[2503.10042](http://arxiv.org/abs/2503.10042)|null|
 |**2025-03-14**|**On the Limitations of Vision-Language Models in Understanding Image Transforms**|Ahmad Mustafa Anis et.al.|[2503.09837](http://arxiv.org/abs/2503.09837)|null|
@@ -380,6 +383,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Open3DVQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**|Weichen Zhan et.al.|[2503.11094](http://arxiv.org/abs/2503.11094)|null|
+|**2025-03-14**|**EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks**|Yi Zhang et.al.|[2503.11089](http://arxiv.org/abs/2503.11089)|null|
+|**2025-03-14**|**API Agents vs. GUI Agents: Divergence and Convergence**|Chaoyun Zhang et.al.|[2503.11069](http://arxiv.org/abs/2503.11069)|null|
+|**2025-03-14**|**BannerAgency: Advertising Banner Design with Multimodal LLM Agents**|Heng Wang et.al.|[2503.11060](http://arxiv.org/abs/2503.11060)|null|
 |**2025-03-13**|**Uncertainty in Action: Confidence Elicitation in Embodied Agents**|Tianjiao Yu et.al.|[2503.10628](http://arxiv.org/abs/2503.10628)|null|
 |**2025-03-13**|**Capturing Semantic Flow of ML-based Systems**|Shin Yoo et.al.|[2503.10310](http://arxiv.org/abs/2503.10310)|null|
 |**2025-03-13**|**LLM Agents Display Human Biases but Exhibit Distinct Learning Patterns**|Idan Horowitz et.al.|[2503.10248](http://arxiv.org/abs/2503.10248)|null|
@@ -829,6 +836,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**MoMa-Kitchen: A 100K+ Benchmark for Affordance-Grounded Last-Mile Navigation in Mobile Manipulation**|Pingrui Zhang et.al.|[2503.11081](http://arxiv.org/abs/2503.11081)|null|
 |**2025-03-13**|**6D Object Pose Tracking in Internet Videos for Robotic Manipulation**|Georgy Ponimatkin et.al.|[2503.10307](http://arxiv.org/abs/2503.10307)|null|
 |**2025-03-13**|**AhaRobot: A Low-Cost Open-Source Bimanual Mobile Manipulator for Embodied AI**|Haiqin Cui et.al.|[2503.10070](http://arxiv.org/abs/2503.10070)|null|
 |**2025-03-12**|**Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach**|Steeven Janny et.al.|[2503.08306](http://arxiv.org/abs/2503.08306)|null|
@@ -1096,6 +1104,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**|Kaixuan Jiang et.al.|[2503.11117](http://arxiv.org/abs/2503.11117)|null|
 |**2025-03-11**|**Embodied Crowd Counting**|Runling Long et.al.|[2503.08367](http://arxiv.org/abs/2503.08367)|null|
 |**2025-02-20**|**Mem2Ego: Empowering Vision-Language Models with Global-to-Ego Memory for Long-Horizon Embodied Navigation**|Lingfeng Zhang et.al.|[2502.14254](http://arxiv.org/abs/2502.14254)|null|
 |**2025-03-07**|**NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM**|Zihan Wang et.al.|[2502.11142](http://arxiv.org/abs/2502.11142)|**[link](https://github.com/MrZihan/NavRAG)**|

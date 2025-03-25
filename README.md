@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**P3Nav: A Unified Framework for Embodied Navigation Integrating Perception, Planning, and Prediction**|Yufeng Zhong et.al.|[2503.18525](http://arxiv.org/abs/2503.18525)|null|
 |**2025-03-19**|**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**|Kaixuan Jiang et.al.|[2503.11117](http://arxiv.org/abs/2503.11117)|null|
 |**2025-03-09**|**Vector Quantized Feature Fields for Fast 3D Semantic Lifting**|George Tang et.al.|[2503.06469](http://arxiv.org/abs/2503.06469)|null|
 |**2025-02-20**|**CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space**|Yong Zhao et.al.|[2502.12532](http://arxiv.org/abs/2502.12532)|**[link](https://github.com/tsinghua-fib-lab/CityEQA)**|
@@ -60,11 +61,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2503.18854](http://arxiv.org/abs/2503.18854)|null|
+|**2025-03-24**|**DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels**|Erjian Guo et.al.|[2503.18536](http://arxiv.org/abs/2503.18536)|null|
+|**2025-03-24**|**MAGIC-VQA: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering**|Shuo Yang et.al.|[2503.18491](http://arxiv.org/abs/2503.18491)|null|
+|**2025-03-23**|**Expanding the Boundaries of Vision Prior Knowledge in Multi-modal Large Language Models**|Qiao Liang et.al.|[2503.18034](http://arxiv.org/abs/2503.18034)|null|
+|**2025-03-22**|**Progressive Prompt Detailing for Improved Alignment in Text-to-Image Generative Models**|Ketan Suhaas Saichandran et.al.|[2503.17794](http://arxiv.org/abs/2503.17794)|null|
 |**2025-03-21**|**Joint Extraction Matters: Prompt-Based Visual Question Answering for Multi-Field Document Information Extraction**|Mengsay Loem et.al.|[2503.16868](http://arxiv.org/abs/2503.16868)|null|
 |**2025-03-21**|**Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study**|Li Zhang et.al.|[2503.16788](http://arxiv.org/abs/2503.16788)|null|
 |**2025-03-20**|**REVAL: A Comprehension Evaluation on Reliability and Values of Large Vision-Language Models**|Jie Zhang et.al.|[2503.16566](http://arxiv.org/abs/2503.16566)|null|
 |**2025-03-20**|**UMIT: Unifying Medical Imaging Tasks via Vision-Language Models**|Haiyang Yu et.al.|[2503.15892](http://arxiv.org/abs/2503.15892)|**[link](https://github.com/dz-osamu/UMIT)**|
-|**2025-03-20**|**A Vision Centric Remote Sensing Benchmark**|Abduljaleel Adejumo et.al.|[2503.15816](http://arxiv.org/abs/2503.15816)|null|
+|**2025-03-24**|**A Vision Centric Remote Sensing Benchmark**|Abduljaleel Adejumo et.al.|[2503.15816](http://arxiv.org/abs/2503.15816)|null|
 |**2025-03-19**|**EfficientLLaVA:Generalizable Auto-Pruning for Large Vision-language Models**|Yinan Liang et.al.|[2503.15369](http://arxiv.org/abs/2503.15369)|null|
 |**2025-03-19**|**TruthLens:A Training-Free Paradigm for DeepFake Detection**|Ritabrata Chakraborty et.al.|[2503.15342](http://arxiv.org/abs/2503.15342)|null|
 |**2025-03-19**|**GraspCorrect: Robotic Grasp Correction via Vision-Language Model-Guided Feedback**|Sungjae Lee et.al.|[2503.15035](http://arxiv.org/abs/2503.15035)|null|
@@ -415,6 +421,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**EconEvals: Benchmarks and Litmus Tests for LLM Agents in Unknown Environments**|Sara Fish et.al.|[2503.18825](http://arxiv.org/abs/2503.18825)|null|
+|**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|null|
+|**2025-03-24**|**AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents**|Haoyu Wang et.al.|[2503.18666](http://arxiv.org/abs/2503.18666)|null|
+|**2025-03-23**|**AgentRxiv: Towards Collaborative Autonomous Research**|Samuel Schmidgall et.al.|[2503.18102](http://arxiv.org/abs/2503.18102)|null|
+|**2025-03-23**|**An Empirical Study of the Role of Incompleteness and Ambiguity in Interactions with Large Language Models**|Riya Naik et.al.|[2503.17936](http://arxiv.org/abs/2503.17936)|null|
+|**2025-03-22**|**CP-AgentNet: Autonomous and Explainable Communication Protocol Design Using Generative Agents**|Dae Cheol Kwon et.al.|[2503.17850](http://arxiv.org/abs/2503.17850)|null|
+|**2025-03-22**|**RAIDER: Tool-Equipped Large Language Model Agent for Robotic Action Issue Detection, Explanation and Recovery**|Silvia Izquierdo-Badiola et.al.|[2503.17703](http://arxiv.org/abs/2503.17703)|null|
+|**2025-03-21**|**Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM-Based Optimization Agent**|Humza Nusrat et.al.|[2503.17553](http://arxiv.org/abs/2503.17553)|null|
 |**2025-03-21**|**CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities**|Yuxuan Zhu et.al.|[2503.17332](http://arxiv.org/abs/2503.17332)|**[link](https://github.com/uiuc-kang-lab/cve-bench)**|
 |**2025-03-21**|**A-IDE : Agent-Integrated Denoising Experts**|Uihyun Cho et.al.|[2503.16780](http://arxiv.org/abs/2503.16780)|null|
 |**2025-03-19**|**EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?**|Xinyan Chen et.al.|[2503.16545](http://arxiv.org/abs/2503.16545)|null|
@@ -892,6 +906,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-23**|**Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook**|Xu Zheng et.al.|[2503.18016](http://arxiv.org/abs/2503.18016)|null|
 |**2025-03-20**|**Towards Agentic AI Networking in 6G: A Generative Foundation Model-as-Agent Approach**|Yong Xiao et.al.|[2503.15764](http://arxiv.org/abs/2503.15764)|null|
 |**2025-03-18**|**MoK-RAG: Mixture of Knowledge Paths Enhanced Retrieval-Augmented Generation for Embodied AI Environments**|Zhengsheng Guo et.al.|[2503.13882](http://arxiv.org/abs/2503.13882)|null|
 |**2025-03-17**|**Infinite Mobility: Scalable High-Fidelity Synthesis of Articulated Objects via Procedural Generation**|Xinyu Lian et.al.|[2503.13424](http://arxiv.org/abs/2503.13424)|null|
@@ -1128,6 +1143,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-23**|**Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation**|Ziming Wei et.al.|[2503.18065](http://arxiv.org/abs/2503.18065)|null|
 |**2025-03-08**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
 |**2025-02-12**|**ClipRover: Zero-shot Vision-Language Exploration and Target Discovery by Mobile Robots**|Yuxuan Zhang et.al.|[2502.08791](http://arxiv.org/abs/2502.08791)|null|
 |**2025-02-11**|**TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation**|Navid Rajabi et.al.|[2502.07306](http://arxiv.org/abs/2502.07306)|null|
@@ -1174,6 +1190,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**P3Nav: A Unified Framework for Embodied Navigation Integrating Perception, Planning, and Prediction**|Yufeng Zhong et.al.|[2503.18525](http://arxiv.org/abs/2503.18525)|null|
 |**2025-03-19**|**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**|Kaixuan Jiang et.al.|[2503.11117](http://arxiv.org/abs/2503.11117)|null|
 |**2025-03-11**|**Embodied Crowd Counting**|Runling Long et.al.|[2503.08367](http://arxiv.org/abs/2503.08367)|null|
 |**2025-02-20**|**Mem2Ego: Empowering Vision-Language Models with Global-to-Ego Memory for Long-Horizon Embodied Navigation**|Lingfeng Zhang et.al.|[2502.14254](http://arxiv.org/abs/2502.14254)|null|

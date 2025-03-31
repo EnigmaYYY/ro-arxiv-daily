@@ -63,7 +63,7 @@ layout: default
 |**2025-03-25**|**ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**|Haoyu Fu et.al.|[2503.19755](http://arxiv.org/abs/2503.19755)|null|
 |**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707](http://arxiv.org/abs/2503.19707)|null|
 |**2025-03-25**|**Improved Alignment of Modalities in Large Vision Language Models**|Kartik Jangra et.al.|[2503.19508](http://arxiv.org/abs/2503.19508)|null|
-|**2025-03-25**|**VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction**|Zizhi Chen et.al.|[2503.19367](http://arxiv.org/abs/2503.19367)|null|
+|**2025-03-25**|**VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction**|Zizhi Chen et.al.|[2503.19367](http://arxiv.org/abs/2503.19367)|**[link](https://github.com/czzzzzzzzzzzzzzzzz/vgat)**|
 |**2025-03-25**|**ImageSet2Text: Describing Sets of Images through Text**|Piera Riccio et.al.|[2503.19361](http://arxiv.org/abs/2503.19361)|null|
 |**2025-03-24**|**Where is this coming from? Making groundedness count in the evaluation of Document VQA models**|Armineh Nourbakhsh et.al.|[2503.19120](http://arxiv.org/abs/2503.19120)|null|
 |**2025-03-25**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2503.18854](http://arxiv.org/abs/2503.18854)|**[link](https://github.com/arctanxarc/mc-llava)**|
@@ -119,7 +119,7 @@ layout: default
 |**2025-03-01**|**CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering**|Tianyu Huai et.al.|[2503.00413](http://arxiv.org/abs/2503.00413)|null|
 |**2025-02-28**|**Fine-Grained Retrieval-Augmented Generation for Visual Question Answering**|Zhengxuan Zhang et.al.|[2502.20964](http://arxiv.org/abs/2502.20964)|null|
 |**2025-02-28**|**PathVG: A New Benchmark and Dataset for Pathology Visual Grounding**|Chunlin Zhong et.al.|[2502.20869](http://arxiv.org/abs/2502.20869)|null|
-|**2025-02-28**|**MedHallTune: An Instruction-Tuning Benchmark for Mitigating Medical Hallucination in Vision-Language Models**|Qiao Yan et.al.|[2502.20780](http://arxiv.org/abs/2502.20780)|null|
+|**2025-02-28**|**MedHallTune: An Instruction-Tuning Benchmark for Mitigating Medical Hallucination in Vision-Language Models**|Qiao Yan et.al.|[2502.20780](http://arxiv.org/abs/2502.20780)|**[link](https://github.com/russellyq/medhalltune)**|
 |**2025-02-27**|**Can Large Language Models Unveil the Mysteries? An Exploration of Their Ability to Unlock Information in Complex Scenarios**|Chao Wang et.al.|[2502.19973](http://arxiv.org/abs/2502.19973)|null|
 |**2025-02-26**|**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**|Jiazhen Pan et.al.|[2502.19634](http://arxiv.org/abs/2502.19634)|null|
 |**2025-02-26**|**LiGT: Layout-infused Generative Transformer for Visual Question Answering on Vietnamese Receipts**|Thanh-Phong Le et.al.|[2502.19202](http://arxiv.org/abs/2502.19202)|null|
@@ -244,7 +244,7 @@ layout: default
 |**2024-11-29**|**SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks**|Kim-Celine Kahl et.al.|[2411.19688](http://arxiv.org/abs/2411.19688)|**[link](https://github.com/iml-dkfz/sure-vqa)**|
 |**2024-11-28**|**Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs**|Anirudh Phukan et.al.|[2411.19187](http://arxiv.org/abs/2411.19187)|null|
 |**2024-11-27**|**Active Data Curation Effectively Distills Large-Scale Multimodal Models**|Vishaal Udandarao et.al.|[2411.18674](http://arxiv.org/abs/2411.18674)|null|
-|**2024-11-27**|**Cross-modal Information Flow in Multimodal Large Language Models**|Zhi Zhang et.al.|[2411.18620](http://arxiv.org/abs/2411.18620)|null|
+|**2024-11-27**|**Cross-modal Information Flow in Multimodal Large Language Models**|Zhi Zhang et.al.|[2411.18620](http://arxiv.org/abs/2411.18620)|**[link](https://github.com/FightingFighting/cross-modal-information-flow-in-MLLM)**|
 |**2024-12-02**|**Efficient Multi-modal Large Language Models via Visual Token Grouping**|Minbin Huang et.al.|[2411.17773](http://arxiv.org/abs/2411.17773)|null|
 |**2024-11-26**|**Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey**|Jiayi Kuang et.al.|[2411.17558](http://arxiv.org/abs/2411.17558)|null|
 |**2024-11-26**|**Task Progressive Curriculum Learning for Robust Visual Question Answering**|Ahmed Akl et.al.|[2411.17292](http://arxiv.org/abs/2411.17292)|null|
@@ -341,7 +341,7 @@ layout: default
 |**2024-10-12**|**Zero-shot Commonsense Reasoning over Machine Imagination**|Hyuntae Park et.al.|[2410.09329](http://arxiv.org/abs/2410.09329)|**[link](https://github.com/Park-ing-lot/Imagine)**|
 |**2024-10-11**|**Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping**|Yue Yang et.al.|[2410.08695](http://arxiv.org/abs/2410.08695)|**[link](https://github.com/yangyue5114/DME)**|
 |**2024-10-11**|**ViT3D Alignment of LLaMA3: 3D Medical Image Report Generation**|Siyou Li et.al.|[2410.08588](http://arxiv.org/abs/2410.08588)|null|
-|**2024-10-10**|**VoxelPrompt: A Vision-Language Agent for Grounded Medical Image Analysis**|Andrew Hoopes et.al.|[2410.08397](http://arxiv.org/abs/2410.08397)|null|
+|**2024-10-10**|**VoxelPrompt: A Vision-Language Agent for Grounded Medical Image Analysis**|Andrew Hoopes et.al.|[2410.08397](http://arxiv.org/abs/2410.08397)|**[link](https://github.com/dalcalab/voxel)**|
 |**2024-10-10**|**Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**|Shengcao Cao et.al.|[2410.08209](http://arxiv.org/abs/2410.08209)|null|
 |**2024-10-09**|**Retrieval Replace Reduction: An effective visual token reduction method via semantic match**|Yingen Liu et.al.|[2410.07278](http://arxiv.org/abs/2410.07278)|null|
 |**2024-10-08**|**ERVQA: A Dataset to Benchmark the Readiness of Large Vision Language Models in Hospital Environments**|Sourjyadip Ray et.al.|[2410.06420](http://arxiv.org/abs/2410.06420)|**[link](https://github.com/sourjyadip/ervqa-data)**|
@@ -443,7 +443,7 @@ layout: default
 |**2025-03-21**|**Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM-Based Optimization Agent**|Humza Nusrat et.al.|[2503.17553](http://arxiv.org/abs/2503.17553)|null|
 |**2025-03-21**|**CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities**|Yuxuan Zhu et.al.|[2503.17332](http://arxiv.org/abs/2503.17332)|**[link](https://github.com/uiuc-kang-lab/cve-bench)**|
 |**2025-03-21**|**A-IDE : Agent-Integrated Denoising Experts**|Uihyun Cho et.al.|[2503.16780](http://arxiv.org/abs/2503.16780)|null|
-|**2025-03-19**|**EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?**|Xinyan Chen et.al.|[2503.16545](http://arxiv.org/abs/2503.16545)|null|
+|**2025-03-19**|**EmpathyAgent: Can Embodied Agents Conduct Empathetic Actions?**|Xinyan Chen et.al.|[2503.16545](http://arxiv.org/abs/2503.16545)|**[link](https://github.com/xinyan-cxy/empathyagent)**|
 |**2025-03-20**|**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**|Yiran Qin et.al.|[2503.16408](http://arxiv.org/abs/2503.16408)|null|
 |**2025-03-20**|**The Lighthouse of Language: Enhancing LLM Agents via Critique-Guided Improvement**|Ruihan Yang et.al.|[2503.16024](http://arxiv.org/abs/2503.16024)|null|
 |**2025-03-18**|**Personalized Attacks of Social Engineering in Multi-turn Conversations -- LLM Agents for Simulation and Detection**|Tharindu Kumarage et.al.|[2503.15552](http://arxiv.org/abs/2503.15552)|null|
@@ -461,7 +461,7 @@ layout: default
 |**2025-03-16**|**A Survey on the Optimization of Large Language Model-based Agents**|Shangheng Du et.al.|[2503.12434](http://arxiv.org/abs/2503.12434)|null|
 |**2025-03-15**|**TFHE-Coder: Evaluating LLM-agentic Fully Homomorphic Encryption Code Generation**|Mayank Kumar et.al.|[2503.12217](http://arxiv.org/abs/2503.12217)|null|
 |**2025-03-15**|**End-to-End Edge AI Service Provisioning Framework in 6G ORAN**|Yun Tang et.al.|[2503.11933](http://arxiv.org/abs/2503.11933)|null|
-|**2025-03-14**|**CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control**|Zirui Yuan et.al.|[2503.11739](http://arxiv.org/abs/2503.11739)|null|
+|**2025-03-14**|**CoLLMLight: Cooperative Large Language Model Agents for Network-Wide Traffic Signal Control**|Zirui Yuan et.al.|[2503.11739](http://arxiv.org/abs/2503.11739)|**[link](https://github.com/usail-hkust/CoLLMLight)**|
 |**2025-03-14**|**LLM Agents for Education: Advances and Applications**|Zhendong Chu et.al.|[2503.11733](http://arxiv.org/abs/2503.11733)|null|
 |**2025-03-14**|**Open3DVQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**|Weichen Zhan et.al.|[2503.11094](http://arxiv.org/abs/2503.11094)|**[link](https://github.com/weichenzh/open3dvqa)**|
 |**2025-03-14**|**EmbodiedVSR: Dynamic Scene Graph-Guided Chain-of-Thought Reasoning for Visual Spatial Tasks**|Yi Zhang et.al.|[2503.11089](http://arxiv.org/abs/2503.11089)|null|
@@ -796,7 +796,7 @@ layout: default
 |**2024-10-20**|**Who is Undercover? Guiding LLMs to Explore Multi-Perspective Team Tactic in the Game**|Ruiqi Dong et.al.|[2410.15311](http://arxiv.org/abs/2410.15311)|null|
 |**2024-10-22**|**Imprompter: Tricking LLM Agents into Improper Tool Use**|Xiaohan Fu et.al.|[2410.14923](http://arxiv.org/abs/2410.14923)|**[link](https://github.com/Reapor-Yurnero/imprompter)**|
 |**2024-10-18**|**When LLMs Go Online: The Emerging Threat of Web-Enabled LLMs**|Hanna Kim et.al.|[2410.14569](http://arxiv.org/abs/2410.14569)|null|
-|**2024-10-22**|**Do LLMs "know" internally when they follow instructions?**|Juyeon Heo et.al.|[2410.14516](http://arxiv.org/abs/2410.14516)|null|
+|**2024-10-22**|**Do LLMs "know" internally when they follow instructions?**|Juyeon Heo et.al.|[2410.14516](http://arxiv.org/abs/2410.14516)|**[link](https://github.com/apple/ml-internal-llms-instruction-following)**|
 |**2024-10-18**|**CoMAL: Collaborative Multi-Agent Large Language Models for Mixed-Autonomy Traffic**|Huaiyuan Yao et.al.|[2410.14368](http://arxiv.org/abs/2410.14368)|**[link](https://github.com/hyan-yao/comal)**|
 |**2024-10-18**|**Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation**|Edward et.al.|[2410.14262](http://arxiv.org/abs/2410.14262)|null|
 |**2024-10-18**|**Rationale Behind Essay Scores: Enhancing S-LLM's Multi-Trait Essay Scoring with Rationale Generated by LLMs**|SeongYeub Chu et.al.|[2410.14202](http://arxiv.org/abs/2410.14202)|null|
@@ -949,7 +949,7 @@ layout: default
 |**2025-02-25**|**ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization**|Onat Şahin et.al.|[2502.09278](http://arxiv.org/abs/2502.09278)|null|
 |**2025-02-12**|**Human-Centric Foundation Models: Perception, Generation and Agentic Modeling**|Shixiang Tang et.al.|[2502.08556](http://arxiv.org/abs/2502.08556)|**[link](https://github.com/HumanCentricModels/Awesome-Human-Centric-Foundation-Models)**|
 |**2025-02-06**|**TorchResist: Open-Source Differentiable Resist Simulator**|Zixiao Wang et.al.|[2502.06838](http://arxiv.org/abs/2502.06838)|**[link](https://github.com/ShiningSord/TorchResist)**|
-|**2025-02-01**|**RefDrone: A Challenging Benchmark for Referring Expression Comprehension in Drone Scenes**|Zhichao Sun et.al.|[2502.00392](http://arxiv.org/abs/2502.00392)|null|
+|**2025-02-01**|**RefDrone: A Challenging Benchmark for Referring Expression Comprehension in Drone Scenes**|Zhichao Sun et.al.|[2502.00392](http://arxiv.org/abs/2502.00392)|**[link](https://github.com/sunzc-sunny/refdrone)**|
 |**2025-02-01**|**Latent Action Learning Requires Supervision in the Presence of Distractors**|Alexander Nikulin et.al.|[2502.00379](http://arxiv.org/abs/2502.00379)|null|
 |**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318](http://arxiv.org/abs/2501.19318)|null|
 |**2025-01-30**|**Deception in LLMs: Self-Preservation and Autonomous Goals in Large Language Models**|Sudarshan Kamath Barkur et.al.|[2501.16513](http://arxiv.org/abs/2501.16513)|null|

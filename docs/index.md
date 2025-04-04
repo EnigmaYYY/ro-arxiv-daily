@@ -50,11 +50,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**|Divya Velayudhan et.al.|[2504.02823](http://arxiv.org/abs/2504.02823)|null|
+|**2025-04-03**|**SocialGesture: Delving into Multi-person Gesture Understanding**|Xu Cao et.al.|[2504.02244](http://arxiv.org/abs/2504.02244)|null|
 |**2025-04-02**|**GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning**|Yanzhou Su et.al.|[2504.01886](http://arxiv.org/abs/2504.01886)|null|
 |**2025-04-01**|**SViQA: A Unified Speech-Vision Multimodal Model for Textless Visual Question Answering**|Bingxin Li et.al.|[2504.01049](http://arxiv.org/abs/2504.01049)|null|
 |**2025-04-01**|**Scaling Language-Free Visual Representation Learning**|David Fan et.al.|[2504.01017](http://arxiv.org/abs/2504.01017)|null|
 |**2025-04-01**|**QG-VTC: Question-Guided Visual Token Compression in MLLMs for Efficient VQA**|Shuai Li et.al.|[2504.00654](http://arxiv.org/abs/2504.00654)|null|
-|**2025-04-02**|**FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning**|Jie Ma et.al.|[2504.00487](http://arxiv.org/abs/2504.00487)|null|
+|**2025-04-02**|**FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning**|Jie Ma et.al.|[2504.00487](http://arxiv.org/abs/2504.00487)|**[link](https://github.com/reml-group/fortisavqa)**|
 |**2025-04-01**|**MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving**|Zhiyuan Zhang et.al.|[2504.00379](http://arxiv.org/abs/2504.00379)|null|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164](http://arxiv.org/abs/2503.24164)|null|
 |**2025-03-31**|**KOFFVQA: An Objectively Evaluated Free-form VQA Benchmark for Large Vision-Language Models in the Korean Language**|Yoonshik Kim et.al.|[2503.23730](http://arxiv.org/abs/2503.23730)|**[link](https://github.com/maum-ai/koffvqa)**|
@@ -942,7 +944,7 @@ layout: default
 |**2025-03-27**|**Online Reasoning Video Segmentation with Just-in-Time Digital Twins**|Yiqing Shen et.al.|[2503.21056](http://arxiv.org/abs/2503.21056)|null|
 |**2025-03-26**|**DINeMo: Learning Neural Mesh Models with no 3D Annotations**|Weijie Guo et.al.|[2503.20220](http://arxiv.org/abs/2503.20220)|null|
 |**2025-03-25**|**Body Discovery of Embodied AI**|Zhe Sun et.al.|[2503.19941](http://arxiv.org/abs/2503.19941)|null|
-|**2025-03-25**|**TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization**|Liang Pan et.al.|[2503.19901](http://arxiv.org/abs/2503.19901)|null|
+|**2025-04-03**|**TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization**|Liang Pan et.al.|[2503.19901](http://arxiv.org/abs/2503.19901)|null|
 |**2025-03-25**|**DataPlatter: Boosting Robotic Manipulation Generalization with Minimal Costly Data**|Liming Zheng et.al.|[2503.19516](http://arxiv.org/abs/2503.19516)|null|
 |**2025-03-23**|**Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook**|Xu Zheng et.al.|[2503.18016](http://arxiv.org/abs/2503.18016)|null|
 |**2025-03-20**|**Towards Agentic AI Networking in 6G: A Generative Foundation Model-as-Agent Approach**|Yong Xiao et.al.|[2503.15764](http://arxiv.org/abs/2503.15764)|null|

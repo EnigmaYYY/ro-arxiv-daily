@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.07
+## Updated on 2025.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -945,7 +945,7 @@ layout: default
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
 |**2025-03-31**|**Grounding Agent Reasoning in Image Schemas: A Neurosymbolic Approach to Embodied Cognition**|François Olivier et.al.|[2503.24110](http://arxiv.org/abs/2503.24110)|null|
 |**2025-03-31**|**STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**|Yun Li et.al.|[2503.23765](http://arxiv.org/abs/2503.23765)|null|
-|**2025-03-28**|**SIGHT: Single-Image Conditioned Generation of Hand Trajectories for Hand-Object Interaction**|Alexey Gavryushin et.al.|[2503.22869](http://arxiv.org/abs/2503.22869)|null|
+|**2025-04-05**|**SIGHT: Single-Image Conditioned Generation of Hand Trajectories for Hand-Object Interaction**|Alexey Gavryushin et.al.|[2503.22869](http://arxiv.org/abs/2503.22869)|null|
 |**2025-03-27**|**ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning**|Kailin Li et.al.|[2503.21860](http://arxiv.org/abs/2503.21860)|null|
 |**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[2503.21232](http://arxiv.org/abs/2503.21232)|null|
 |**2025-03-27**|**Online Reasoning Video Segmentation with Just-in-Time Digital Twins**|Yiqing Shen et.al.|[2503.21056](http://arxiv.org/abs/2503.21056)|null|

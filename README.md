@@ -61,6 +61,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions**|Angela Lopez-Cardona et.al.|[2504.06843](http://arxiv.org/abs/2504.06843)|null|
 |**2025-04-08**|**A Lightweight Large Vision-language Model for Multimodal Medical Images**|Belal Alsinglawi et.al.|[2504.05575](http://arxiv.org/abs/2504.05575)|null|
 |**2025-04-07**|**RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model**|Congcong Wen et.al.|[2504.04988](http://arxiv.org/abs/2504.04988)|null|
 |**2025-04-07**|**Multimodal Agricultural Agent Architecture (MA3): A New Paradigm for Intelligent Agricultural Decision-Making**|Zhuoning Xu et.al.|[2504.04789](http://arxiv.org/abs/2504.04789)|null|
@@ -457,6 +458,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Review of Case-Based Reasoning for LLM Agents: Theoretical Foundations, Architectural Components, and Cognitive Integration**|Kostas Hatalis et.al.|[2504.06943](http://arxiv.org/abs/2504.06943)|null|
+|**2025-04-09**|**FamilyTool: A Multi-hop Personalized Tool Use Benchmark**|Yuxin Wang et.al.|[2504.06766](http://arxiv.org/abs/2504.06766)|null|
+|**2025-04-09**|**Right Prediction, Wrong Reasoning: Uncovering LLM Misalignment in RA Disease Diagnosis**|Umakanta Maharana et.al.|[2504.06581](http://arxiv.org/abs/2504.06581)|null|
 |**2025-04-08**|**FEABench: Evaluating Language Models on Multiphysics Reasoning Ability**|Nayantara Mudur et.al.|[2504.06260](http://arxiv.org/abs/2504.06260)|null|
 |**2025-04-07**|**SciSciGPT: Advancing Human-AI Collaboration in the Science of Science**|Erzhuo Shao et.al.|[2504.05559](http://arxiv.org/abs/2504.05559)|null|
 |**2025-04-07**|**How to evaluate control measures for LLM agents? A trajectory from today to superintelligence**|Tomek Korbak et.al.|[2504.05259](http://arxiv.org/abs/2504.05259)|null|
@@ -1125,6 +1129,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning**|Daniel Tcheurekdjian et.al.|[2504.06538](http://arxiv.org/abs/2504.06538)|null|
 |**2025-04-02**|**Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning**|Ram Ramrakhya et.al.|[2504.00907](http://arxiv.org/abs/2504.00907)|null|
 |**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463](http://arxiv.org/abs/2503.23463)|**[link](https://github.com/DriveVLA/OpenDriveVLA)**|
 |**2025-03-27**|**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**|Qingqing Zhao et.al.|[2503.22020](http://arxiv.org/abs/2503.22020)|null|

@@ -50,6 +50,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**MMKB-RAG: A Multi-Modal Knowledge-Based Retrieval-Augmented Generation Framework**|Zihan Ling et.al.|[2504.10074](http://arxiv.org/abs/2504.10074)|null|
+|**2025-04-14**|**See or Recall: A Sanity Check for the Role of Vision in Solving Visualization Question Answer Tasks with Multimodal LLMs**|Zhimin Li et.al.|[2504.09809](http://arxiv.org/abs/2504.09809)|null|
+|**2025-04-14**|**VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents**|Ryota Tanaka et.al.|[2504.09795](http://arxiv.org/abs/2504.09795)|null|
+|**2025-04-13**|**A Survey on Efficient Vision-Language Models**|Gaurav Shinde et.al.|[2504.09724](http://arxiv.org/abs/2504.09724)|null|
+|**2025-04-12**|**NoTeS-Bank: Benchmarking Neural Transcription and Search for Scientific Notes Understanding**|Aniket Pal et.al.|[2504.09249](http://arxiv.org/abs/2504.09249)|null|
 |**2025-04-11**|**AstroLLaVA: towards the unification of astronomical data and natural language**|Sharaf Zaman et.al.|[2504.08583](http://arxiv.org/abs/2504.08583)|null|
 |**2025-04-10**|**Beyond the Frame: Generating 360° Panoramic Videos from Perspective Videos**|Rundong Luo et.al.|[2504.07940](http://arxiv.org/abs/2504.07940)|null|
 |**2025-04-10**|**TokenFocus-VQA: Enhancing Text-to-Image Alignment with Position-Aware Focus and Multi-Perspective Aggregations on LVLMs**|Zijian Zhang et.al.|[2504.07556](http://arxiv.org/abs/2504.07556)|null|
@@ -449,8 +454,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Characterizing LLM-driven Social Network: The Chirper.ai Case**|Yiming Zhu et.al.|[2504.10286](http://arxiv.org/abs/2504.10286)|null|
+|**2025-04-14**|**SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users**|Xinnong Zhang et.al.|[2504.10157](http://arxiv.org/abs/2504.10157)|null|
+|**2025-04-14**|**A Survey of Large Language Model-Powered Spatial Intelligence Across Scales: Advances in Embodied Agents, Smart Cities, and Earth Science**|Jie Feng et.al.|[2504.09848](http://arxiv.org/abs/2504.09848)|null|
+|**2025-04-14**|**Training Small Reasoning LLMs with Cognitive Preference Alignment**|Wenrui Cai et.al.|[2504.09802](http://arxiv.org/abs/2504.09802)|null|
+|**2025-04-14**|**Reasoning Court: Combining Reasoning, Action, and Judgment for Multi-Hop Reasoning**|Jingtian Wu et.al.|[2504.09781](http://arxiv.org/abs/2504.09781)|null|
+|**2025-04-13**|**AgentA/B: Automated and Scalable Web A/BTesting with Interactive LLM Agents**|Dakuo Wang et.al.|[2504.09723](http://arxiv.org/abs/2504.09723)|null|
+|**2025-04-13**|**MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?**|Yunxiang Zhang et.al.|[2504.09702](http://arxiv.org/abs/2504.09702)|null|
+|**2025-04-13**|**UXAgent: A System for Simulating Usability Testing of Web Design with LLM Agents**|Yuxuan Lu et.al.|[2504.09407](http://arxiv.org/abs/2504.09407)|null|
 |**2025-04-11**|**Do LLMs trust AI regulation? Emerging behaviour of game-theoretic LLM agents**|Alessio Buscemi et.al.|[2504.08640](http://arxiv.org/abs/2504.08640)|null|
-|**2025-04-11**|**Task Memory Engine (TME): Enhancing State Awareness for Multi-Step LLM Agent Tasks**|Ye Ye et.al.|[2504.08525](http://arxiv.org/abs/2504.08525)|null|
+|**2025-04-14**|**Task Memory Engine (TME): A Structured Memory Framework with Graph-Aware Extensions for Multi-Step LLM Agent Tasks**|Ye Ye et.al.|[2504.08525](http://arxiv.org/abs/2504.08525)|null|
 |**2025-04-11**|**Adopting Large Language Models to Automated System Integration**|Robin D. Pesl et.al.|[2504.08490](http://arxiv.org/abs/2504.08490)|null|
 |**2025-04-10**|**Deceptive Automated Interpretability: Language Models Coordinating to Fool Oversight Systems**|Simon Lermen et.al.|[2504.07831](http://arxiv.org/abs/2504.07831)|null|
 |**2025-04-10**|**MOSAIC: Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations**|Genglin Liu et.al.|[2504.07830](http://arxiv.org/abs/2504.07830)|null|
@@ -970,6 +983,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**HUMOTO: A 4D Dataset of Mocap Human Object Interactions**|Jiaxin Lu et.al.|[2504.10414](http://arxiv.org/abs/2504.10414)|null|
+|**2025-04-14**|**Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization**|Haiyong Yu et.al.|[2504.09927](http://arxiv.org/abs/2504.09927)|null|
+|**2025-04-13**|**GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation**|Haotian Xu et.al.|[2504.09587](http://arxiv.org/abs/2504.09587)|null|
 |**2025-04-11**|**FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents**|Xin Tan et.al.|[2504.08581](http://arxiv.org/abs/2504.08581)|null|
 |**2025-04-04**|**Decision SpikeFormer: Spike-Driven Transformer for Decision Making**|Wei Huang et.al.|[2504.03800](http://arxiv.org/abs/2504.03800)|null|
 |**2025-04-04**|**SeGuE: Semantic Guided Exploration for Mobile Robots**|Cody Simons et.al.|[2504.03629](http://arxiv.org/abs/2504.03629)|null|
@@ -1122,11 +1138,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-09**|**OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning**|Daniel Tcheurekdjian et.al.|[2504.06538](http://arxiv.org/abs/2504.06538)|null|
 |**2025-04-02**|**Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning**|Ram Ramrakhya et.al.|[2504.00907](http://arxiv.org/abs/2504.00907)|null|
 |**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463](http://arxiv.org/abs/2503.23463)|**[link](https://github.com/DriveVLA/OpenDriveVLA)**|
 |**2025-03-27**|**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**|Qingqing Zhao et.al.|[2503.22020](http://arxiv.org/abs/2503.22020)|null|
-|**2025-03-26**|**MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**|Rongyu Zhang et.al.|[2503.20384](http://arxiv.org/abs/2503.20384)|null|
+|**2025-04-14**|**MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**|Rongyu Zhang et.al.|[2503.20384](http://arxiv.org/abs/2503.20384)|null|
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
 |**2025-03-25**|**Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy**|Zhi Hou et.al.|[2503.19757](http://arxiv.org/abs/2503.19757)|null|
 |**2025-03-25**|**DataPlatter: Boosting Robotic Manipulation Generalization with Minimal Costly Data**|Liming Zheng et.al.|[2503.19516](http://arxiv.org/abs/2503.19516)|null|
@@ -1233,7 +1250,7 @@ layout: default
 |**2025-02-11**|**TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation**|Navid Rajabi et.al.|[2502.07306](http://arxiv.org/abs/2502.07306)|null|
 |**2025-03-05**|**VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning**|Yi Du et.al.|[2502.00931](http://arxiv.org/abs/2502.00931)|null|
 |**2024-12-18**|**NAVCON: A Cognitively Inspired and Linguistically Grounded Corpus for Vision and Language Navigation**|Karan Wanchoo et.al.|[2412.13026](http://arxiv.org/abs/2412.13026)|null|
-|**2025-04-11**|**Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments**|Kehan Chen et.al.|[2412.10137](http://arxiv.org/abs/2412.10137)|null|
+|**2025-04-14**|**Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments**|Kehan Chen et.al.|[2412.10137](http://arxiv.org/abs/2412.10137)|null|
 |**2025-03-19**|**Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**|Xinshuai Song et.al.|[2412.09082](http://arxiv.org/abs/2412.09082)|null|
 |**2024-12-08**|**doScenes: An Autonomous Driving Dataset with Natural Language Instruction for Human Interaction and Vision-Language Navigation**|Parthib Roy et.al.|[2412.05893](http://arxiv.org/abs/2412.05893)|**[link](https://github.com/rossgreer/doscenes)**|
 |**2025-03-16**|**UnitedVLN: Generalizable Gaussian Splatting for Continuous Vision-Language Navigation**|Guangzhao Dai et.al.|[2411.16053](http://arxiv.org/abs/2411.16053)|null|
@@ -1272,6 +1289,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**CL-CoTNav: Closed-Loop Hierarchical Chain-of-Thought for Zero-Shot Object-Goal Navigation with Vision-Language Models**|Yuxin Cai et.al.|[2504.09000](http://arxiv.org/abs/2504.09000)|null|
 |**2025-04-04**|**RANa: Retrieval-Augmented Navigation**|Gianluca Monaci et.al.|[2504.03524](http://arxiv.org/abs/2504.03524)|null|
 |**2025-04-01**|**Zero-Shot 4D Lidar Panoptic Segmentation**|Yushan Zhang et.al.|[2504.00848](http://arxiv.org/abs/2504.00848)|null|
 |**2025-03-24**|**P3Nav: A Unified Framework for Embodied Navigation Integrating Perception, Planning, and Prediction**|Yufeng Zhong et.al.|[2503.18525](http://arxiv.org/abs/2503.18525)|null|

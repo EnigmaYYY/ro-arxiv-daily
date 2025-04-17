@@ -61,6 +61,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Instruction-augmented Multimodal Alignment for Image-Text and Element Matching**|Xinli Yue et.al.|[2504.12018](http://arxiv.org/abs/2504.12018)|null|
+|**2025-04-16**|**Bridging the Semantic Gaps: Improving Medical VQA Consistency with LLM-Augmented Question Sets**|Yongpei Ma et.al.|[2504.11777](http://arxiv.org/abs/2504.11777)|null|
 |**2025-04-15**|**QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models**|Yudong Zhang et.al.|[2504.11038](http://arxiv.org/abs/2504.11038)|null|
 |**2025-04-15**|**LVLM_CSP: Accelerating Large Vision Language Models via Clustering, Scattering, and Pruning for Reasoning Segmentation**|Hanning Chen et.al.|[2504.10854](http://arxiv.org/abs/2504.10854)|null|
 |**2025-04-14**|**ReasonDrive: Efficient Visual Question Answering for Autonomous Vehicles with Reasoning-Enhanced Small Vision-Language Models**|Amirhosein Chahe et.al.|[2504.10757](http://arxiv.org/abs/2504.10757)|null|
@@ -470,6 +472,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Towards LLM Agents for Earth Observation**|Chia Hsiang Kao et.al.|[2504.12110](http://arxiv.org/abs/2504.12110)|null|
+|**2025-04-16**|**GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision**|Zihui Zhang et.al.|[2504.11754](http://arxiv.org/abs/2504.11754)|null|
+|**2025-04-16**|**Progent: Programmable Privilege Control for LLM Agents**|Tianneng Shi et.al.|[2504.11703](http://arxiv.org/abs/2504.11703)|null|
+|**2025-04-16**|**Steering Prosocial AI Agents: Computational Basis of LLM's Decision Making in Social Simulation**|Ji Ma et.al.|[2504.11671](http://arxiv.org/abs/2504.11671)|null|
+|**2025-04-15**|**GraphicBench: A Planning Benchmark for Graphic Design with Language Agents**|Dayeon Ki et.al.|[2504.11571](http://arxiv.org/abs/2504.11571)|null|
 |**2025-04-15**|**Can Large Language Models Trade? Testing Financial Theories with LLM Agents in Market Simulations**|Alejandro Lopez-Lira et.al.|[2504.10789](http://arxiv.org/abs/2504.10789)|null|
 |**2025-04-14**|**Characterizing LLM-driven Social Network: The Chirper.ai Case**|Yiming Zhu et.al.|[2504.10286](http://arxiv.org/abs/2504.10286)|null|
 |**2025-04-14**|**SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users**|Xinnong Zhang et.al.|[2504.10157](http://arxiv.org/abs/2504.10157)|null|

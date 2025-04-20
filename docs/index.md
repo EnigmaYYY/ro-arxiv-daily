@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -53,13 +53,13 @@ layout: default
 |**2025-04-17**|**Hadamard product in deep learning: Introduction, Advances and Challenges**|Grigorios G Chrysos et.al.|[2504.13112](http://arxiv.org/abs/2504.13112)|null|
 |**2025-04-16**|**Instruction-augmented Multimodal Alignment for Image-Text and Element Matching**|Xinli Yue et.al.|[2504.12018](http://arxiv.org/abs/2504.12018)|null|
 |**2025-04-16**|**Bridging the Semantic Gaps: Improving Medical VQA Consistency with LLM-Augmented Question Sets**|Yongpei Ma et.al.|[2504.11777](http://arxiv.org/abs/2504.11777)|null|
-|**2025-04-15**|**QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models**|Yudong Zhang et.al.|[2504.11038](http://arxiv.org/abs/2504.11038)|null|
+|**2025-04-15**|**QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models**|Yudong Zhang et.al.|[2504.11038](http://arxiv.org/abs/2504.11038)|**[link](https://github.com/btzyd/qava)**|
 |**2025-04-15**|**LVLM_CSP: Accelerating Large Vision Language Models via Clustering, Scattering, and Pruning for Reasoning Segmentation**|Hanning Chen et.al.|[2504.10854](http://arxiv.org/abs/2504.10854)|null|
-|**2025-04-14**|**ReasonDrive: Efficient Visual Question Answering for Autonomous Vehicles with Reasoning-Enhanced Small Vision-Language Models**|Amirhosein Chahe et.al.|[2504.10757](http://arxiv.org/abs/2504.10757)|null|
+|**2025-04-14**|**ReasonDrive: Efficient Visual Question Answering for Autonomous Vehicles with Reasoning-Enhanced Small Vision-Language Models**|Amirhosein Chahe et.al.|[2504.10757](http://arxiv.org/abs/2504.10757)|**[link](https://github.com/zhourobotics/reasondrive)**|
 |**2025-04-15**|**MMKB-RAG: A Multi-Modal Knowledge-Based Retrieval-Augmented Generation Framework**|Zihan Ling et.al.|[2504.10074](http://arxiv.org/abs/2504.10074)|null|
 |**2025-04-14**|**See or Recall: A Sanity Check for the Role of Vision in Solving Visualization Question Answer Tasks with Multimodal LLMs**|Zhimin Li et.al.|[2504.09809](http://arxiv.org/abs/2504.09809)|null|
 |**2025-04-14**|**VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents**|Ryota Tanaka et.al.|[2504.09795](http://arxiv.org/abs/2504.09795)|null|
-|**2025-04-13**|**A Survey on Efficient Vision-Language Models**|Gaurav Shinde et.al.|[2504.09724](http://arxiv.org/abs/2504.09724)|null|
+|**2025-04-13**|**A Survey on Efficient Vision-Language Models**|Gaurav Shinde et.al.|[2504.09724](http://arxiv.org/abs/2504.09724)|**[link](https://github.com/mpsc-umbc/efficient-vision-language-models-a-survey)**|
 |**2025-04-12**|**NoTeS-Bank: Benchmarking Neural Transcription and Search for Scientific Notes Understanding**|Aniket Pal et.al.|[2504.09249](http://arxiv.org/abs/2504.09249)|null|
 |**2025-04-11**|**AstroLLaVA: towards the unification of astronomical data and natural language**|Sharaf Zaman et.al.|[2504.08583](http://arxiv.org/abs/2504.08583)|null|
 |**2025-04-10**|**Beyond the Frame: Generating 360° Panoramic Videos from Perspective Videos**|Rundong Luo et.al.|[2504.07940](http://arxiv.org/abs/2504.07940)|null|
@@ -461,11 +461,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/abs/2504.13145)|null|
-|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|null|
+|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|**[link](https://github.com/hannight/ramdocs)**|
 |**2025-04-17**|**WebLists: Extracting Structured Information From Complex Interactive Websites Using Executable LLM Agents**|Arth Bohra et.al.|[2504.12682](http://arxiv.org/abs/2504.12682)|null|
 |**2025-04-17**|**MetaSynth: Meta-Prompting-Driven Agentic Scaffolds for Diverse Synthetic Data Generation**|Haris Riaz et.al.|[2504.12563](http://arxiv.org/abs/2504.12563)|null|
 |**2025-04-16**|**Towards LLM Agents for Earth Observation**|Chia Hsiang Kao et.al.|[2504.12110](http://arxiv.org/abs/2504.12110)|null|
-|**2025-04-16**|**GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision**|Zihui Zhang et.al.|[2504.11754](http://arxiv.org/abs/2504.11754)|null|
+|**2025-04-16**|**GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision**|Zihui Zhang et.al.|[2504.11754](http://arxiv.org/abs/2504.11754)|**[link](https://github.com/vlar-group/grabs)**|
 |**2025-04-16**|**Progent: Programmable Privilege Control for LLM Agents**|Tianneng Shi et.al.|[2504.11703](http://arxiv.org/abs/2504.11703)|null|
 |**2025-04-16**|**Steering Prosocial AI Agents: Computational Basis of LLM's Decision Making in Social Simulation**|Ji Ma et.al.|[2504.11671](http://arxiv.org/abs/2504.11671)|null|
 |**2025-04-15**|**GraphicBench: A Planning Benchmark for Graphic Design with Language Agents**|Dayeon Ki et.al.|[2504.11571](http://arxiv.org/abs/2504.11571)|null|
@@ -999,7 +999,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-16**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218](http://arxiv.org/abs/2504.11218)|null|
+|**2025-04-16**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218](http://arxiv.org/abs/2504.11218)|**[link](https://github.com/hcplab-sysu/3daffordsplat)**|
 |**2025-04-14**|**HUMOTO: A 4D Dataset of Mocap Human Object Interactions**|Jiaxin Lu et.al.|[2504.10414](http://arxiv.org/abs/2504.10414)|null|
 |**2025-04-14**|**Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization**|Haiyong Yu et.al.|[2504.09927](http://arxiv.org/abs/2504.09927)|null|
 |**2025-04-13**|**GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation**|Haotian Xu et.al.|[2504.09587](http://arxiv.org/abs/2504.09587)|null|

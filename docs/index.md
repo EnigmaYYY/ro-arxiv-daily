@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -461,7 +461,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-17**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/abs/2504.13145)|null|
+|**2025-04-18**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/abs/2504.13145)|null|
 |**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|**[link](https://github.com/hannight/ramdocs)**|
 |**2025-04-17**|**WebLists: Extracting Structured Information From Complex Interactive Websites Using Executable LLM Agents**|Arth Bohra et.al.|[2504.12682](http://arxiv.org/abs/2504.12682)|null|
 |**2025-04-17**|**MetaSynth: Meta-Prompting-Driven Agentic Scaffolds for Diverse Synthetic Data Generation**|Haris Riaz et.al.|[2504.12563](http://arxiv.org/abs/2504.12563)|null|

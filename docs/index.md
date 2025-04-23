@@ -463,12 +463,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
+|**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
+|**2025-04-22**|**WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents**|Siyu Zhou et.al.|[2504.15785](http://arxiv.org/abs/2504.15785)|null|
+|**2025-04-22**|**Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation**|Ning Wang et.al.|[2504.15699](http://arxiv.org/abs/2504.15699)|null|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
 |**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
 |**2025-04-21**|**Contemplative Wisdom for Superalignment**|Ruben Laukkonen et.al.|[2504.15125](http://arxiv.org/abs/2504.15125)|null|
 |**2025-04-20**|**SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs**|Minh V. T. Pham et.al.|[2504.14757](http://arxiv.org/abs/2504.14757)|null|
 |**2025-04-20**|**A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents**|Yuting Huang et.al.|[2504.14650](http://arxiv.org/abs/2504.14650)|null|
-|**2025-04-19**|**FAIRGAME: a Framework for AI Agents Bias Recognition using Game Theory**|Alessio Buscemi et.al.|[2504.14325](http://arxiv.org/abs/2504.14325)|null|
+|**2025-04-22**|**FAIRGAME: a Framework for AI Agents Bias Recognition using Game Theory**|Alessio Buscemi et.al.|[2504.14325](http://arxiv.org/abs/2504.14325)|null|
 |**2025-04-18**|**Exploring Expert Failures Improves LLM Agent Tuning**|Li-Cheng Lan et.al.|[2504.13145](http://arxiv.org/abs/2504.13145)|null|
 |**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|**[link](https://github.com/hannight/ramdocs)**|
 |**2025-04-17**|**WebLists: Extracting Structured Information From Complex Interactive Websites Using Executable LLM Agents**|Arth Bohra et.al.|[2504.12682](http://arxiv.org/abs/2504.12682)|null|
@@ -1165,6 +1169,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Physical Intelligence et.al.|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
+|**2025-04-22**|**Few-Shot Vision-Language Action-Incremental Policy Learning**|Mingchen Song et.al.|[2504.15517](http://arxiv.org/abs/2504.15517)|null|
 |**2025-04-18**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Run Luo et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-09**|**OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning**|Daniel Tcheurekdjian et.al.|[2504.06538](http://arxiv.org/abs/2504.06538)|null|
 |**2025-04-02**|**Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning**|Ram Ramrakhya et.al.|[2504.00907](http://arxiv.org/abs/2504.00907)|null|
@@ -1316,6 +1322,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**ForesightNav: Learning Scene Imagination for Efficient Exploration**|Hardik Shah et.al.|[2504.16062](http://arxiv.org/abs/2504.16062)|null|
 |**2025-04-11**|**CL-CoTNav: Closed-Loop Hierarchical Chain-of-Thought for Zero-Shot Object-Goal Navigation with Vision-Language Models**|Yuxin Cai et.al.|[2504.09000](http://arxiv.org/abs/2504.09000)|null|
 |**2025-04-04**|**RANa: Retrieval-Augmented Navigation**|Gianluca Monaci et.al.|[2504.03524](http://arxiv.org/abs/2504.03524)|null|
 |**2025-04-01**|**Zero-Shot 4D Lidar Panoptic Segmentation**|Yushan Zhang et.al.|[2504.00848](http://arxiv.org/abs/2504.00848)|null|

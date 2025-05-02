@@ -50,6 +50,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|null|
 |**2025-04-30**|**UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation**|Linshan Wu et.al.|[2504.21336](http://arxiv.org/abs/2504.21336)|null|
 |**2025-04-30**|**An Evaluation of a Visual Question Answering Strategy for Zero-shot Facial Expression Recognition in Still Images**|Modesto Castrillón-Santana et.al.|[2504.21309](http://arxiv.org/abs/2504.21309)|null|
 |**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|null|
@@ -472,6 +473,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Wayne Wu et.al.|[2505.00690](http://arxiv.org/abs/2505.00690)|null|
+|**2025-05-01**|**UserCentrix: An Agentic Memory-augmented AI Framework for Smart Spaces**|Alaa Saleh et.al.|[2505.00472](http://arxiv.org/abs/2505.00472)|null|
+|**2025-05-01**|**Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks**|Vishnu Sarukkai et.al.|[2505.00234](http://arxiv.org/abs/2505.00234)|null|
+|**2025-04-30**|**TinyMA-IEI-PPO: Exploration Incentive-Driven Multi-Agent DRL with Self-Adaptive Pruning for Vehicular Embodied AI Agent Twins Migration**|Zhuoqi Zeng et.al.|[2505.00055](http://arxiv.org/abs/2505.00055)|null|
 |**2025-04-30**|**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**|Marc Glocker et.al.|[2504.21716](http://arxiv.org/abs/2504.21716)|null|
 |**2025-04-30**|**IRL Dittos: Embodied Multimodal AI Agent Interactions in Open Spaces**|Seonghee Lee et.al.|[2504.21347](http://arxiv.org/abs/2504.21347)|null|
 |**2025-04-30**|**Unsupervised Feature Transformation via In-context Generation, Generator-critic LLM Agents, and Duet-play Teaming**|Nanxu Gong et.al.|[2504.21304](http://arxiv.org/abs/2504.21304)|null|
@@ -1045,6 +1050,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**TinyMA-IEI-PPO: Exploration Incentive-Driven Multi-Agent DRL with Self-Adaptive Pruning for Vehicular Embodied AI Agent Twins Migration**|Zhuoqi Zeng et.al.|[2505.00055](http://arxiv.org/abs/2505.00055)|null|
 |**2025-04-30**|**A Survey of Interactive Generative Video**|Jiwen Yu et.al.|[2504.21853](http://arxiv.org/abs/2504.21853)|null|
 |**2025-04-27**|**Personalized Artificial General Intelligence (AGI) via Neuroscience-Inspired Continuous Learning Systems**|Rajeev Gupta et.al.|[2504.20109](http://arxiv.org/abs/2504.20109)|null|
 |**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041](http://arxiv.org/abs/2504.20041)|null|

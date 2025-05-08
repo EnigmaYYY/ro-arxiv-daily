@@ -61,6 +61,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Calibrating Uncertainty Quantification of Multi-Modal LLMs using Grounding**|Trilok Padhi et.al.|[2505.03788](http://arxiv.org/abs/2505.03788)|null|
 |**2025-05-05**|**Sim2Real Transfer for Vision-Based Grasp Verification**|Pau Amargant et.al.|[2505.03046](http://arxiv.org/abs/2505.03046)|**[link](https://github.com/pauamargant/hsr-graspsynth)**|
 |**2025-05-05**|**Structure Causal Models and LLMs Integration in Medical Visual Question Answering**|Zibo Xu et.al.|[2505.02703](http://arxiv.org/abs/2505.02703)|null|
 |**2025-05-05**|**Task-Oriented Semantic Communication in Large Multimodal Models-based Vehicle Networks**|Baoxia Du et.al.|[2505.02413](http://arxiv.org/abs/2505.02413)|null|
@@ -495,6 +496,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Identification and Optimization of Redundant Code Using Large Language Models**|Shamse Tasnim Cynthia et.al.|[2505.04040](http://arxiv.org/abs/2505.04040)|null|
+|**2025-05-06**|**Divide, Optimize, Merge: Fine-Grained LLM Agent Optimization at Scale**|Jiale Liu et.al.|[2505.03973](http://arxiv.org/abs/2505.03973)|null|
+|**2025-05-06**|**The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete**|Gerrit Großmann et.al.|[2505.03961](http://arxiv.org/abs/2505.03961)|**[link](https://github.com/storyagents25/story-agents)**|
 |**2025-05-04**|**Leveraging LLM Agents and Digital Twins for Fault Handling in Process Plants**|Milapji Singh Gill et.al.|[2505.02076](http://arxiv.org/abs/2505.02076)|**[link](https://github.com/aisl-at-imperial-college-london/fault-handling-agentic-llms-for-controlled-operations)**|
 |**2025-05-03**|**Model Context Protocol-based Internet of Experts For Wireless Environment-aware LLM Agents**|Zongxi Liu et.al.|[2505.01834](http://arxiv.org/abs/2505.01834)|null|
 |**2025-05-07**|**RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation**|Kaidong Zhang et.al.|[2505.01709](http://arxiv.org/abs/2505.01709)|null|
@@ -1081,6 +1085,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Towards Efficient Online Tuning of VLM Agents via Counterfactual Soft Reinforcement Learning**|Lang Feng et.al.|[2505.03792](http://arxiv.org/abs/2505.03792)|null|
 |**2025-05-06**|**RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning**|Liam Boyle et.al.|[2505.03238](http://arxiv.org/abs/2505.03238)|null|
 |**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836](http://arxiv.org/abs/2505.02836)|null|
 |**2025-05-05**|**MetaScenes: Towards Automated Replica Creation for Real-world 3D Scans**|Huangyue Yu et.al.|[2505.02388](http://arxiv.org/abs/2505.02388)|null|
@@ -1251,6 +1256,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**|Can Cui et.al.|[2505.03912](http://arxiv.org/abs/2505.03912)|null|
 |**2025-05-06**|**Task Reconstruction and Extrapolation for $π_0$ using Text Latent**|Quanyi Li et.al.|[2505.03500](http://arxiv.org/abs/2505.03500)|null|
 |**2025-05-06**|**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**|Shengliang Deng et.al.|[2505.03233](http://arxiv.org/abs/2505.03233)|null|
 |**2025-05-06**|**Automated Data Curation Using GPS & NLP to Generate Instruction-Action Pairs for Autonomous Vehicle Vision-Language Navigation Datasets**|Guillermo Roque et.al.|[2505.03174](http://arxiv.org/abs/2505.03174)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -53,7 +53,7 @@ layout: default
 |**2025-05-11**|**Multi-Modal Explainable Medical AI Assistant for Trustworthy Human-AI Collaboration**|Honglong Yang et.al.|[2505.06898](http://arxiv.org/abs/2505.06898)|null|
 |**2025-05-09**|**Natural Reflection Backdoor Attack on Vision Language Model for Autonomous Driving**|Ming Liu et.al.|[2505.06413](http://arxiv.org/abs/2505.06413)|null|
 |**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456](http://arxiv.org/abs/2505.05456)|null|
-|**2025-05-08**|**Probabilistic Embeddings for Frozen Vision-Language Models: Uncertainty Quantification with Gaussian Process Latent Variable Models**|Aishwarya Venkataramanan et.al.|[2505.05163](http://arxiv.org/abs/2505.05163)|null|
+|**2025-05-08**|**Probabilistic Embeddings for Frozen Vision-Language Models: Uncertainty Quantification with Gaussian Process Latent Variable Models**|Aishwarya Venkataramanan et.al.|[2505.05163](http://arxiv.org/abs/2505.05163)|**[link](https://github.com/vaishwarya96/GroVE)**|
 |**2025-05-03**|**Adaptive Token Boundaries: Integrating Human Chunking Mechanisms into Multimodal LLMs**|Dongxing Yu et.al.|[2505.04637](http://arxiv.org/abs/2505.04637)|null|
 |**2025-04-30**|**Calibrating Uncertainty Quantification of Multi-Modal LLMs using Grounding**|Trilok Padhi et.al.|[2505.03788](http://arxiv.org/abs/2505.03788)|null|
 |**2025-05-05**|**Sim2Real Transfer for Vision-Based Grasp Verification**|Pau Amargant et.al.|[2505.03046](http://arxiv.org/abs/2505.03046)|**[link](https://github.com/pauamargant/hsr-graspsynth)**|
@@ -498,7 +498,7 @@ layout: default
 |**2025-05-08**|**Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs**|Jeffrey Basoah et.al.|[2505.05660](http://arxiv.org/abs/2505.05660)|null|
 |**2025-05-07**|**Occupancy World Model for Robots**|Zhang Zhang et.al.|[2505.05512](http://arxiv.org/abs/2505.05512)|null|
 |**2025-05-05**|**Learning 3D Persistent Embodied World Models**|Siyuan Zhou et.al.|[2505.05495](http://arxiv.org/abs/2505.05495)|null|
-|**2025-05-07**|**Large Language Models are Autonomous Cyber Defenders**|Sebastián R. Castro et.al.|[2505.04843](http://arxiv.org/abs/2505.04843)|null|
+|**2025-05-07**|**Large Language Models are Autonomous Cyber Defenders**|Sebastián R. Castro et.al.|[2505.04843](http://arxiv.org/abs/2505.04843)|**[link](https://github.com/r4wd3r/llms-are-acd)**|
 |**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
 |**2025-05-07**|**Identification and Optimization of Redundant Code Using Large Language Models**|Shamse Tasnim Cynthia et.al.|[2505.04040](http://arxiv.org/abs/2505.04040)|null|
 |**2025-05-06**|**Divide, Optimize, Merge: Fine-Grained LLM Agent Optimization at Scale**|Jiale Liu et.al.|[2505.03973](http://arxiv.org/abs/2505.03973)|null|
@@ -1273,7 +1273,7 @@ layout: default
 |**2025-05-09**|**3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks**|Vineet Bhat et.al.|[2505.05800](http://arxiv.org/abs/2505.05800)|null|
 |**2025-05-08**|**Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments**|Pranav Guruprasad et.al.|[2505.05540](http://arxiv.org/abs/2505.05540)|null|
 |**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
-|**2025-05-06**|**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**|Can Cui et.al.|[2505.03912](http://arxiv.org/abs/2505.03912)|null|
+|**2025-05-06**|**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**|Can Cui et.al.|[2505.03912](http://arxiv.org/abs/2505.03912)|**[link](https://github.com/OpenHelix-robot/OpenHelix)**|
 |**2025-05-06**|**Task Reconstruction and Extrapolation for $π_0$ using Text Latent**|Quanyi Li et.al.|[2505.03500](http://arxiv.org/abs/2505.03500)|null|
 |**2025-05-06**|**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**|Shengliang Deng et.al.|[2505.03233](http://arxiv.org/abs/2505.03233)|null|
 |**2025-05-06**|**Automated Data Curation Using GPS & NLP to Generate Instruction-Action Pairs for Autonomous Vehicle Vision-Language Navigation Datasets**|Guillermo Roque et.al.|[2505.03174](http://arxiv.org/abs/2505.03174)|null|

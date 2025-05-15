@@ -61,6 +61,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Variational Visual Question Answering**|Tobias Jan Wieczorek et.al.|[2505.09591](http://arxiv.org/abs/2505.09591)|null|
 |**2025-05-12**|**Visually Interpretable Subtask Reasoning for Visual Question Answering**|Yu Cheng et.al.|[2505.08084](http://arxiv.org/abs/2505.08084)|null|
 |**2025-05-10**|**OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval**|Wei Yang et.al.|[2505.07879](http://arxiv.org/abs/2505.07879)|null|
 |**2025-05-11**|**Multi-Modal Explainable Medical AI Assistant for Trustworthy Human-AI Collaboration**|Honglong Yang et.al.|[2505.06898](http://arxiv.org/abs/2505.06898)|null|
@@ -503,6 +504,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models**|Abdullah Mushtaq et.al.|[2505.09595](http://arxiv.org/abs/2505.09595)|null|
+|**2025-05-14**|**The Influence of Human-inspired Agentic Sophistication in LLM-driven Strategic Reasoners**|Vince Trencsenyi et.al.|[2505.09396](http://arxiv.org/abs/2505.09396)|null|
+|**2025-05-14**|**Reproducibility Study of "Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents"**|Pedro M. P. Curvo et.al.|[2505.09289](http://arxiv.org/abs/2505.09289)|null|
 |**2025-05-13**|**Scalable UAV Multi-Hop Networking via Multi-Agent Reinforcement Learning with Large Language Models**|Yanggang Xu et.al.|[2505.08448](http://arxiv.org/abs/2505.08448)|null|
 |**2025-05-13**|**Benchmarking AI scientists in omics data-driven biological research**|Erpai Luo et.al.|[2505.08341](http://arxiv.org/abs/2505.08341)|**[link](https://github.com/eperluo/baisbench)**|
 |**2025-05-12**|**Are LLMs complicated ethical dilemma analyzers?**|Jiashen et.al.|[2505.08106](http://arxiv.org/abs/2505.08106)|**[link](https://github.com/alt-js/ethicallm)**|
@@ -1107,6 +1111,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Generative AI for Autonomous Driving: Frontiers and Opportunities**|Yuping Wang et.al.|[2505.08854](http://arxiv.org/abs/2505.08854)|**[link](https://github.com/taco-group/genai4ad)**|
 |**2025-05-14**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[2505.07634](http://arxiv.org/abs/2505.07634)|**[link](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**|
 |**2025-05-12**|**RAI: Flexible Agent Framework for Embodied AI**|Kajetan Rachwał et.al.|[2505.07532](http://arxiv.org/abs/2505.07532)|null|
 |**2025-05-12**|**A Survey on Collaborative Mechanisms Between Large and Small Language Models**|Yi Chen et.al.|[2505.07460](http://arxiv.org/abs/2505.07460)|null|
@@ -1289,6 +1294,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Justin Yu et.al.|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
+|**2025-05-14**|**RT-cache: Efficient Robot Trajectory Retrieval System**|Owen Kwon et.al.|[2505.09040](http://arxiv.org/abs/2505.09040)|null|
 |**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
 |**2025-05-13**|**Training Strategies for Efficient Embodied Reasoning**|William Chen et.al.|[2505.08243](http://arxiv.org/abs/2505.08243)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|

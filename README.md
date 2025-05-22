@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -56,12 +56,19 @@
 |**2018-11-12**|**Blindfold Baselines for Embodied QA**|Ankesh Anand et.al.|[1811.05013](http://arxiv.org/abs/1811.05013)|**[link](https://github.com/ankeshanand/blindfold-baselines-eqa)**|
 |**2019-05-02**|**Neural Modular Control for Embodied Question Answering**|Abhishek Das et.al.|[1810.11181](http://arxiv.org/abs/1810.11181)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Visual Question Answering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning**|Zhe Xu et.al.|[2505.15687](http://arxiv.org/abs/2505.15687)|null|
+|**2025-05-21**|**SNAP: A Benchmark for Testing the Effects of Capture Conditions on Fundamental Vision Tasks**|Iuliia Kotseruba et.al.|[2505.15628](http://arxiv.org/abs/2505.15628)|**[link](https://github.com/ykotseruba/snap)**|
+|**2025-05-21**|**TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**|Hossein Hassani et.al.|[2505.15564](http://arxiv.org/abs/2505.15564)|null|
+|**2025-05-21**|**Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets**|Kaiyuan Chen et.al.|[2505.15517](http://arxiv.org/abs/2505.15517)|null|
+|**2025-05-21**|**TimeCausality: Evaluating the Causal Ability in Time Dimension for Vision Language Models**|Zeqing Wang et.al.|[2505.15435](http://arxiv.org/abs/2505.15435)|null|
+|**2025-05-21**|**Visual Question Answering on Multiple Remote Sensing Image Modalities**|Hichem Boussaid et.al.|[2505.15401](http://arxiv.org/abs/2505.15401)|null|
+|**2025-05-21**|**Traveling Across Languages: Benchmarking Cross-Lingual Consistency in Multimodal LLMs**|Hao Wang et.al.|[2505.15075](http://arxiv.org/abs/2505.15075)|**[link](https://github.com/nlp-waseda/traveling-across-languages)**|
 |**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677](http://arxiv.org/abs/2505.14677)|null|
 |**2025-05-20**|**Debating for Better Reasoning: An Unsupervised Multimodal Approach**|Ashutosh Adhikari et.al.|[2505.14627](http://arxiv.org/abs/2505.14627)|null|
 |**2025-05-20**|**RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding**|Jiaang Li et.al.|[2505.14462](http://arxiv.org/abs/2505.14462)|**[link](https://github.com/yfyuan01/ravenea)**|
@@ -513,12 +520,18 @@
 |**2024-08-13**|**CROME: Cross-Modal Adapters for Efficient Multimodal LLM**|Sayna Ebrahimi et.al.|[2408.06610](http://arxiv.org/abs/2408.06610)|null|
 |**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303](http://arxiv.org/abs/2408.06303)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Embodied Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685](http://arxiv.org/abs/2505.15685)|null|
+|**2025-05-21**|**ReflAct: World-Grounded Decision Making in LLM Agents via Goal-State Reflection**|Jeonghye Kim et.al.|[2505.15182](http://arxiv.org/abs/2505.15182)|null|
+|**2025-05-21**|**lmgame-Bench: How Good are LLMs at Playing Games?**|Lanxiang Hu et.al.|[2505.15146](http://arxiv.org/abs/2505.15146)|**[link](https://github.com/lmgame-org/gamingagent)**|
+|**2025-05-21**|**Multicrossmodal Automated Agent for Integrating Diverse Materials Science Data**|Adib Bazgir et.al.|[2505.15132](http://arxiv.org/abs/2505.15132)|null|
+|**2025-05-21**|**An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents**|Bowen Jin et.al.|[2505.15117](http://arxiv.org/abs/2505.15117)|**[link](https://github.com/petergriffinjin/search-r1)**|
+|**2025-05-20**|**The Evolution of Alpha in Finance Harnessing Human Insight and LLM Agents**|Mohammad Rubyet Islam et.al.|[2505.14727](http://arxiv.org/abs/2505.14727)|null|
 |**2025-05-20**|**ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions**|Bufang Yang et.al.|[2505.14668](http://arxiv.org/abs/2505.14668)|null|
 |**2025-05-20**|**DSMentor: Enhancing Data Science Agents with Curriculum Learning and Online Knowledge Accumulation**|He Wang et.al.|[2505.14163](http://arxiv.org/abs/2505.14163)|null|
 |**2025-05-20**|**Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning**|Ruiyi Yang et.al.|[2505.13994](http://arxiv.org/abs/2505.13994)|null|
@@ -1145,12 +1158,14 @@
 |**2024-08-08**|**RiskAwareBench: Towards Evaluating Physical Risk Awareness for High-level Planning of LLM-based Embodied Agents**|Zihao Zhu et.al.|[2408.04449](http://arxiv.org/abs/2408.04449)|**[link](https://github.com/zihao-ai/earbench)**|
 |**2024-08-08**|**Perceive, Reflect, and Plan: Designing LLM Agent for Goal-Directed City Navigation without Instructions**|Qingbin Zeng et.al.|[2408.04168](http://arxiv.org/abs/2408.04168)|**[link](https://github.com/hiyouga/llama-factory)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Embodied AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Intentional Gesture: Deliver Your Intentions with Gestures for Speech**|Pinxin Liu et.al.|[2505.15197](http://arxiv.org/abs/2505.15197)|null|
+|**2025-05-21**|**AnyBody: A Benchmark Suite for Cross-Embodiment Manipulation**|Meenal Parakh et.al.|[2505.14986](http://arxiv.org/abs/2505.14986)|null|
 |**2025-05-20**|**Towards Embodied Cognition in Robots via Spatially Grounded Synthetic Worlds**|Joel Currie et.al.|[2505.14366](http://arxiv.org/abs/2505.14366)|null|
 |**2025-05-20**|**Toward Embodied AGI: A Review of Embodied AI and the Road Ahead**|Yequan Wang et.al.|[2505.14235](http://arxiv.org/abs/2505.14235)|null|
 |**2025-05-20**|**Towards Omnidirectional Reasoning with 360-R1: A Dataset, Benchmark, and GRPO-based Method**|Xinshen Zhang et.al.|[2505.14197](http://arxiv.org/abs/2505.14197)|null|
@@ -1341,14 +1356,20 @@
 |**2024-07-04**|**Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**|Minghan Li et.al.|[2406.19236](http://arxiv.org/abs/2406.19236)|**[link](https://github.com/lpercc/ha3d_simulator)**|
 |**2024-06-25**|**ET tu, CLIP? Addressing Common Object Errors for Unseen Environments**|Ye Won Byun et.al.|[2406.17876](http://arxiv.org/abs/2406.17876)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Vision Language Action Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685](http://arxiv.org/abs/2505.15685)|null|
+|**2025-05-21**|**Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization**|Jiaming Zhou et.al.|[2505.15660](http://arxiv.org/abs/2505.15660)|null|
+|**2025-05-21**|**FLARE: Robot Learning with Implicit World Modeling**|Ruijie Zheng et.al.|[2505.15659](http://arxiv.org/abs/2505.15659)|null|
+|**2025-05-21**|**Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**|Seongmin Park et.al.|[2505.15304](http://arxiv.org/abs/2505.15304)|null|
+|**2025-05-21**|**EndoVLA: Dual-Phase Vision-Language-Action Model for Autonomous Tracking in Endoscopy**|Chi Kit Ng et.al.|[2505.15206](http://arxiv.org/abs/2505.15206)|null|
+|**2025-05-21**|**Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation**|Yihang Li et.al.|[2505.15098](http://arxiv.org/abs/2505.15098)|null|
 |**2025-05-20**|**AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory**|Zhiqian Lan et.al.|[2505.14030](http://arxiv.org/abs/2505.14030)|null|
-|**2025-05-20**|**InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**|Ji Zhang et.al.|[2505.13888](http://arxiv.org/abs/2505.13888)|null|
+|**2025-05-20**|**InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**|Ji Zhang et.al.|[2505.13888](http://arxiv.org/abs/2505.13888)|**[link](https://github.com/Koorye/Inspire)**|
 |**2025-05-20**|**RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction**|Weifeng Lu et.al.|[2505.12224](http://arxiv.org/abs/2505.12224)|null|
 |**2025-05-17**|**OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning**|Fanqi Lin et.al.|[2505.11917](http://arxiv.org/abs/2505.11917)|null|
 |**2025-05-16**|**Unveiling the Potential of Vision-Language-Action Models with Open-Ended Multimodal Instructions**|Wei Zhao et.al.|[2505.11214](http://arxiv.org/abs/2505.11214)|null|
@@ -1473,7 +1494,7 @@
 |**2023-07-28**|**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**|Anthony Brohan et.al.|[2307.15818](http://arxiv.org/abs/2307.15818)|null|
 |**2023-09-21**|**A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter**|Kechun Xu et.al.|[2302.12610](http://arxiv.org/abs/2302.12610)|**[link](https://github.com/xukechun/Vision-Language-Grasping)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Vision Language Navigation Model
 
@@ -1486,7 +1507,7 @@
 |**2025-04-27**|**OpenFusion++: An Open-vocabulary Real-time Scene Understanding System**|Xiaofeng Jin et.al.|[2504.19266](http://arxiv.org/abs/2504.19266)|null|
 |**2025-03-30**|**ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning**|Zhenyang Liu et.al.|[2503.23297](http://arxiv.org/abs/2503.23297)|null|
 |**2025-03-23**|**Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation**|Ziming Wei et.al.|[2503.18065](http://arxiv.org/abs/2503.18065)|**[link](https://github.com/sadil13/vln-ram)**|
-|**2025-03-08**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
+|**2025-05-21**|**OpenFly: A Comprehensive Platform for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
 |**2025-02-12**|**ClipRover: Zero-shot Vision-Language Exploration and Target Discovery by Mobile Robots**|Yuxuan Zhang et.al.|[2502.08791](http://arxiv.org/abs/2502.08791)|null|
 |**2025-02-11**|**TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation**|Navid Rajabi et.al.|[2502.07306](http://arxiv.org/abs/2502.07306)|null|
 |**2025-03-05**|**VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning**|Yi Du et.al.|[2502.00931](http://arxiv.org/abs/2502.00931)|null|
@@ -1526,7 +1547,7 @@
 |**2023-11-06**|**Exploitation-Guided Exploration for Semantic Embodied Navigation**|Justin Wasserman et.al.|[2311.03357](http://arxiv.org/abs/2311.03357)|null|
 |**2024-06-07**|**Advances in Embodied Navigation Using Large Language Models: A Survey**|Jinzhou Lin et.al.|[2311.00530](http://arxiv.org/abs/2311.00530)|**[link](https://github.com/rongtao-xu/awesome-llm-en)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Embodied Navigation
 
@@ -1569,7 +1590,7 @@
 |**2024-04-24**|**MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI**|Kaining Ying et.al.|[2404.16006](http://arxiv.org/abs/2404.16006)|null|
 |**2024-09-13**|**Object Instance Retrieval in Assistive Robotics: Leveraging Fine-Tuned SimSiam with Multi-View Images Based on 3D Semantic Map**|Taichi Sakaguchi et.al.|[2404.09647](http://arxiv.org/abs/2404.09647)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

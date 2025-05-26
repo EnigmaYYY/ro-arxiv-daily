@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-20**|**Memory-Centric Embodied Question Answer**|Mingliang Zhai et.al.|[2505.13948](http://arxiv.org/abs/2505.13948)|null|
 |**2025-03-24**|**P3Nav: A Unified Framework for Embodied Navigation Integrating Perception, Planning, and Prediction**|Yufeng Zhong et.al.|[2503.18525](http://arxiv.org/abs/2503.18525)|null|
-|**2025-03-19**|**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**|Kaixuan Jiang et.al.|[2503.11117](http://arxiv.org/abs/2503.11117)|null|
+|**2025-05-23**|**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**|Kaixuan Jiang et.al.|[2503.11117](http://arxiv.org/abs/2503.11117)|null|
 |**2025-03-09**|**Vector Quantized Feature Fields for Fast 3D Semantic Lifting**|George Tang et.al.|[2503.06469](http://arxiv.org/abs/2503.06469)|null|
 |**2025-05-22**|**CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space**|Yong Zhao et.al.|[2502.12532](http://arxiv.org/abs/2502.12532)|**[link](https://github.com/tsinghua-fib-lab/CityEQA)**|
 |**2025-01-24**|**Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding**|Liping Yuan et.al.|[2501.07888](http://arxiv.org/abs/2501.07888)|**[link](https://github.com/bytedance/tarsier)**|
@@ -51,14 +51,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|null|
+|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
 |**2025-05-22**|**Zero-Shot Anomaly Detection in Battery Thermal Images Using Visual Question Answering with Prior Knowledge**|Marcella Astrid et.al.|[2505.16674](http://arxiv.org/abs/2505.16674)|null|
 |**2025-05-22**|**Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding**|Feilong Tang et.al.|[2505.16652](http://arxiv.org/abs/2505.16652)|null|
 |**2025-05-22**|**Grounding Chest X-Ray Visual Question Answering with Generated Radiology Reports**|Francesco Dalla Serra et.al.|[2505.16624](http://arxiv.org/abs/2505.16624)|null|
-|**2025-05-22**|**Benchmarking Retrieval-Augmented Multimomal Generation for Document Question Answering**|Kuicai Dong et.al.|[2505.16470](http://arxiv.org/abs/2505.16470)|null|
-|**2025-05-22**|**Mitigating Hallucinations in Vision-Language Models through Image-Guided Head Suppression**|Sreetama Sarkar et.al.|[2505.16411](http://arxiv.org/abs/2505.16411)|null|
+|**2025-05-22**|**Benchmarking Retrieval-Augmented Multimomal Generation for Document Question Answering**|Kuicai Dong et.al.|[2505.16470](http://arxiv.org/abs/2505.16470)|**[link](https://github.com/mmdocrag/mmdocrag)**|
+|**2025-05-22**|**Mitigating Hallucinations in Vision-Language Models through Image-Guided Head Suppression**|Sreetama Sarkar et.al.|[2505.16411](http://arxiv.org/abs/2505.16411)|**[link](https://github.com/yueche77/spin)**|
 |**2025-05-22**|**CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering**|Yuren Mao et.al.|[2505.16229](http://arxiv.org/abs/2505.16229)|null|
-|**2025-05-22**|**A Causal Approach to Mitigate Modality Preference Bias in Medical Visual Question Answering**|Shuchang Ye et.al.|[2505.16209](http://arxiv.org/abs/2505.16209)|null|
+|**2025-05-23**|**MedCFVQA: A Causal Approach to Mitigate Modality Preference Bias in Medical Visual Question Answering**|Shuchang Ye et.al.|[2505.16209](http://arxiv.org/abs/2505.16209)|null|
 |**2025-05-22**|**Steering LVLMs via Sparse Autoencoder for Hallucination Mitigation**|Zhenglin Hua et.al.|[2505.16146](http://arxiv.org/abs/2505.16146)|null|
 |**2025-05-21**|**Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning**|Zhe Xu et.al.|[2505.15687](http://arxiv.org/abs/2505.15687)|null|
 |**2025-05-21**|**SNAP: A Benchmark for Testing the Effects of Capture Conditions on Fundamental Vision Tasks**|Iuliia Kotseruba et.al.|[2505.15628](http://arxiv.org/abs/2505.15628)|**[link](https://github.com/ykotseruba/snap)**|
@@ -526,7 +526,7 @@ layout: default
 |**2025-05-22**|**A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization**|Shengyu Feng et.al.|[2505.16952](http://arxiv.org/abs/2505.16952)|null|
 |**2025-05-22**|**Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks**|Hongyuan Tao et.al.|[2505.16901](http://arxiv.org/abs/2505.16901)|null|
 |**2025-05-22**|**MCP-RADAR: A Multi-Dimensional Benchmark for Evaluating Tool Use Capabilities in Large Language Models**|Xuanqi Gao et.al.|[2505.16700](http://arxiv.org/abs/2505.16700)|null|
-|**2025-05-22**|**O $^2$ -Searcher: A Searching-based Agent Model for Open-Domain Open-Ended Question Answering**|Jianbiao Mei et.al.|[2505.16582](http://arxiv.org/abs/2505.16582)|null|
+|**2025-05-22**|**O $^2$ -Searcher: A Searching-based Agent Model for Open-Domain Open-Ended Question Answering**|Jianbiao Mei et.al.|[2505.16582](http://arxiv.org/abs/2505.16582)|**[link](https://github.com/acade-mate/o2-searcher)**|
 |**2025-05-22**|**Psychology-driven LLM Agents for Explainable Panic Prediction on Social Media during Sudden Disaster Events**|Mengzhu Liu et.al.|[2505.16455](http://arxiv.org/abs/2505.16455)|null|
 |**2025-05-22**|**Embodied Agents Meet Personalization: Exploring Memory Utilization for Personalized Assistance**|Taeyoon Kwon et.al.|[2505.16348](http://arxiv.org/abs/2505.16348)|null|
 |**2025-05-22**|**CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering**|Yuren Mao et.al.|[2505.16229](http://arxiv.org/abs/2505.16229)|null|
@@ -1168,7 +1168,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-22**|**Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning**|Bosung Kim et.al.|[2505.16928](http://arxiv.org/abs/2505.16928)|null|
-|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815](http://arxiv.org/abs/2505.16815)|null|
+|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815](http://arxiv.org/abs/2505.16815)|**[link](https://github.com/lcysyzxdxc/embodiediqa)**|
 |**2025-05-22**|**BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization**|Xueyang Zhou et.al.|[2505.16640](http://arxiv.org/abs/2505.16640)|null|
 |**2025-05-22**|**ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models**|Zirui Song et.al.|[2505.16517](http://arxiv.org/abs/2505.16517)|null|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[2505.16278](http://arxiv.org/abs/2505.16278)|null|
@@ -1369,7 +1369,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016](http://arxiv.org/abs/2505.17016)|null|
-|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815](http://arxiv.org/abs/2505.16815)|null|
+|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815](http://arxiv.org/abs/2505.16815)|**[link](https://github.com/lcysyzxdxc/embodiediqa)**|
 |**2025-05-22**|**BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization**|Xueyang Zhou et.al.|[2505.16640](http://arxiv.org/abs/2505.16640)|null|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[2505.16278](http://arxiv.org/abs/2505.16278)|null|
 |**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685](http://arxiv.org/abs/2505.15685)|null|
@@ -1566,7 +1566,7 @@ layout: default
 |**2025-04-04**|**RANa: Retrieval-Augmented Navigation**|Gianluca Monaci et.al.|[2504.03524](http://arxiv.org/abs/2504.03524)|null|
 |**2025-04-01**|**Zero-Shot 4D Lidar Panoptic Segmentation**|Yushan Zhang et.al.|[2504.00848](http://arxiv.org/abs/2504.00848)|null|
 |**2025-03-24**|**P3Nav: A Unified Framework for Embodied Navigation Integrating Perception, Planning, and Prediction**|Yufeng Zhong et.al.|[2503.18525](http://arxiv.org/abs/2503.18525)|null|
-|**2025-03-19**|**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**|Kaixuan Jiang et.al.|[2503.11117](http://arxiv.org/abs/2503.11117)|null|
+|**2025-05-23**|**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**|Kaixuan Jiang et.al.|[2503.11117](http://arxiv.org/abs/2503.11117)|null|
 |**2025-03-11**|**Embodied Crowd Counting**|Runling Long et.al.|[2503.08367](http://arxiv.org/abs/2503.08367)|null|
 |**2025-02-20**|**Mem2Ego: Empowering Vision-Language Models with Global-to-Ego Memory for Long-Horizon Embodied Navigation**|Lingfeng Zhang et.al.|[2502.14254](http://arxiv.org/abs/2502.14254)|null|
 |**2025-03-07**|**NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM**|Zihan Wang et.al.|[2502.11142](http://arxiv.org/abs/2502.11142)|**[link](https://github.com/MrZihan/NavRAG)**|

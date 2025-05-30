@@ -52,6 +52,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Interpreting Chest X-rays Like a Radiologist: A Benchmark with Clinical Reasoning**|Jinquan Guan et.al.|[2505.23143](http://arxiv.org/abs/2505.23143)|null|
+|**2025-05-29**|**Multi-Sourced Compositional Generalization in Visual Question Answering**|Chuanhao Li et.al.|[2505.23045](http://arxiv.org/abs/2505.23045)|null|
+|**2025-05-29**|**Synthetic Document Question Answering in Hungarian**|Jonathan Li et.al.|[2505.23008](http://arxiv.org/abs/2505.23008)|null|
+|**2025-05-29**|**QLIP: A Dynamic Quadtree Vision Prior Enhances MLLM Performance Without Retraining**|Kyle R. Chickering et.al.|[2505.23004](http://arxiv.org/abs/2505.23004)|null|
+|**2025-05-28**|**NegVQA: Can Vision Language Models Understand Negation?**|Yuhui Zhang et.al.|[2505.22946](http://arxiv.org/abs/2505.22946)|null|
 |**2025-05-27**|**FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal Shifts in Visual Question Answering**|Chengyue Huang et.al.|[2505.21755](http://arxiv.org/abs/2505.21755)|null|
 |**2025-05-27**|**Music's Multimodal Complexity in AVQA: Why We Need More than General Multimodal LLMs**|Wenhao You et.al.|[2505.20638](http://arxiv.org/abs/2505.20638)|null|
 |**2025-05-26**|**MangaVQA and MangaLMM: A Benchmark and Specialized Model for Multimodal Manga Understanding**|Jeonghun Baek et.al.|[2505.20298](http://arxiv.org/abs/2505.20298)|**[link](https://github.com/manga109/mangalmm)**|
@@ -540,6 +545,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering**|Zexi Liu et.al.|[2505.23723](http://arxiv.org/abs/2505.23723)|null|
+|**2025-05-29**|**Data-to-Dashboard: Multi-Agent LLM Framework for Insightful Visualization in Enterprise Analytics**|Ran Zhang et.al.|[2505.23695](http://arxiv.org/abs/2505.23695)|null|
+|**2025-05-29**|**SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents**|Kunlun Zhu et.al.|[2505.23559](http://arxiv.org/abs/2505.23559)|null|
+|**2025-05-29**|**Socratic-PRMBench: Benchmarking Process Reward Models with Systematic Reasoning Patterns**|Xiang Li et.al.|[2505.23474](http://arxiv.org/abs/2505.23474)|null|
+|**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Zhejian Yang et.al.|[2505.23450](http://arxiv.org/abs/2505.23450)|null|
+|**2025-05-29**|**LLM Agents for Bargaining with Utility-based Feedback**|Jihwan Oh et.al.|[2505.22998](http://arxiv.org/abs/2505.22998)|null|
+|**2025-05-29**|**Verify-in-the-Graph: Entity Disambiguation Enhancement for Complex Claim Verification with Interactive Graph Representation**|Hoang Pham et.al.|[2505.22993](http://arxiv.org/abs/2505.22993)|null|
+|**2025-05-28**|**Operationalizing CaMeL: Strengthening LLM Defenses for Enterprise Deployment**|Krti Tallam et.al.|[2505.22852](http://arxiv.org/abs/2505.22852)|null|
+|**2025-05-28**|**First Steps Towards Overhearing LLM Agents: A Case Study With Dungeons & Dragons Gameplay**|Andrew Zhu et.al.|[2505.22809](http://arxiv.org/abs/2505.22809)|null|
 |**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655](http://arxiv.org/abs/2505.22655)|null|
 |**2025-05-28**|**LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**|Rui Li et.al.|[2505.22634](http://arxiv.org/abs/2505.22634)|null|
 |**2025-05-29**|**Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems**|Hoang Pham et.al.|[2505.22571](http://arxiv.org/abs/2505.22571)|null|
@@ -1221,6 +1235,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**TrackVLA: Embodied Visual Tracking in the Wild**|Shaoan Wang et.al.|[2505.23189](http://arxiv.org/abs/2505.23189)|null|
+|**2025-05-29**|**Conceptual Framework Toward Embodied Collective Adaptive Intelligence**|Fan Wang et.al.|[2505.23153](http://arxiv.org/abs/2505.23153)|null|
 |**2025-05-28**|**Reinforced Reasoning for Embodied Planning**|Di Wu et.al.|[2505.22050](http://arxiv.org/abs/2505.22050)|null|
 |**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500](http://arxiv.org/abs/2505.21500)|null|
 |**2025-05-26**|**Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review**|Matthew Lisondra et.al.|[2505.20503](http://arxiv.org/abs/2505.20503)|null|
@@ -1430,10 +1446,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757](http://arxiv.org/abs/2505.23757)|null|
+|**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Danny Driess et.al.|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
+|**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Zhejian Yang et.al.|[2505.23450](http://arxiv.org/abs/2505.23450)|null|
+|**2025-05-29**|**TrackVLA: Embodied Visual Tracking in the Wild**|Shaoan Wang et.al.|[2505.23189](http://arxiv.org/abs/2505.23189)|null|
 |**2025-05-28**|**ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**|Jiawen Yu et.al.|[2505.22159](http://arxiv.org/abs/2505.22159)|null|
 |**2025-05-28**|**Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Zhongyi Zhou et.al.|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
 |**2025-05-27**|**EaqVLA: Encoding-aligned Quantization for Vision-Language-Action Models**|Feng Jiang et.al.|[2505.21567](http://arxiv.org/abs/2505.21567)|null|
-|**2025-05-27**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Haoming Song et.al.|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
+|**2025-05-29**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Haoming Song et.al.|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
 |**2025-05-27**|**Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models**|Xudong Tan et.al.|[2505.21200](http://arxiv.org/abs/2505.21200)|null|
 |**2025-05-26**|**Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review**|Matthew Lisondra et.al.|[2505.20503](http://arxiv.org/abs/2505.20503)|null|
 |**2025-05-26**|**What Can RL Bring to VLA Generalization? An Empirical Study**|Jijia Liu et.al.|[2505.19789](http://arxiv.org/abs/2505.19789)|null|

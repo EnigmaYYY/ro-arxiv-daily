@@ -79,11 +79,11 @@
 |**2025-05-25**|**GC-KBVQA: A New Four-Stage Framework for Enhancing Knowledge Based Visual Question Answering Performance**|Mohammad Mahdi Moradi et.al.|[2505.19354](http://arxiv.org/abs/2505.19354)|null|
 |**2025-05-28**|**VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use**|Mingyuan Wu et.al.|[2505.19255](http://arxiv.org/abs/2505.19255)|null|
 |**2025-05-25**|**SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards**|Chuming Shen et.al.|[2505.19094](http://arxiv.org/abs/2505.19094)|**[link](https://github.com/justairr/satori-r1)**|
-|**2025-05-25**|**InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts**|Minzhi Lin et.al.|[2505.19028](http://arxiv.org/abs/2505.19028)|null|
-|**2025-05-25**|**Are Vision Language Models Ready for Clinical Diagnosis? A 3D Medical Benchmark for Tumor-centric Visual Question Answering**|Yixiong Chen et.al.|[2505.18915](http://arxiv.org/abs/2505.18915)|null|
+|**2025-05-25**|**InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts**|Minzhi Lin et.al.|[2505.19028](http://arxiv.org/abs/2505.19028)|**[link](https://github.com/cooldawnant/infochartqa)**|
+|**2025-05-25**|**Are Vision Language Models Ready for Clinical Diagnosis? A 3D Medical Benchmark for Tumor-centric Visual Question Answering**|Yixiong Chen et.al.|[2505.18915](http://arxiv.org/abs/2505.18915)|**[link](https://github.com/schuture/deeptumorvqa)**|
 |**2025-05-23**|**CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays**|Hyungyung Lee et.al.|[2505.18087](http://arxiv.org/abs/2505.18087)|null|
 |**2025-05-23**|**Do You Keep an Eye on What I Ask? Mitigating Multimodal Hallucination via Attention-Guided Ensemble Decoding**|Yeongjae Cho et.al.|[2505.17529](http://arxiv.org/abs/2505.17529)|null|
-|**2025-05-23**|**VEAttack: Downstream-agnostic Vision Encoder Attack against Large Vision Language Models**|Hefei Mei et.al.|[2505.17440](http://arxiv.org/abs/2505.17440)|null|
+|**2025-05-23**|**VEAttack: Downstream-agnostic Vision Encoder Attack against Large Vision Language Models**|Hefei Mei et.al.|[2505.17440](http://arxiv.org/abs/2505.17440)|**[link](https://github.com/hfmei/veattack-lvlm)**|
 |**2025-05-23**|**Scaling Up Biomedical Vision-Language Models: Fine-Tuning, Instruction Tuning, and Multi-Modal Learning**|Cheng Peng et.al.|[2505.17436](http://arxiv.org/abs/2505.17436)|null|
 |**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
 |**2025-05-22**|**Zero-Shot Anomaly Detection in Battery Thermal Images Using Visual Question Answering with Prior Knowledge**|Marcella Astrid et.al.|[2505.16674](http://arxiv.org/abs/2505.16674)|null|
@@ -112,8 +112,8 @@
 |**2025-05-18**|**MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks**|Yinghao Zhu et.al.|[2505.12371](http://arxiv.org/abs/2505.12371)|**[link](https://github.com/yhzhu99/medagentboard)**|
 |**2025-05-20**|**Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation**|Shuo Wang et.al.|[2505.11886](http://arxiv.org/abs/2505.11886)|null|
 |**2025-05-16**|**HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation**|Shaina Raza et.al.|[2505.11454](http://arxiv.org/abs/2505.11454)|**[link](https://github.com/vectorinstitute/humanibench)**|
-|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|null|
-|**2025-05-20**|**TCC-Bench: Benchmarking the Traditional Chinese Culture Understanding Capabilities of MLLMs**|Pengju Xu et.al.|[2505.11275](http://arxiv.org/abs/2505.11275)|null|
+|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|**[link](https://github.com/wenchuan-zhang/patho-r1)**|
+|**2025-05-20**|**TCC-Bench: Benchmarking the Traditional Chinese Culture Understanding Capabilities of MLLMs**|Pengju Xu et.al.|[2505.11275](http://arxiv.org/abs/2505.11275)|**[link](https://github.com/morty-xu/tcc-bench)**|
 |**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562](http://arxiv.org/abs/2505.10562)|null|
 |**2025-05-14**|**Variational Visual Question Answering**|Tobias Jan Wieczorek et.al.|[2505.09591](http://arxiv.org/abs/2505.09591)|null|
 |**2025-05-12**|**Visually Interpretable Subtask Reasoning for Visual Question Answering**|Yu Cheng et.al.|[2505.08084](http://arxiv.org/abs/2505.08084)|null|
@@ -134,7 +134,7 @@
 |**2025-05-02**|**Transferable Adversarial Attacks on Black-Box Vision-Language Models**|Kai Hu et.al.|[2505.01050](http://arxiv.org/abs/2505.01050)|null|
 |**2025-04-30**|**Localizing Before Answering: A Benchmark for Grounded Medical Visual Question Answering**|Dung Nguyen et.al.|[2505.00744](http://arxiv.org/abs/2505.00744)|null|
 |**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|**[link](https://github.com/asad14053/AdCare-VLM)**|
-|**2025-04-30**|**UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation**|Linshan Wu et.al.|[2504.21336](http://arxiv.org/abs/2504.21336)|null|
+|**2025-04-30**|**UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation**|Linshan Wu et.al.|[2504.21336](http://arxiv.org/abs/2504.21336)|**[link](https://github.com/Luffy03/UniBiomed)**|
 |**2025-04-30**|**An Evaluation of a Visual Question Answering Strategy for Zero-shot Facial Expression Recognition in Still Images**|Modesto Castrillón-Santana et.al.|[2504.21309](http://arxiv.org/abs/2504.21309)|null|
 |**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|**[link](https://github.com/MAGIC-AI4Med/ChestX-Reasoner)**|
 |**2025-04-29**|**SpaRE: Enhancing Spatial Reasoning in Vision-Language Models with Synthetic Data**|Michael Ogezi et.al.|[2504.20648](http://arxiv.org/abs/2504.20648)|null|
@@ -454,7 +454,7 @@
 |**2024-10-22**|**NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples**|Baiqi Li et.al.|[2410.14669](http://arxiv.org/abs/2410.14669)|null|
 |**2024-10-18**|**Zero-shot Action Localization via the Confidence of Large Vision-Language Models**|Josiah Aklilu et.al.|[2410.14340](http://arxiv.org/abs/2410.14340)|null|
 |**2024-10-18**|**E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model**|Haoran Lai et.al.|[2410.14200](http://arxiv.org/abs/2410.14200)|null|
-|**2024-10-18**|**MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems**|Zifeng Zhu et.al.|[2410.14179](http://arxiv.org/abs/2410.14179)|null|
+|**2024-10-18**|**MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems**|Zifeng Zhu et.al.|[2410.14179](http://arxiv.org/abs/2410.14179)|**[link](https://github.com/zivenzhu/multi-chart-qa)**|
 |**2024-10-18**|**ViConsFormer: Constituting Meaningful Phrases of Scene Texts using Transformer-based Method in Vietnamese Text-based Visual Question Answering**|Nghia Hieu Nguyen et.al.|[2410.14132](http://arxiv.org/abs/2410.14132)|**[link](https://github.com/hieunghia-pat/ViConsFormer)**|
 |**2024-10-17**|**Help Me Identify: Is an LLM+VQA System All We Need to Identify Visual Concepts?**|Shailaja Keyur Sampat et.al.|[2410.13651](http://arxiv.org/abs/2410.13651)|**[link](https://github.com/shailaja183/objectconceptlearning)**|
 |**2024-10-17**|**RescueADI: Adaptive Disaster Interpretation in Remote Sensing Images with Autonomous Agents**|Zhuoran Liu et.al.|[2410.13384](http://arxiv.org/abs/2410.13384)|null|
@@ -587,12 +587,12 @@
 |**2025-05-26**|**Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking**|Yihan Chen et.al.|[2505.20023](http://arxiv.org/abs/2505.20023)|null|
 |**2025-05-26**|**Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making**|Yejin Son et.al.|[2505.19933](http://arxiv.org/abs/2505.19933)|null|
 |**2025-05-26**|**EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+LLM**|Shuang Ao et.al.|[2505.19905](http://arxiv.org/abs/2505.19905)|null|
-|**2025-05-26**|**Large Language Models as Autonomous Spacecraft Operators in Kerbal Space Program**|Alejandro Carrasco et.al.|[2505.19896](http://arxiv.org/abs/2505.19896)|null|
+|**2025-05-26**|**Large Language Models as Autonomous Spacecraft Operators in Kerbal Space Program**|Alejandro Carrasco et.al.|[2505.19896](http://arxiv.org/abs/2505.19896)|**[link](https://github.com/arclab-mit/kspdg)**|
 |**2025-05-26**|**RFTF: Reinforcement Fine-tuning for Embodied Agents with Temporal Feedback**|Junyang Shu et.al.|[2505.19767](http://arxiv.org/abs/2505.19767)|null|
 |**2025-05-26**|**NeuSym-RAG: Hybrid Neural Symbolic Retrieval with Multiview Structuring for PDF Question Answering**|Ruisheng Cao et.al.|[2505.19754](http://arxiv.org/abs/2505.19754)|null|
 |**2025-05-26**|**AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems**|Yu Shang et.al.|[2505.19623](http://arxiv.org/abs/2505.19623)|null|
 |**2025-05-26**|**LLM-Agent-Controller: A Universal Multi-Agent Large Language Model System as a Control Engineer**|Rasoul Zahedifar et.al.|[2505.19567](http://arxiv.org/abs/2505.19567)|null|
-|**2025-05-26**|**Benchmarking and Enhancing LLM Agents in Localizing Linux Kernel Bugs**|Zhenhao Zhou et.al.|[2505.19489](http://arxiv.org/abs/2505.19489)|null|
+|**2025-05-26**|**Benchmarking and Enhancing LLM Agents in Localizing Linux Kernel Bugs**|Zhenhao Zhou et.al.|[2505.19489](http://arxiv.org/abs/2505.19489)|**[link](https://github.com/fudanselab/linuxflbench)**|
 |**2025-05-26**|**VLMLight: Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning**|Maonan Wang et.al.|[2505.19486](http://arxiv.org/abs/2505.19486)|null|
 |**2025-05-23**|**Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**|Joey Hong et.al.|[2505.18098](http://arxiv.org/abs/2505.18098)|null|
 |**2025-05-23**|**DialogXpert: Driving Intelligent and Emotion-Aware Conversations through Online Value-Based Reinforcement Learning with LLM Priors**|Tazeek Bin Abdur Rakib et.al.|[2505.17795](http://arxiv.org/abs/2505.17795)|null|
@@ -611,7 +611,7 @@
 |**2025-05-22**|**Psychology-driven LLM Agents for Explainable Panic Prediction on Social Media during Sudden Disaster Events**|Mengzhu Liu et.al.|[2505.16455](http://arxiv.org/abs/2505.16455)|null|
 |**2025-05-22**|**Embodied Agents Meet Personalization: Exploring Memory Utilization for Personalized Assistance**|Taeyoon Kwon et.al.|[2505.16348](http://arxiv.org/abs/2505.16348)|null|
 |**2025-05-22**|**CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering**|Yuren Mao et.al.|[2505.16229](http://arxiv.org/abs/2505.16229)|null|
-|**2025-05-21**|**How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior**|Zidi Xiong et.al.|[2505.16067](http://arxiv.org/abs/2505.16067)|null|
+|**2025-05-21**|**How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior**|Zidi Xiong et.al.|[2505.16067](http://arxiv.org/abs/2505.16067)|**[link](https://github.com/yuplin2333/agent_memory_manage)**|
 |**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685](http://arxiv.org/abs/2505.15685)|**[link](https://github.com/hritdy/claw_machine)**|
 |**2025-05-21**|**ReflAct: World-Grounded Decision Making in LLM Agents via Goal-State Reflection**|Jeonghye Kim et.al.|[2505.15182](http://arxiv.org/abs/2505.15182)|null|
 |**2025-05-21**|**lmgame-Bench: How Good are LLMs at Playing Games?**|Lanxiang Hu et.al.|[2505.15146](http://arxiv.org/abs/2505.15146)|**[link](https://github.com/lmgame-org/gamingagent)**|
@@ -813,7 +813,7 @@
 |**2025-03-10**|**Experimental Exploration: Investigating Cooperative Interaction Behavior Between Humans and Large Language Model Agents**|Guanxuan Jiang et.al.|[2503.07320](http://arxiv.org/abs/2503.07320)|null|
 |**2025-03-10**|**Automated Movie Generation via Multi-Agent CoT Planning**|Weijia Wu et.al.|[2503.07314](http://arxiv.org/abs/2503.07314)|**[link](https://github.com/showlab/movieagent)**|
 |**2025-03-10**|**DatawiseAgent: A Notebook-Centric LLM Agent Framework for Automated Data Science**|Ziming You et.al.|[2503.07044](http://arxiv.org/abs/2503.07044)|null|
-|**2025-03-10**|**ProjectEval: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation**|Kaiyuan Liu et.al.|[2503.07010](http://arxiv.org/abs/2503.07010)|null|
+|**2025-03-10**|**ProjectEval: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation**|Kaiyuan Liu et.al.|[2503.07010](http://arxiv.org/abs/2503.07010)|**[link](https://github.com/RyanLoil/ProjectEval)**|
 |**2025-03-09**|**Exploring LLM Agents for Cleaning Tabular Machine Learning Datasets**|Tommaso Bendinelli et.al.|[2503.06664](http://arxiv.org/abs/2503.06664)|null|
 |**2025-03-09**|**Performant LLM Agentic Framework for Conversational AI**|Alex Casella et.al.|[2503.06410](http://arxiv.org/abs/2503.06410)|null|
 |**2025-03-07**|**Enhancing Reasoning with Collaboration and Memory**|Julie Michelman et.al.|[2503.05944](http://arxiv.org/abs/2503.05944)|null|
@@ -1000,7 +1000,7 @@
 |**2024-12-19**|**Agent-SafetyBench: Evaluating the Safety of LLM Agents**|Zhexin Zhang et.al.|[2412.14470](http://arxiv.org/abs/2412.14470)|**[link](https://github.com/thu-coai/agent-safetybench)**|
 |**2024-12-18**|**Tree-of-Code: A Hybrid Approach for Robust Complex Task Planning and Execution**|Ziyi Ni et.al.|[2412.14212](http://arxiv.org/abs/2412.14212)|null|
 |**2024-12-18**|**TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks**|Frank F. Xu et.al.|[2412.14161](http://arxiv.org/abs/2412.14161)|**[link](https://github.com/theagentcompany/experiments)**|
-|**2024-12-18**|**Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery**|ChengAo Shen et.al.|[2412.13667](http://arxiv.org/abs/2412.13667)|null|
+|**2024-12-18**|**Exploring Multi-Modal Integration with Tool-Augmented LLM Agents for Precise Causal Discovery**|ChengAo Shen et.al.|[2412.13667](http://arxiv.org/abs/2412.13667)|**[link](https://github.com/D2I-Group/matmcd)**|
 |**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|
 |**2024-12-18**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178](http://arxiv.org/abs/2412.13178)|**[link](https://github.com/shengyin1224/safeagentbench)**|
 |**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[2412.11484](http://arxiv.org/abs/2412.11484)|null|
@@ -1230,7 +1230,7 @@
 |**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|**[link](https://github.com/xyz9911/FLAME)**|
 |**2024-08-20**|**All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents**|Zhiqiang Wang et.al.|[2408.10899](http://arxiv.org/abs/2408.10899)|null|
 |**2024-08-24**|**IDEA:Enhancing the Rule Learning Ability of Language Agents through Induction, Deduction, and Abduction**|Kaiyu He et.al.|[2408.10455](http://arxiv.org/abs/2408.10455)|**[link](https://github.com/kaiyuhe998/rulearn_idea)**|
-|**2024-08-20**|**MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems**|Qian Wang et.al.|[2408.09955](http://arxiv.org/abs/2408.09955)|null|
+|**2024-08-20**|**MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems**|Qian Wang et.al.|[2408.09955](http://arxiv.org/abs/2408.09955)|**[link](https://github.com/xtra-computing/megaagent)**|
 |**2024-08-19**|**GoNoGo: An Efficient LLM-based Multi-Agent System for Streamlining Automotive Software Release Decision-Making**|Arsham Gholamzadeh Khoee et.al.|[2408.09785](http://arxiv.org/abs/2408.09785)|null|
 |**2024-08-15**|**EmBARDiment: an Embodied AI Agent for Productivity in XR**|Riccardo Bovo et.al.|[2408.08158](http://arxiv.org/abs/2408.08158)|null|
 |**2024-08-15**|**Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework**|Changyu Du et.al.|[2408.08054](http://arxiv.org/abs/2408.08054)|**[link](https://github.com/dcy0577/Text2BIM)**|
@@ -1484,12 +1484,12 @@
 |**2025-05-22**|**BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization**|Xueyang Zhou et.al.|[2505.16640](http://arxiv.org/abs/2505.16640)|null|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[2505.16278](http://arxiv.org/abs/2505.16278)|null|
 |**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Xiuchao Sui et.al.|[2505.15685](http://arxiv.org/abs/2505.15685)|**[link](https://github.com/hritdy/claw_machine)**|
-|**2025-05-24**|**Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization**|Jiaming Zhou et.al.|[2505.15660](http://arxiv.org/abs/2505.15660)|null|
+|**2025-05-24**|**Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization**|Jiaming Zhou et.al.|[2505.15660](http://arxiv.org/abs/2505.15660)|**[link](https://github.com/jiaming-zhou/X-ICM)**|
 |**2025-05-21**|**FLARE: Robot Learning with Implicit World Modeling**|Ruijie Zheng et.al.|[2505.15659](http://arxiv.org/abs/2505.15659)|null|
 |**2025-05-21**|**Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**|Seongmin Park et.al.|[2505.15304](http://arxiv.org/abs/2505.15304)|null|
 |**2025-05-21**|**EndoVLA: Dual-Phase Vision-Language-Action Model for Autonomous Tracking in Endoscopy**|Chi Kit Ng et.al.|[2505.15206](http://arxiv.org/abs/2505.15206)|null|
 |**2025-05-21**|**Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation**|Yihang Li et.al.|[2505.15098](http://arxiv.org/abs/2505.15098)|null|
-|**2025-05-20**|**AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory**|Zhiqian Lan et.al.|[2505.14030](http://arxiv.org/abs/2505.14030)|null|
+|**2025-05-20**|**AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory**|Zhiqian Lan et.al.|[2505.14030](http://arxiv.org/abs/2505.14030)|**[link](https://github.com/autobio-bench/AutoBio)**|
 |**2025-05-20**|**InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**|Ji Zhang et.al.|[2505.13888](http://arxiv.org/abs/2505.13888)|**[link](https://github.com/Koorye/Inspire)**|
 |**2025-05-20**|**RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction**|Weifeng Lu et.al.|[2505.12224](http://arxiv.org/abs/2505.12224)|null|
 |**2025-05-17**|**OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning**|Fanqi Lin et.al.|[2505.11917](http://arxiv.org/abs/2505.11917)|null|

@@ -63,6 +63,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck**|Yuwen Tan et.al.|[2505.24840](http://arxiv.org/abs/2505.24840)|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
+|**2025-05-30**|**Light as Deception: GPT-driven Natural Relighting Against Vision-Language Pre-training Models**|Ying Yang et.al.|[2505.24227](http://arxiv.org/abs/2505.24227)|null|
+|**2025-05-29**|**mRAG: Elucidating the Design Space of Multi-modal Retrieval-Augmented Generation**|Chan-Wei Hu et.al.|[2505.24073](http://arxiv.org/abs/2505.24073)|null|
+|**2025-05-28**|**Spa-VLM: Stealthy Poisoning Attacks on RAG-based VLM**|Lei Yu et.al.|[2505.23828](http://arxiv.org/abs/2505.23828)|null|
 |**2025-05-29**|**Interpreting Chest X-rays Like a Radiologist: A Benchmark with Clinical Reasoning**|Jinquan Guan et.al.|[2505.23143](http://arxiv.org/abs/2505.23143)|**[link](https://github.com/guanjinquan/cxrtrek)**|
 |**2025-05-29**|**Multi-Sourced Compositional Generalization in Visual Question Answering**|Chuanhao Li et.al.|[2505.23045](http://arxiv.org/abs/2505.23045)|**[link](https://github.com/nevermorelch/mscg)**|
 |**2025-05-29**|**Synthetic Document Question Answering in Hungarian**|Jonathan Li et.al.|[2505.23008](http://arxiv.org/abs/2505.23008)|**[link](https://github.com/snova-jonathanl/hudocvqa)**|
@@ -558,6 +563,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
+|**2025-05-30**|**Multiple LLM Agents Debate for Equitable Cultural Alignment**|Dayeon Ki et.al.|[2505.24671](http://arxiv.org/abs/2505.24671)|null|
+|**2025-05-30**|**NexusSum: Hierarchical LLM Agents for Long-Form Narrative Summarization**|Hyuntak Kim et.al.|[2505.24575](http://arxiv.org/abs/2505.24575)|null|
+|**2025-05-30**|**CREFT: Sequential Multi-Agent LLM for Character Relation Extraction**|Ye Eun Chun et.al.|[2505.24553](http://arxiv.org/abs/2505.24553)|null|
+|**2025-05-30**|**Effects of Theory of Mind and Prosocial Beliefs on Steering Human-Aligned Behaviors of LLMs in Ultimatum Games**|Neemesh Yadav et.al.|[2505.24255](http://arxiv.org/abs/2505.24255)|null|
+|**2025-05-30**|**Towards a Generalizable Bimanual Foundation Policy via Flow-based Video Prediction**|Chenyou Fan et.al.|[2505.24156](http://arxiv.org/abs/2505.24156)|null|
+|**2025-05-29**|**LLM Agents Should Employ Security Principles**|Kaiyuan Zhang et.al.|[2505.24019](http://arxiv.org/abs/2505.24019)|null|
+|**2025-05-29**|**ConversAR: Exploring Embodied LLM-Powered Group Conversations in Augmented Reality for Second Language Learners**|Jad Bendarkawi et.al.|[2505.24000](http://arxiv.org/abs/2505.24000)|null|
+|**2025-05-29**|**Lessons Learned: A Multi-Agent Framework for Code LLMs to Learn and Improve**|Yuanzhe Liu et.al.|[2505.23946](http://arxiv.org/abs/2505.23946)|null|
 |**2025-05-29**|**ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering**|Zexi Liu et.al.|[2505.23723](http://arxiv.org/abs/2505.23723)|**[link](https://github.com/zeroxleo/ml-agent)**|
 |**2025-05-29**|**Data-to-Dashboard: Multi-Agent LLM Framework for Insightful Visualization in Enterprise Analytics**|Ran Zhang et.al.|[2505.23695](http://arxiv.org/abs/2505.23695)|**[link](https://github.com/77luvc/d2d_data2dashboard)**|
 |**2025-05-29**|**SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents**|Kunlun Zhu et.al.|[2505.23559](http://arxiv.org/abs/2505.23559)|**[link](https://github.com/ulab-uiuc/safescientist)**|
@@ -1250,6 +1264,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Out of Sight, Not Out of Context? Egocentric Spatial Reasoning in VLMs Across Disjoint Frames**|Sahithya Ravi et.al.|[2505.24257](http://arxiv.org/abs/2505.24257)|null|
 |**2025-05-29**|**TrackVLA: Embodied Visual Tracking in the Wild**|Shaoan Wang et.al.|[2505.23189](http://arxiv.org/abs/2505.23189)|null|
 |**2025-05-29**|**Conceptual Framework Toward Embodied Collective Adaptive Intelligence**|Fan Wang et.al.|[2505.23153](http://arxiv.org/abs/2505.23153)|null|
 |**2025-05-28**|**Reinforced Reasoning for Embodied Planning**|Di Wu et.al.|[2505.22050](http://arxiv.org/abs/2505.22050)|null|
@@ -1463,6 +1478,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Towards a Generalizable Bimanual Foundation Policy via Flow-based Video Prediction**|Chenyou Fan et.al.|[2505.24156](http://arxiv.org/abs/2505.24156)|null|
 |**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757](http://arxiv.org/abs/2505.23757)|**[link](https://github.com/ahydchh/impromptu-vla)**|
 |**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Danny Driess et.al.|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
 |**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Zhejian Yang et.al.|[2505.23450](http://arxiv.org/abs/2505.23450)|null|

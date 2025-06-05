@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -1272,7 +1272,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097](http://arxiv.org/abs/2506.03097)|null|
 |**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265](http://arxiv.org/abs/2506.02265)|null|
-|**2025-06-02**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
+|**2025-06-04**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
 |**2025-06-01**|**In-the-wild Audio Spatialization with Flexible Text-guided Localization**|Tianrui Pan et.al.|[2506.00927](http://arxiv.org/abs/2506.00927)|null|
 |**2025-05-30**|**Curate, Connect, Inquire: A System for Findable Accessible Interoperable and Reusable (FAIR) Human-Robot Centered Datasets**|Xingru Zhou et.al.|[2506.00220](http://arxiv.org/abs/2506.00220)|null|
 |**2025-05-30**|**Out of Sight, Not Out of Context? Egocentric Spatial Reasoning in VLMs Across Disjoint Frames**|Sahithya Ravi et.al.|[2505.24257](http://arxiv.org/abs/2505.24257)|null|

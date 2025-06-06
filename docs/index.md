@@ -53,6 +53,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**TextVidBench: A Benchmark for Long Video Scene Text Understanding**|Yangyang Zhong et.al.|[2506.04983](http://arxiv.org/abs/2506.04983)|null|
+|**2025-06-05**|**Ontology-based knowledge representation for bone disease diagnosis: a foundation for safe and sustainable medical artificial intelligence systems**|Loan Dao et.al.|[2506.04756](http://arxiv.org/abs/2506.04756)|null|
+|**2025-06-04**|**ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding**|Ankit Pal et.al.|[2506.04353](http://arxiv.org/abs/2506.04353)|null|
 |**2025-06-04**|**ROSA: Addressing text understanding challenges in photographs via ROtated SAmpling**|Hernán Maina et.al.|[2506.03665](http://arxiv.org/abs/2506.03665)|null|
 |**2025-06-03**|**ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads**|Yifan Li et.al.|[2506.03433](http://arxiv.org/abs/2506.03433)|null|
 |**2025-06-04**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845](http://arxiv.org/abs/2506.02845)|null|
@@ -563,6 +566,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games**|Niv Eckhaus et.al.|[2506.05309](http://arxiv.org/abs/2506.05309)|null|
+|**2025-06-05**|**Towards Language-Augmented Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2506.05236](http://arxiv.org/abs/2506.05236)|null|
+|**2025-06-05**|**Agentic AI for Intent-Based Industrial Automation**|Marcos Lima Romero et.al.|[2506.04980](http://arxiv.org/abs/2506.04980)|null|
+|**2025-06-05**|**LLMs for sensory-motor control: Combining in-context and iterative learning**|Jônata Tyska Carvalho et.al.|[2506.04867](http://arxiv.org/abs/2506.04867)|null|
+|**2025-06-05**|**E-bike agents: Large Language Model-Driven E-Bike Accident Analysis and Severity Prediction**|Zhichao Yang et.al.|[2506.04654](http://arxiv.org/abs/2506.04654)|null|
+|**2025-06-05**|**Agents of Change: Self-Evolving LLM Agents for Strategic Planning**|Nikolas Belle et.al.|[2506.04651](http://arxiv.org/abs/2506.04651)|null|
+|**2025-06-05**|**From Standalone LLMs to Integrated Intelligence: A Survey of Compound Al Systems**|Jiayi Chen et.al.|[2506.04565](http://arxiv.org/abs/2506.04565)|null|
+|**2025-06-04**|**MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale**|Ran Xu et.al.|[2506.04405](http://arxiv.org/abs/2506.04405)|null|
 |**2025-06-04**|**TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems**|Shaina Raza et.al.|[2506.04133](http://arxiv.org/abs/2506.04133)|null|
 |**2025-06-04**|**AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment**|Anastasiia Ivanova et.al.|[2506.04089](http://arxiv.org/abs/2506.04089)|null|
 |**2025-06-04**|**AgentMisalignment: Measuring the Propensity for Misaligned Behaviour in LLM-Based Agents**|Akshat Naik et.al.|[2506.04018](http://arxiv.org/abs/2506.04018)|null|
@@ -1280,6 +1291,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/abs/2506.05341)|null|
+|**2025-06-05**|**OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**|Yanbo Wang et.al.|[2506.05204](http://arxiv.org/abs/2506.05204)|**[link](https://github.com/Yanbo-23/OGGSplat)**|
+|**2025-06-05**|**Towards provable probabilistic safety for scalable embodied AI systems**|Linxuan He et.al.|[2506.05171](http://arxiv.org/abs/2506.05171)|null|
+|**2025-06-05**|**GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove**|Yunlong Dong et.al.|[2506.04982](http://arxiv.org/abs/2506.04982)|null|
 |**2025-06-04**|**AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives**|Aniruddh Sikdar et.al.|[2506.03709](http://arxiv.org/abs/2506.03709)|null|
 |**2025-06-04**|**Training Cross-Morphology Embodied AI Agents: From Practical Challenges to Theoretical Foundations**|Shaoshan Liu et.al.|[2506.03613](http://arxiv.org/abs/2506.03613)|null|
 |**2025-06-04**|**SemNav: A Model-Based Planner for Zero-Shot Object Goal Navigation Using Vision-Foundation Models**|Arnab Debnath et.al.|[2506.03516](http://arxiv.org/abs/2506.03516)|null|

@@ -609,7 +609,7 @@
 |**2025-05-30**|**Multiple LLM Agents Debate for Equitable Cultural Alignment**|Dayeon Ki et.al.|[2505.24671](http://arxiv.org/abs/2505.24671)|null|
 |**2025-05-30**|**NexusSum: Hierarchical LLM Agents for Long-Form Narrative Summarization**|Hyuntak Kim et.al.|[2505.24575](http://arxiv.org/abs/2505.24575)|null|
 |**2025-05-30**|**CREFT: Sequential Multi-Agent LLM for Character Relation Extraction**|Ye Eun Chun et.al.|[2505.24553](http://arxiv.org/abs/2505.24553)|null|
-|**2025-05-30**|**Effects of Theory of Mind and Prosocial Beliefs on Steering Human-Aligned Behaviors of LLMs in Ultimatum Games**|Neemesh Yadav et.al.|[2505.24255](http://arxiv.org/abs/2505.24255)|null|
+|**2025-05-30**|**Effects of Theory of Mind and Prosocial Beliefs on Steering Human-Aligned Behaviors of LLMs in Ultimatum Games**|Neemesh Yadav et.al.|[2505.24255](http://arxiv.org/abs/2505.24255)|**[link](https://github.com/stealth-py/ultimatumtom)**|
 |**2025-05-30**|**Towards a Generalizable Bimanual Foundation Policy via Flow-based Video Prediction**|Chenyou Fan et.al.|[2505.24156](http://arxiv.org/abs/2505.24156)|null|
 |**2025-05-29**|**LLM Agents Should Employ Security Principles**|Kaiyuan Zhang et.al.|[2505.24019](http://arxiv.org/abs/2505.24019)|null|
 |**2025-05-29**|**ConversAR: Exploring Embodied LLM-Powered Group Conversations in Augmented Reality for Second Language Learners**|Jad Bendarkawi et.al.|[2505.24000](http://arxiv.org/abs/2505.24000)|null|
@@ -937,7 +937,7 @@
 |**2025-02-17**|**Scaling Autonomous Agents via Automatic Reward Modeling And Planning**|Zhenfang Chen et.al.|[2502.12130](http://arxiv.org/abs/2502.12130)|null|
 |**2025-02-17**|**A-MEM: Agentic Memory for LLM Agents**|Wujiang Xu et.al.|[2502.12110](http://arxiv.org/abs/2502.12110)|**[link](https://github.com/wujiangxu/agenticmemory)**|
 |**2025-02-17**|**Can LLM Agents Maintain a Persona in Discourse?**|Pranav Bhandari et.al.|[2502.11843](http://arxiv.org/abs/2502.11843)|null|
-|**2025-02-17**|**LLM Agents Making Agent Tools**|Georg Wölflein et.al.|[2502.11705](http://arxiv.org/abs/2502.11705)|null|
+|**2025-02-17**|**LLM Agents Making Agent Tools**|Georg Wölflein et.al.|[2502.11705](http://arxiv.org/abs/2502.11705)|**[link](https://github.com/katherlab/toolmaker)**|
 |**2025-02-17**|**Competing LLM Agents in a Non-Cooperative Game of Opinion Polarisation**|Amin Qasmi et.al.|[2502.11649](http://arxiv.org/abs/2502.11649)|null|
 |**2025-02-17**|**AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection**|Weidi Luo et.al.|[2502.11448](http://arxiv.org/abs/2502.11448)|null|
 |**2025-02-17**|**SMART: Self-Aware Agent for Tool Overuse Mitigation**|Cheng Qian et.al.|[2502.11435](http://arxiv.org/abs/2502.11435)|**[link](https://github.com/qiancheng0/open-smartagent)**|
@@ -993,7 +993,7 @@
 |**2025-01-31**|**GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling**|Pinxin Liu et.al.|[2501.18898](http://arxiv.org/abs/2501.18898)|**[link](https://github.com/andypinxinliu/GestureLSM)**|
 |**2025-02-03**|**UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent**|Jianke Zhang et.al.|[2501.18867](http://arxiv.org/abs/2501.18867)|null|
 |**2025-01-30**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320](http://arxiv.org/abs/2501.18320)|null|
-|**2025-01-31**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
+|**2025-01-31**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|**[link](https://github.com/purcl/repoaudit)**|
 |**2025-01-29**|**Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant**|Gaole He et.al.|[2501.17546](http://arxiv.org/abs/2501.17546)|**[link](https://github.com/delftcrowd/iui2025_convxai)**|
 |**2025-01-28**|**A sketch of an AI control safety case**|Tomek Korbak et.al.|[2501.17315](http://arxiv.org/abs/2501.17315)|null|
 |**2025-01-29**|**PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding**|Wei Chow et.al.|[2501.16411](http://arxiv.org/abs/2501.16411)|null|
@@ -1569,13 +1569,13 @@
 |**2025-05-21**|**Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation**|Yihang Li et.al.|[2505.15098](http://arxiv.org/abs/2505.15098)|null|
 |**2025-05-20**|**AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory**|Zhiqian Lan et.al.|[2505.14030](http://arxiv.org/abs/2505.14030)|**[link](https://github.com/autobio-bench/AutoBio)**|
 |**2025-05-20**|**InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**|Ji Zhang et.al.|[2505.13888](http://arxiv.org/abs/2505.13888)|**[link](https://github.com/Koorye/Inspire)**|
-|**2025-05-20**|**RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction**|Weifeng Lu et.al.|[2505.12224](http://arxiv.org/abs/2505.12224)|null|
+|**2025-05-20**|**RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction**|Weifeng Lu et.al.|[2505.12224](http://arxiv.org/abs/2505.12224)|**[link](https://github.com/mint-sjtu/robofac)**|
 |**2025-05-17**|**OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning**|Fanqi Lin et.al.|[2505.11917](http://arxiv.org/abs/2505.11917)|null|
 |**2025-05-16**|**Unveiling the Potential of Vision-Language-Action Models with Open-Ended Multimodal Instructions**|Wei Zhao et.al.|[2505.11214](http://arxiv.org/abs/2505.11214)|null|
 |**2025-05-16**|**Conditioning Matters: Training Diffusion Policies is Faster Than You Think**|Zibin Dong et.al.|[2505.11123](http://arxiv.org/abs/2505.11123)|null|
 |**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Justin Yu et.al.|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
 |**2025-05-14**|**RT-cache: Efficient Robot Trajectory Retrieval System**|Owen Kwon et.al.|[2505.09040](http://arxiv.org/abs/2505.09040)|null|
-|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
+|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548](http://arxiv.org/abs/2505.08548)|**[link](https://github.com/pickxiguapi/embodied-fsd)**|
 |**2025-05-17**|**Training Strategies for Efficient Embodied Reasoning**|William Chen et.al.|[2505.08243](http://arxiv.org/abs/2505.08243)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
 |**2025-05-12**|**ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning**|Hongyin Zhang et.al.|[2505.07395](http://arxiv.org/abs/2505.07395)|null|

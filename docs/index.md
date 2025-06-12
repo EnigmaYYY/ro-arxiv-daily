@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -53,6 +53,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy**|Sushant Gautam et.al.|[2506.09958](http://arxiv.org/abs/2506.09958)|null|
+|**2025-06-11**|**Outside Knowledge Conversational Video (OKCV) Dataset -- Dialoguing over Videos**|Benjamin Reichman et.al.|[2506.09953](http://arxiv.org/abs/2506.09953)|null|
+|**2025-06-11**|**HSENet: Hybrid Spatial Encoding Network for 3D Medical Vision-Language Understanding**|Yanzhao Shi et.al.|[2506.09634](http://arxiv.org/abs/2506.09634)|null|
+|**2025-06-11**|**Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning**|Cheng Chen et.al.|[2506.09473](http://arxiv.org/abs/2506.09473)|null|
+|**2025-06-10**|**MultiNet: An Open-Source Software Toolkit \& Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models**|Pranav Guruprasad et.al.|[2506.09172](http://arxiv.org/abs/2506.09172)|null|
+|**2025-06-10**|**AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models**|Zheda Mai et.al.|[2506.09082](http://arxiv.org/abs/2506.09082)|null|
+|**2025-06-10**|**FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation**|Zheqi He et.al.|[2506.09081](http://arxiv.org/abs/2506.09081)|null|
 |**2025-06-10**|**PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly**|Liang Ma et.al.|[2506.08708](http://arxiv.org/abs/2506.08708)|null|
 |**2025-06-09**|**HAIBU-ReMUD: Reasoning Multimodal Ultrasound Dataset and Model Bridging to General Specific Domains**|Shijie Wang et.al.|[2506.07837](http://arxiv.org/abs/2506.07837)|null|
 |**2025-06-09**|**Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger**|Qi Yang et.al.|[2506.07785](http://arxiv.org/abs/2506.07785)|null|
@@ -576,8 +583,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Improving LLM Agent Planning with In-Context Learning via Atomic Fact Augmentation and Lookahead Search**|Samuel Holt et.al.|[2506.09171](http://arxiv.org/abs/2506.09171)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
-|**2025-06-10**|**Design Patterns for Securing LLM Agents against Prompt Injections**|Luca Beurer-Kellner et.al.|[2506.08837](http://arxiv.org/abs/2506.08837)|null|
+|**2025-06-11**|**Design Patterns for Securing LLM Agents against Prompt Injections**|Luca Beurer-Kellner et.al.|[2506.08837](http://arxiv.org/abs/2506.08837)|null|
 |**2025-06-10**|**Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents**|Irene Testini et.al.|[2506.08800](http://arxiv.org/abs/2506.08800)|null|
 |**2025-06-10**|**Improved LLM Agents for Financial Document Question Answering**|Nelvin Tan et.al.|[2506.08726](http://arxiv.org/abs/2506.08726)|null|
 |**2025-06-10**|**PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly**|Liang Ma et.al.|[2506.08708](http://arxiv.org/abs/2506.08708)|null|
@@ -1323,6 +1331,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**OctoNav: Towards Generalist Embodied Navigation**|Chen Gao et.al.|[2506.09839](http://arxiv.org/abs/2506.09839)|null|
+|**2025-06-11**|**Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models**|Lipei Xie et.al.|[2506.09623](http://arxiv.org/abs/2506.09623)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
 |**2025-06-10**|**Generalizable Articulated Object Reconstruction from Casually Captured RGBD Videos**|Weikun Peng et.al.|[2506.08334](http://arxiv.org/abs/2506.08334)|null|
 |**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006](http://arxiv.org/abs/2506.08006)|null|
@@ -1556,10 +1566,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**SAFE: Multitask Failure Detection for Vision-Language-Action Models**|Qiao Gu et.al.|[2506.09937](http://arxiv.org/abs/2506.09937)|null|
+|**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Irving Fang et.al.|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
+|**2025-06-10**|**MultiNet: An Open-Source Software Toolkit \& Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models**|Pranav Guruprasad et.al.|[2506.09172](http://arxiv.org/abs/2506.09172)|null|
 |**2025-06-10**|**FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency**|Yifei Su et.al.|[2506.08822](http://arxiv.org/abs/2506.08822)|null|
 |**2025-06-10**|**Hybrid Reasoning for Perception, Explanation, and Autonomous Action in Manufacturing**|Christos Margadji et.al.|[2506.08462](http://arxiv.org/abs/2506.08462)|null|
-|**2025-06-10**|**TGRPO :Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization**|Zengjue Chen et.al.|[2506.08440](http://arxiv.org/abs/2506.08440)|null|
-|**2025-06-09**|**HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation**|Hongjun Wu et.al.|[2506.08296](http://arxiv.org/abs/2506.08296)|null|
+|**2025-06-11**|**TGRPO :Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization**|Zengjue Chen et.al.|[2506.08440](http://arxiv.org/abs/2506.08440)|null|
+|**2025-06-11**|**HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation**|Hongjun Wu et.al.|[2506.08296](http://arxiv.org/abs/2506.08296)|null|
 |**2025-06-09**|**Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion Models in a Vision-Language-Action Framework**|Huixin Zhan et.al.|[2506.08185](http://arxiv.org/abs/2506.08185)|null|
 |**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Peiyan Li et.al.|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
 |**2025-06-09**|**Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse**|Zhekai Duan et.al.|[2506.07639](http://arxiv.org/abs/2506.07639)|null|
@@ -1788,6 +1801,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**OctoNav: Towards Generalist Embodied Navigation**|Chen Gao et.al.|[2506.09839](http://arxiv.org/abs/2506.09839)|null|
 |**2025-06-03**|**RATE-Nav: Region-Aware Termination Enhancement for Zero-shot Object Navigation with Vision-Language Models**|Junjie Li et.al.|[2506.02354](http://arxiv.org/abs/2506.02354)|null|
 |**2025-06-01**|**NavBench: Probing Multimodal Large Language Models for Embodied Navigation**|Yanyuan Qiao et.al.|[2506.01031](http://arxiv.org/abs/2506.01031)|null|
 |**2025-05-22**|**CoNav: Collaborative Cross-Modal Reasoning for Embodied Navigation**|Haihong Hao et.al.|[2505.16663](http://arxiv.org/abs/2505.16663)|**[link](https://github.com/oceanhao/CoNav)**|

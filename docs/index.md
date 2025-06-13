@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**EQA-RM: A Generative Embodied Reward Model with Test-time Scaling**|Yuhang Chen et.al.|[2506.10389](http://arxiv.org/abs/2506.10389)|null|
 |**2025-06-01**|**GraphPad: Inference-Time 3D Scene Graph Updates for Embodied Question Answering**|Muhammad Qasim Ali et.al.|[2506.01174](http://arxiv.org/abs/2506.01174)|null|
 |**2025-05-27**|**IndustryEQA: Pushing the Frontiers of Embodied Question Answering in Industrial Scenarios**|Yifan Li et.al.|[2505.20640](http://arxiv.org/abs/2505.20640)|null|
 |**2025-05-20**|**Memory-Centric Embodied Question Answer**|Mingliang Zhai et.al.|[2505.13948](http://arxiv.org/abs/2505.13948)|null|
@@ -53,6 +54,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**SlotPi: Physics-informed Object-centric Reasoning Models**|Jian Li et.al.|[2506.10778](http://arxiv.org/abs/2506.10778)|null|
+|**2025-06-12**|**HalLoc: Token-level Localization of Hallucinations for Vision Language Models**|Eunkyu Park et.al.|[2506.10286](http://arxiv.org/abs/2506.10286)|null|
 |**2025-06-11**|**Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy**|Sushant Gautam et.al.|[2506.09958](http://arxiv.org/abs/2506.09958)|null|
 |**2025-06-11**|**Outside Knowledge Conversational Video (OKCV) Dataset -- Dialoguing over Videos**|Benjamin Reichman et.al.|[2506.09953](http://arxiv.org/abs/2506.09953)|null|
 |**2025-06-11**|**HSENet: Hybrid Spatial Encoding Network for 3D Medical Vision-Language Understanding**|Yanzhao Shi et.al.|[2506.09634](http://arxiv.org/abs/2506.09634)|null|
@@ -583,6 +586,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
+|**2025-06-12**|**OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems**|Xiaozhe Li et.al.|[2506.10764](http://arxiv.org/abs/2506.10764)|null|
+|**2025-06-12**|**Specification and Evaluation of Multi-Agent LLM Systems -- Prototype and Cybersecurity Applications**|Felix Härer et.al.|[2506.10467](http://arxiv.org/abs/2506.10467)|null|
+|**2025-06-12**|**Provably Learning from Language Feedback**|Wanqiao Xu et.al.|[2506.10341](http://arxiv.org/abs/2506.10341)|null|
+|**2025-06-12**|**Minimizing False Positives in Static Bug Detection via LLM-Enhanced Path Feasibility Analysis**|Xueying Du et.al.|[2506.10322](http://arxiv.org/abs/2506.10322)|null|
+|**2025-06-11**|**Disclosure Audits for LLM Agents**|Saswat Das et.al.|[2506.10171](http://arxiv.org/abs/2506.10171)|null|
+|**2025-06-11**|**A quantum semantic framework for natural language processing**|Christopher J. Agostino et.al.|[2506.10077](http://arxiv.org/abs/2506.10077)|null|
 |**2025-06-10**|**Improving LLM Agent Planning with In-Context Learning via Atomic Fact Augmentation and Lookahead Search**|Samuel Holt et.al.|[2506.09171](http://arxiv.org/abs/2506.09171)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
 |**2025-06-11**|**Design Patterns for Securing LLM Agents against Prompt Injections**|Luca Beurer-Kellner et.al.|[2506.08837](http://arxiv.org/abs/2506.08837)|null|
@@ -1331,6 +1341,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence**|Wang Xinjie et.al.|[2506.10600](http://arxiv.org/abs/2506.10600)|null|
+|**2025-06-11**|**A Navigation Framework Utilizing Vision-Language Models**|Yicheng Duan et.al.|[2506.10172](http://arxiv.org/abs/2506.10172)|null|
 |**2025-06-11**|**OctoNav: Towards Generalist Embodied Navigation**|Chen Gao et.al.|[2506.09839](http://arxiv.org/abs/2506.09839)|null|
 |**2025-06-11**|**Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models**|Lipei Xie et.al.|[2506.09623](http://arxiv.org/abs/2506.09623)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
@@ -1566,6 +1578,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Wenxuan Song et.al.|[2506.10826](http://arxiv.org/abs/2506.10826)|null|
+|**2025-06-11**|**EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models**|Yantai Yang et.al.|[2506.10100](http://arxiv.org/abs/2506.10100)|null|
 |**2025-06-11**|**SAFE: Multitask Failure Detection for Vision-Language-Action Models**|Qiao Gu et.al.|[2506.09937](http://arxiv.org/abs/2506.09937)|null|
 |**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Irving Fang et.al.|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
 |**2025-06-10**|**MultiNet: An Open-Source Software Toolkit \& Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models**|Pranav Guruprasad et.al.|[2506.09172](http://arxiv.org/abs/2506.09172)|null|
@@ -1747,6 +1761,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding**|Yuhang Zhang et.al.|[2506.10756](http://arxiv.org/abs/2506.10756)|null|
 |**2025-06-10**|**Generating Vision-Language Navigation Instructions Incorporated Fine-Grained Alignment Annotations**|Yibo Cui et.al.|[2506.08566](http://arxiv.org/abs/2506.08566)|null|
 |**2025-06-07**|**Active Test-time Vision-Language Navigation**|Heeju Ko et.al.|[2506.06630](http://arxiv.org/abs/2506.06630)|null|
 |**2025-06-02**|**EvolveNav: Self-Improving Embodied Reasoning for LLM-Based Vision-Language Navigation**|Bingqian Lin et.al.|[2506.01551](http://arxiv.org/abs/2506.01551)|null|

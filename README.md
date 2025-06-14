@@ -68,7 +68,7 @@
 |**2025-06-12**|**SlotPi: Physics-informed Object-centric Reasoning Models**|Jian Li et.al.|[2506.10778](http://arxiv.org/abs/2506.10778)|null|
 |**2025-06-12**|**HalLoc: Token-level Localization of Hallucinations for Vision Language Models**|Eunkyu Park et.al.|[2506.10286](http://arxiv.org/abs/2506.10286)|null|
 |**2025-06-11**|**Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy**|Sushant Gautam et.al.|[2506.09958](http://arxiv.org/abs/2506.09958)|null|
-|**2025-06-11**|**Outside Knowledge Conversational Video (OKCV) Dataset -- Dialoguing over Videos**|Benjamin Reichman et.al.|[2506.09953](http://arxiv.org/abs/2506.09953)|null|
+|**2025-06-11**|**Outside Knowledge Conversational Video (OKCV) Dataset -- Dialoguing over Videos**|Benjamin Reichman et.al.|[2506.09953](http://arxiv.org/abs/2506.09953)|**[link](https://github.com/c-patsch/okcv)**|
 |**2025-06-11**|**HSENet: Hybrid Spatial Encoding Network for 3D Medical Vision-Language Understanding**|Yanzhao Shi et.al.|[2506.09634](http://arxiv.org/abs/2506.09634)|null|
 |**2025-06-11**|**Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning**|Cheng Chen et.al.|[2506.09473](http://arxiv.org/abs/2506.09473)|null|
 |**2025-06-10**|**MultiNet: An Open-Source Software Toolkit \& Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models**|Pranav Guruprasad et.al.|[2506.09172](http://arxiv.org/abs/2506.09172)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -595,11 +595,11 @@ layout: default
 |**2025-06-13**|**AgentSense: Virtual Sensor Data Generation Using LLM Agent in Simulated Home Environments**|Zikang Leng et.al.|[2506.11773](http://arxiv.org/abs/2506.11773)|null|
 |**2025-06-12**|**From Replication to Redesign: Exploring Pairwise Comparisons for LLM-Based Peer Review**|Yaohui Zhang et.al.|[2506.11343](http://arxiv.org/abs/2506.11343)|null|
 |**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
-|**2025-06-12**|**OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems**|Xiaozhe Li et.al.|[2506.10764](http://arxiv.org/abs/2506.10764)|null|
-|**2025-06-13**|**Specification and Evaluation of Multi-Agent LLM Systems -- Prototype and Cybersecurity Applications**|Felix Härer et.al.|[2506.10467](http://arxiv.org/abs/2506.10467)|null|
+|**2025-06-12**|**OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems**|Xiaozhe Li et.al.|[2506.10764](http://arxiv.org/abs/2506.10764)|**[link](https://github.com/oliverleexz/opt-bench)**|
+|**2025-06-13**|**Specification and Evaluation of Multi-Agent LLM Systems -- Prototype and Cybersecurity Applications**|Felix Härer et.al.|[2506.10467](http://arxiv.org/abs/2506.10467)|**[link](https://github.com/fhaer/multi-agent-llm-system)**|
 |**2025-06-12**|**Provably Learning from Language Feedback**|Wanqiao Xu et.al.|[2506.10341](http://arxiv.org/abs/2506.10341)|null|
 |**2025-06-12**|**Minimizing False Positives in Static Bug Detection via LLM-Enhanced Path Feasibility Analysis**|Xueying Du et.al.|[2506.10322](http://arxiv.org/abs/2506.10322)|null|
-|**2025-06-11**|**Disclosure Audits for LLM Agents**|Saswat Das et.al.|[2506.10171](http://arxiv.org/abs/2506.10171)|null|
+|**2025-06-14**|**Disclosure Audits for LLM Agents**|Saswat Das et.al.|[2506.10171](http://arxiv.org/abs/2506.10171)|null|
 |**2025-06-11**|**A quantum semantic framework for natural language processing**|Christopher J. Agostino et.al.|[2506.10077](http://arxiv.org/abs/2506.10077)|null|
 |**2025-06-10**|**Improving LLM Agent Planning with In-Context Learning via Atomic Fact Augmentation and Lookahead Search**|Samuel Holt et.al.|[2506.09171](http://arxiv.org/abs/2506.09171)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
@@ -1595,7 +1595,7 @@ layout: default
 |**2025-06-10**|**Hybrid Reasoning for Perception, Explanation, and Autonomous Action in Manufacturing**|Christos Margadji et.al.|[2506.08462](http://arxiv.org/abs/2506.08462)|null|
 |**2025-06-11**|**TGRPO :Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization**|Zengjue Chen et.al.|[2506.08440](http://arxiv.org/abs/2506.08440)|null|
 |**2025-06-11**|**HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation**|Hongjun Wu et.al.|[2506.08296](http://arxiv.org/abs/2506.08296)|null|
-|**2025-06-09**|**Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion Models in a Vision-Language-Action Framework**|Huixin Zhan et.al.|[2506.08185](http://arxiv.org/abs/2506.08185)|null|
+|**2025-06-14**|**Agentic Surgical AI: Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion in a Vision-Language-Action Framework**|Huixin Zhan et.al.|[2506.08185](http://arxiv.org/abs/2506.08185)|**[link](https://github.com/huixin-zhan-ai/surgeon_style_fingerprinting)**|
 |**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Peiyan Li et.al.|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
 |**2025-06-09**|**Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse**|Zhekai Duan et.al.|[2506.07639](http://arxiv.org/abs/2506.07639)|null|
 |**2025-06-09**|**BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation**|Hongyu Wang et.al.|[2506.07530](http://arxiv.org/abs/2506.07530)|**[link](https://github.com/ustcwhy/bitvla)**|

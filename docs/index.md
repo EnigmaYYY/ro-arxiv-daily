@@ -123,7 +123,7 @@ layout: default
 |**2025-05-25**|**SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards**|Chuming Shen et.al.|[2505.19094](http://arxiv.org/abs/2505.19094)|**[link](https://github.com/justairr/satori-r1)**|
 |**2025-05-25**|**InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts**|Minzhi Lin et.al.|[2505.19028](http://arxiv.org/abs/2505.19028)|**[link](https://github.com/cooldawnant/infochartqa)**|
 |**2025-05-25**|**Are Vision Language Models Ready for Clinical Diagnosis? A 3D Medical Benchmark for Tumor-centric Visual Question Answering**|Yixiong Chen et.al.|[2505.18915](http://arxiv.org/abs/2505.18915)|**[link](https://github.com/schuture/deeptumorvqa)**|
-|**2025-05-23**|**CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays**|Hyungyung Lee et.al.|[2505.18087](http://arxiv.org/abs/2505.18087)|null|
+|**2025-05-23**|**CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays**|Hyungyung Lee et.al.|[2505.18087](http://arxiv.org/abs/2505.18087)|**[link](https://github.com/ttumyche/cxreasonbench)**|
 |**2025-05-23**|**Do You Keep an Eye on What I Ask? Mitigating Multimodal Hallucination via Attention-Guided Ensemble Decoding**|Yeongjae Cho et.al.|[2505.17529](http://arxiv.org/abs/2505.17529)|null|
 |**2025-05-23**|**VEAttack: Downstream-agnostic Vision Encoder Attack against Large Vision Language Models**|Hefei Mei et.al.|[2505.17440](http://arxiv.org/abs/2505.17440)|**[link](https://github.com/hfmei/veattack-lvlm)**|
 |**2025-05-23**|**Scaling Up Biomedical Vision-Language Models: Fine-Tuning, Instruction Tuning, and Multi-Modal Learning**|Cheng Peng et.al.|[2505.17436](http://arxiv.org/abs/2505.17436)|null|
@@ -609,7 +609,7 @@ layout: default
 |**2025-06-17**|**SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks**|Zijian Song et.al.|[2506.14512](http://arxiv.org/abs/2506.14512)|null|
 |**2025-06-17**|**AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents**|Jingxu Xie et.al.|[2506.14205](http://arxiv.org/abs/2506.14205)|null|
 |**2025-06-16**|**Spec2RTL-Agent: Automated Hardware Code Generation from Complex Specifications Using LLM Agent Systems**|Zhongzhi Yu et.al.|[2506.13905](http://arxiv.org/abs/2506.13905)|null|
-|**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666](http://arxiv.org/abs/2506.13666)|null|
+|**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666](http://arxiv.org/abs/2506.13666)|**[link](https://github.com/littlelittlenine/safemcp)**|
 |**2025-06-16**|**Towards Pervasive Distributed Agentic Generative AI -- A State of The Art**|Gianni Molinari et.al.|[2506.13324](http://arxiv.org/abs/2506.13324)|null|
 |**2025-06-16**|**Querying Large Automotive Software Models: Agentic vs. Direct LLM Approaches**|Lukasz Mazur et.al.|[2506.13171](http://arxiv.org/abs/2506.13171)|null|
 |**2025-06-16**|**Leveraging In-Context Learning for Language Model Agents**|Shivanshu Gupta et.al.|[2506.13109](http://arxiv.org/abs/2506.13109)|null|
@@ -619,11 +619,11 @@ layout: default
 |**2025-06-14**|**IndoorWorld: Integrating Physical Task Solving and Social Simulation in A Heterogeneous Multi-Agent Environment**|Dekun Wu et.al.|[2506.12331](http://arxiv.org/abs/2506.12331)|null|
 |**2025-06-13**|**The Behavior Gap: Evaluating Zero-shot LLM Agents in Complex Task-Oriented Dialogs**|Avinash Baidya et.al.|[2506.12266](http://arxiv.org/abs/2506.12266)|null|
 |**2025-06-13**|**A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions**|Stephen Mell et.al.|[2506.12202](http://arxiv.org/abs/2506.12202)|null|
-|**2025-06-13**|**Revealing Political Bias in LLMs through Structured Multi-Agent Debate**|Aishwarya Bandaru et.al.|[2506.11825](http://arxiv.org/abs/2506.11825)|null|
-|**2025-06-13**|**SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks**|Hwiwon Lee et.al.|[2506.11791](http://arxiv.org/abs/2506.11791)|null|
+|**2025-06-13**|**Revealing Political Bias in LLMs through Structured Multi-Agent Debate**|Aishwarya Bandaru et.al.|[2506.11825](http://arxiv.org/abs/2506.11825)|**[link](https://github.com/comp0087-echo-chamber/comp0087-agent-debate)**|
+|**2025-06-13**|**SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks**|Hwiwon Lee et.al.|[2506.11791](http://arxiv.org/abs/2506.11791)|**[link](https://github.com/sec-bench/sec-bench)**|
 |**2025-06-13**|**AgentSense: Virtual Sensor Data Generation Using LLM Agent in Simulated Home Environments**|Zikang Leng et.al.|[2506.11773](http://arxiv.org/abs/2506.11773)|null|
 |**2025-06-12**|**From Replication to Redesign: Exploring Pairwise Comparisons for LLM-Based Peer Review**|Yaohui Zhang et.al.|[2506.11343](http://arxiv.org/abs/2506.11343)|null|
-|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
+|**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|**[link](https://github.com/innovatingai/automind)**|
 |**2025-06-12**|**OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems**|Xiaozhe Li et.al.|[2506.10764](http://arxiv.org/abs/2506.10764)|**[link](https://github.com/oliverleexz/opt-bench)**|
 |**2025-06-13**|**Specification and Evaluation of Multi-Agent LLM Systems -- Prototype and Cybersecurity Applications**|Felix Härer et.al.|[2506.10467](http://arxiv.org/abs/2506.10467)|**[link](https://github.com/fhaer/multi-agent-llm-system)**|
 |**2025-06-12**|**Provably Learning from Language Feedback**|Wanqiao Xu et.al.|[2506.10341](http://arxiv.org/abs/2506.10341)|null|
@@ -640,8 +640,8 @@ layout: default
 |**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006](http://arxiv.org/abs/2506.08006)|null|
 |**2025-06-09**|**QUITE: A Query Rewrite System Beyond Rules with LLM Agents**|Yuyang Song et.al.|[2506.07675](http://arxiv.org/abs/2506.07675)|null|
 |**2025-06-09**|**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**|Shiwei Feng et.al.|[2506.07524](http://arxiv.org/abs/2506.07524)|null|
-|**2025-06-09**|**MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models**|Philip Liu et.al.|[2506.07400](http://arxiv.org/abs/2506.07400)|null|
-|**2025-06-09**|**G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems**|Guibin Zhang et.al.|[2506.07398](http://arxiv.org/abs/2506.07398)|null|
+|**2025-06-09**|**MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models**|Philip Liu et.al.|[2506.07400](http://arxiv.org/abs/2506.07400)|**[link](https://github.com/purdue-m2/medchat)**|
+|**2025-06-09**|**G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems**|Guibin Zhang et.al.|[2506.07398](http://arxiv.org/abs/2506.07398)|**[link](https://github.com/bingreeky/gmemory)**|
 |**2025-06-09**|**Shapley-Coop: Credit Assignment for Emergent Cooperation in Self-Interested LLM Agents**|Yun Hua et.al.|[2506.07388](http://arxiv.org/abs/2506.07388)|null|
 |**2025-06-09**|**MapBERT: Bitwise Masked Modeling for Real-Time Semantic Mapping Generation**|Yijie Deng et.al.|[2506.07350](http://arxiv.org/abs/2506.07350)|null|
 |**2025-06-08**|**Learn as Individuals, Evolve as a Team: Multi-agent LLMs Adaptation in Embodied Environments**|Xinran Li et.al.|[2506.07232](http://arxiv.org/abs/2506.07232)|null|
@@ -730,7 +730,7 @@ layout: default
 |**2025-05-23**|**Get Experience from Practice: LLM Agents with Record & Replay**|Erhu Feng et.al.|[2505.17716](http://arxiv.org/abs/2505.17716)|null|
 |**2025-05-23**|**Simulating Macroeconomic Expectations using LLM Agents**|Jianhao Lin et.al.|[2505.17648](http://arxiv.org/abs/2505.17648)|null|
 |**2025-05-23**|**HoloLLM: Multisensory Foundation Model for Language-Grounded Human Sensing and Reasoning**|Chuhao Zhou et.al.|[2505.17645](http://arxiv.org/abs/2505.17645)|null|
-|**2025-05-23**|**Distilling LLM Agent into Small Models with Retrieval and Code Tools**|Minki Kang et.al.|[2505.17612](http://arxiv.org/abs/2505.17612)|null|
+|**2025-05-23**|**Distilling LLM Agent into Small Models with Retrieval and Code Tools**|Minki Kang et.al.|[2505.17612](http://arxiv.org/abs/2505.17612)|**[link](https://github.com/nardien/agent-distillation)**|
 |**2025-05-23**|**USTBench: Benchmarking and Dissecting Spatiotemporal Reasoning of LLMs as Urban Agents**|Siqi Lai et.al.|[2505.17572](http://arxiv.org/abs/2505.17572)|null|
 |**2025-05-23**|**MARCO: Meta-Reflection with Cross-Referencing for Code Reasoning**|Yusheng Zhao et.al.|[2505.17481](http://arxiv.org/abs/2505.17481)|null|
 |**2025-05-22**|**Beyond Correlation: Towards Causal Large Language Model Agents in Biomedicine**|Adib Bazgir et.al.|[2505.16982](http://arxiv.org/abs/2505.16982)|null|
@@ -1640,7 +1640,7 @@ layout: default
 |**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Peiyan Li et.al.|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
 |**2025-06-09**|**Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse**|Zhekai Duan et.al.|[2506.07639](http://arxiv.org/abs/2506.07639)|null|
 |**2025-06-09**|**BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation**|Hongyu Wang et.al.|[2506.07530](http://arxiv.org/abs/2506.07530)|**[link](https://github.com/ustcwhy/bitvla)**|
-|**2025-06-09**|**Real-Time Execution of Action Chunking Flow Policies**|Kevin Black et.al.|[2506.07339](http://arxiv.org/abs/2506.07339)|null|
+|**2025-06-09**|**Real-Time Execution of Action Chunking Flow Policies**|Kevin Black et.al.|[2506.07339](http://arxiv.org/abs/2506.07339)|**[link](https://github.com/Physical-Intelligence/real-time-chunking-kinetix)**|
 |**2025-06-08**|**Robotic Policy Learning via Human-assisted Action Preference Optimization**|Wenke xia et.al.|[2506.07127](http://arxiv.org/abs/2506.07127)|null|
 |**2025-06-07**|**RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation**|Songhao Han et.al.|[2506.06677](http://arxiv.org/abs/2506.06677)|null|
 |**2025-06-06**|**MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping**|Vineet Bhat et.al.|[2506.06535](http://arxiv.org/abs/2506.06535)|null|

@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**ToSA: Token Merging with Spatial Awareness**|Hsiang-Wei Huang et.al.|[2506.20066](http://arxiv.org/abs/2506.20066)|null|
 |**2025-06-20**|**General-Purpose Robotic Navigation via LVLM-Orchestrated Perception, Reasoning, and Acting**|Bernard Lange et.al.|[2506.17462](http://arxiv.org/abs/2506.17462)|null|
 |**2025-06-12**|**EQA-RM: A Generative Embodied Reward Model with Test-time Scaling**|Yuhang Chen et.al.|[2506.10389](http://arxiv.org/abs/2506.10389)|null|
 |**2025-06-01**|**GraphPad: Inference-Time 3D Scene Graph Updates for Embodied Question Answering**|Muhammad Qasim Ali et.al.|[2506.01174](http://arxiv.org/abs/2506.01174)|null|
@@ -55,6 +56,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction**|Zhonghao Shi et.al.|[2506.20566](http://arxiv.org/abs/2506.20566)|null|
+|**2025-06-25**|**Semantic-enhanced Modality-asymmetric Retrieval for Online E-commerce Search**|Zhigong Zhou et.al.|[2506.20330](http://arxiv.org/abs/2506.20330)|null|
 |**2025-06-24**|**V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and Diagnosis**|Yuan Wang et.al.|[2506.19610](http://arxiv.org/abs/2506.19610)|null|
 |**2025-06-24**|**MedErr-CT: A Visual Question Answering Benchmark for Identifying and Correcting Errors in CT Reports**|Sunggu Kyung et.al.|[2506.19217](http://arxiv.org/abs/2506.19217)|null|
 |**2025-06-23**|**GLIMPSE: Gradient-Layer Importance Mapping for Prompted Visual Saliency Explanation for Generative LVLMs**|Guanxi Shen et.al.|[2506.18985](http://arxiv.org/abs/2506.18985)|null|
@@ -612,6 +615,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Fine-Tuning and Prompt Engineering of LLMs, for the Creation of Multi-Agent AI for Addressing Sustainable Protein Production Challenges**|Alexander D. Kalian et.al.|[2506.20598](http://arxiv.org/abs/2506.20598)|null|
 |**2025-06-24**|**JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**|Ai Han et.al.|[2506.19846](http://arxiv.org/abs/2506.19846)|null|
 |**2025-06-24**|**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**|Sha Zhang et.al.|[2506.19613](http://arxiv.org/abs/2506.19613)|null|
 |**2025-06-24**|**Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects**|Federico Tavella et.al.|[2506.19579](http://arxiv.org/abs/2506.19579)|null|
@@ -1411,6 +1415,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**From 2D to 3D Cognition: A Brief Survey of General World Models**|Ningwei Xie et.al.|[2506.20134](http://arxiv.org/abs/2506.20134)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
 |**2025-06-24**|**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**|Sha Zhang et.al.|[2506.19613](http://arxiv.org/abs/2506.19613)|null|
 |**2025-06-23**|**TC-Light: Temporally Consistent Relighting for Dynamic Long Videos**|Yang Liu et.al.|[2506.18904](http://arxiv.org/abs/2506.18904)|null|

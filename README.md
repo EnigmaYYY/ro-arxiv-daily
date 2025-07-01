@@ -67,6 +67,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**The Confidence Paradox: Can LLM Know When It's Wrong**|Sahil Tripathi et.al.|[2506.23464](http://arxiv.org/abs/2506.23464)|null|
+|**2025-06-28**|**Revisiting CroPA: A Reproducibility Study and Enhancements for Cross-Prompt Adversarial Transferability in Vision-Language Models**|Atharv Mittal et.al.|[2506.22982](http://arxiv.org/abs/2506.22982)|null|
+|**2025-06-28**|**MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering**|Mai A. Shaaban et.al.|[2506.22900](http://arxiv.org/abs/2506.22900)|null|
+|**2025-06-27**|**Unifying Biomedical Vision-Language Expertise: Towards a Generalist Foundation Model via Multi-CLIP Knowledge Distillation**|Shansong Wang et.al.|[2506.22567](http://arxiv.org/abs/2506.22567)|null|
 |**2025-06-26**|**FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering**|Liangyu Zhong et.al.|[2506.21710](http://arxiv.org/abs/2506.21710)|null|
 |**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355](http://arxiv.org/abs/2506.21355)|null|
 |**2025-06-26**|**DrishtiKon: Multi-Granular Visual Grounding for Text-Rich Document Images**|Badri Vishal Kasuba et.al.|[2506.21316](http://arxiv.org/abs/2506.21316)|null|
@@ -631,6 +635,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning**|Seungjun Yi et.al.|[2506.23998](http://arxiv.org/abs/2506.23998)|null|
+|**2025-06-30**|**LLM Agents Are the Antidote to Walled Gardens**|Samuele Marro et.al.|[2506.23978](http://arxiv.org/abs/2506.23978)|null|
+|**2025-06-30**|**Evaluating the Simulation of Human Personality-Driven Susceptibility to Misinformation with LLMs**|Manuel Pratelli et.al.|[2506.23610](http://arxiv.org/abs/2506.23610)|null|
+|**2025-06-29**|**Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games**|David Guzman Piedrahita et.al.|[2506.23276](http://arxiv.org/abs/2506.23276)|null|
+|**2025-06-29**|**From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows**|Mohamed Amine Ferrag et.al.|[2506.23260](http://arxiv.org/abs/2506.23260)|null|
+|**2025-06-27**|**RExBench: Can coding agents autonomously implement AI research extensions?**|Nicholas Edwards et.al.|[2506.22598](http://arxiv.org/abs/2506.22598)|null|
 |**2025-06-27**|**More Vulnerable than You Think: On the Stability of Tool-Integrated LLM Agents**|Weimin Xiong et.al.|[2506.21967](http://arxiv.org/abs/2506.21967)|null|
 |**2025-06-26**|**SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents**|Wanxin Tian et.al.|[2506.21669](http://arxiv.org/abs/2506.21669)|null|
 |**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/abs/2506.21552)|null|
@@ -1440,6 +1450,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-29**|**Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop**|Tianxing Chen et.al.|[2506.23351](http://arxiv.org/abs/2506.23351)|null|
 |**2025-06-27**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
 |**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
 |**2025-06-25**|**From 2D to 3D Cognition: A Brief Survey of General World Models**|Ningwei Xie et.al.|[2506.20134](http://arxiv.org/abs/2506.20134)|null|
@@ -1695,6 +1706,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
 |**2025-06-27**|**4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration**|Jiahui Zhang et.al.|[2506.22242](http://arxiv.org/abs/2506.22242)|null|
 |**2025-06-26**|**WorldVLA: Towards Autoregressive Action World Model**|Jun Cen et.al.|[2506.21539](http://arxiv.org/abs/2506.21539)|null|
 |**2025-06-26**|**Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends**|Tian-Yu Xiang et.al.|[2506.20966](http://arxiv.org/abs/2506.20966)|null|

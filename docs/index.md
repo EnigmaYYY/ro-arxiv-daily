@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -1441,7 +1441,7 @@ layout: default
 |**2025-06-25**|**From 2D to 3D Cognition: A Brief Survey of General World Models**|Ningwei Xie et.al.|[2506.20134](http://arxiv.org/abs/2506.20134)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
 |**2025-06-24**|**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**|Sha Zhang et.al.|[2506.19613](http://arxiv.org/abs/2506.19613)|null|
-|**2025-06-23**|**TC-Light: Temporally Consistent Relighting for Dynamic Long Videos**|Yang Liu et.al.|[2506.18904](http://arxiv.org/abs/2506.18904)|null|
+|**2025-07-02**|**TC-Light: Temporally Coherent Generative Rendering for Realistic World Transfer**|Yang Liu et.al.|[2506.18904](http://arxiv.org/abs/2506.18904)|null|
 |**2025-06-23**|**InternSpatial: A Comprehensive Dataset for Spatial Reasoning in Vision-Language Models**|Nianchen Deng et.al.|[2506.18385](http://arxiv.org/abs/2506.18385)|null|
 |**2025-06-22**|**CFTel: A Practical Architecture for Robust and Scalable Telerobotics with Cloud-Fog Automation**|Thien Tran et.al.|[2506.17991](http://arxiv.org/abs/2506.17991)|null|
 |**2025-06-22**|**Adapting Vision-Language Models for Evaluating World Models**|Mariya Hendriksen et.al.|[2506.17967](http://arxiv.org/abs/2506.17967)|null|

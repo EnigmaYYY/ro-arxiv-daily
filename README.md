@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2018-11-12**|**Blindfold Baselines for Embodied QA**|Ankesh Anand et.al.|[1811.05013](http://arxiv.org/abs/1811.05013)|**[link](https://github.com/ankeshanand/blindfold-baselines-eqa)**|
 |**2019-05-02**|**Neural Modular Control for Embodied Question Answering**|Abhishek Das et.al.|[1810.11181](http://arxiv.org/abs/1810.11181)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Visual Question Answering
 
@@ -631,13 +631,13 @@
 |**2024-08-13**|**CROME: Cross-Modal Adapters for Efficient Multimodal LLM**|Sayna Ebrahimi et.al.|[2408.06610](http://arxiv.org/abs/2408.06610)|null|
 |**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303](http://arxiv.org/abs/2408.06303)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Embodied Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-03**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
 |**2025-07-02**|**Evaluating LLM Agent Collusion in Double Auctions**|Kushal Agrawal et.al.|[2507.01413](http://arxiv.org/abs/2507.01413)|null|
 |**2025-07-02**|**AI Agents and Agentic AI-Navigating a Plethora of Concepts for Future Manufacturing**|Yinwang Ren et.al.|[2507.01376](http://arxiv.org/abs/2507.01376)|null|
 |**2025-07-01**|**Enhancing LLM Agent Safety via Causal Influence Prompting**|Dongyoon Hahm et.al.|[2507.00979](http://arxiv.org/abs/2507.00979)|null|
@@ -1452,7 +1452,7 @@
 |**2024-08-08**|**RiskAwareBench: Towards Evaluating Physical Risk Awareness for High-level Planning of LLM-based Embodied Agents**|Zihao Zhu et.al.|[2408.04449](http://arxiv.org/abs/2408.04449)|**[link](https://github.com/zihao-ai/earbench)**|
 |**2024-08-08**|**Perceive, Reflect, and Plan: Designing LLM Agent for Goal-Directed City Navigation without Instructions**|Qingbin Zeng et.al.|[2408.04168](http://arxiv.org/abs/2408.04168)|**[link](https://github.com/hiyouga/llama-factory)**|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Embodied AI
 
@@ -1460,8 +1460,8 @@
 |---|---|---|---|---|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-07-01**|**A Survey: Learning Embodied Intelligence from Physical Simulators and World Models**|Xiaoxiao Long et.al.|[2507.00917](http://arxiv.org/abs/2507.00917)|null|
-|**2025-06-29**|**Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop**|Tianxing Chen et.al.|[2506.23351](http://arxiv.org/abs/2506.23351)|null|
-|**2025-06-27**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
+|**2025-07-03**|**Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop**|Tianxing Chen et.al.|[2506.23351](http://arxiv.org/abs/2506.23351)|null|
+|**2025-07-03**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
 |**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
 |**2025-06-25**|**From 2D to 3D Cognition: A Brief Survey of General World Models**|Ningwei Xie et.al.|[2506.20134](http://arxiv.org/abs/2506.20134)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
@@ -1710,7 +1710,7 @@
 |**2024-07-04**|**Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions**|Minghan Li et.al.|[2406.19236](http://arxiv.org/abs/2406.19236)|**[link](https://github.com/lpercc/ha3d_simulator)**|
 |**2024-06-25**|**ET tu, CLIP? Addressing Common Object Errors for Unseen Environments**|Ye Won Byun et.al.|[2406.17876](http://arxiv.org/abs/2406.17876)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Vision Language Action Model
 
@@ -1718,7 +1718,7 @@
 |---|---|---|---|---|
 |**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925](http://arxiv.org/abs/2507.01925)|null|
 |**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
-|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-03**|**TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
 |**2025-07-01**|**VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers**|Yating Wang et.al.|[2507.01016](http://arxiv.org/abs/2507.01016)|null|
 |**2025-07-01**|**Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding**|Tao Lin et.al.|[2507.00416](http://arxiv.org/abs/2507.00416)|null|
 |**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
@@ -1920,7 +1920,7 @@
 |**2023-07-28**|**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**|Anthony Brohan et.al.|[2307.15818](http://arxiv.org/abs/2307.15818)|null|
 |**2023-09-21**|**A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter**|Kechun Xu et.al.|[2302.12610](http://arxiv.org/abs/2302.12610)|**[link](https://github.com/xukechun/Vision-Language-Grasping)**|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Vision Language Navigation Model
 
@@ -1979,7 +1979,7 @@
 |**2023-11-06**|**Exploitation-Guided Exploration for Semantic Embodied Navigation**|Justin Wasserman et.al.|[2311.03357](http://arxiv.org/abs/2311.03357)|null|
 |**2024-06-07**|**Advances in Embodied Navigation Using Large Language Models: A Survey**|Jinzhou Lin et.al.|[2311.00530](http://arxiv.org/abs/2311.00530)|**[link](https://github.com/rongtao-xu/awesome-llm-en)**|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 ## Embodied Navigation
 
@@ -2030,7 +2030,7 @@
 |**2024-04-24**|**MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI**|Kaining Ying et.al.|[2404.16006](http://arxiv.org/abs/2404.16006)|null|
 |**2024-09-13**|**Object Instance Retrieval in Assistive Robotics: Leveraging Fine-Tuned SimSiam with Multi-View Images Based on 3D Semantic Map**|Taichi Sakaguchi et.al.|[2404.09647](http://arxiv.org/abs/2404.09647)|null|
 
-<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250704>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

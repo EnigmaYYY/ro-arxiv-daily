@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -624,7 +624,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-03**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
 |**2025-07-02**|**Evaluating LLM Agent Collusion in Double Auctions**|Kushal Agrawal et.al.|[2507.01413](http://arxiv.org/abs/2507.01413)|null|
 |**2025-07-02**|**AI Agents and Agentic AI-Navigating a Plethora of Concepts for Future Manufacturing**|Yinwang Ren et.al.|[2507.01376](http://arxiv.org/abs/2507.01376)|null|
 |**2025-07-01**|**Enhancing LLM Agent Safety via Causal Influence Prompting**|Dongyoon Hahm et.al.|[2507.00979](http://arxiv.org/abs/2507.00979)|null|
@@ -1445,8 +1445,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-07-01**|**A Survey: Learning Embodied Intelligence from Physical Simulators and World Models**|Xiaoxiao Long et.al.|[2507.00917](http://arxiv.org/abs/2507.00917)|null|
-|**2025-06-29**|**Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop**|Tianxing Chen et.al.|[2506.23351](http://arxiv.org/abs/2506.23351)|null|
-|**2025-06-27**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
+|**2025-07-03**|**Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop**|Tianxing Chen et.al.|[2506.23351](http://arxiv.org/abs/2506.23351)|null|
+|**2025-07-03**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
 |**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
 |**2025-06-25**|**From 2D to 3D Cognition: A Brief Survey of General World Models**|Ningwei Xie et.al.|[2506.20134](http://arxiv.org/abs/2506.20134)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
@@ -1701,7 +1701,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925](http://arxiv.org/abs/2507.01925)|null|
 |**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
-|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-03**|**TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
 |**2025-07-01**|**VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers**|Yating Wang et.al.|[2507.01016](http://arxiv.org/abs/2507.01016)|null|
 |**2025-07-01**|**Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding**|Tao Lin et.al.|[2507.00416](http://arxiv.org/abs/2507.00416)|null|
 |**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|

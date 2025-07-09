@@ -56,6 +56,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Prahitha Movva et.al.|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
+|**2025-07-07**|**Cultivating Multimodal Intelligence: Interpretive Reasoning and Agentic RAG Approaches to Dermatological Diagnosis**|Karishma Thakrar et.al.|[2507.05520](http://arxiv.org/abs/2507.05520)|null|
+|**2025-07-07**|**Structured Captions Improve Prompt Adherence in Text-to-Image Models (Re-LAION-Caption 19M)**|Nicholas Merchant et.al.|[2507.05300](http://arxiv.org/abs/2507.05300)|null|
 |**2025-07-07**|**ReLoop: "Seeing Twice and Thinking Backwards" via Closed-loop Training to Mitigate Hallucinations in Multimodal understanding**|Jianjiang Yang et.al.|[2507.04943](http://arxiv.org/abs/2507.04943)|null|
 |**2025-07-07**|**Learn 3D VQA Better with Active Selection and Reannotation**|Shengli Zhou et.al.|[2507.04630](http://arxiv.org/abs/2507.04630)|null|
 |**2025-07-07**|**Multimodal LLM Integrated Semantic Communications for 6G Immersive Experiences**|Yusong Zhang et.al.|[2507.04621](http://arxiv.org/abs/2507.04621)|null|
@@ -629,6 +632,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016](http://arxiv.org/abs/2507.06016)|null|
+|**2025-07-08**|**Multi-Agent Debate Strategies to Enhance Requirements Engineering with Large Language Models**|Marc Oriol et.al.|[2507.05981](http://arxiv.org/abs/2507.05981)|null|
+|**2025-07-08**|**ECom-Bench: Can LLM Agent Resolve Real-World E-commerce Customer Support Issues?**|Haoxin Wang et.al.|[2507.05639](http://arxiv.org/abs/2507.05639)|null|
+|**2025-07-08**|**LLMs are Introvert**|Litian Zhang et.al.|[2507.05638](http://arxiv.org/abs/2507.05638)|null|
+|**2025-07-07**|**Conversational Education at Scale: A Multi-LLM Agent Workflow for Procedural Learning and Pedagogic Quality Assessment**|Jiahuan Pei et.al.|[2507.05528](http://arxiv.org/abs/2507.05528)|null|
+|**2025-07-07**|**MindFlow: Revolutionizing E-commerce Customer Support with Multimodal LLM Agents**|Ming Gong et.al.|[2507.05330](http://arxiv.org/abs/2507.05330)|null|
 |**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
 |**2025-07-07**|**FurniMAS: Language-Guided Furniture Decoration using Multi-Agent System**|Toan Nguyen et.al.|[2507.04770](http://arxiv.org/abs/2507.04770)|null|
 |**2025-07-07**|**UrbanMind: Towards Urban General Intelligence via Tool-Enhanced Retrieval-Augmented Generation and Multilevel Optimization**|Kai Yang et.al.|[2507.04706](http://arxiv.org/abs/2507.04706)|null|
@@ -1465,6 +1474,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
+|**2025-07-08**|**PAPRLE (Plug-And-Play Robotic Limb Environment): A Modular Ecosystem for Robotic Limbs**|Obin Kwon et.al.|[2507.05555](http://arxiv.org/abs/2507.05555)|null|
 |**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Boyuan Wang et.al.|[2507.05198](http://arxiv.org/abs/2507.05198)|null|
 |**2025-07-07**|**Training-free Generation of Temporally Consistent Rewards from VLMs**|Yinuo Zhao et.al.|[2507.04789](http://arxiv.org/abs/2507.04789)|null|
 |**2025-07-06**|**SimLauncher: Launching Sample-Efficient Real-world Robotic Reinforcement Learning via Simulation Pre-training**|Mingdong Wu et.al.|[2507.04452](http://arxiv.org/abs/2507.04452)|null|

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -641,8 +641,8 @@ layout: default
 |**2025-07-10**|**Agentic Retrieval of Topics and Insights from Earnings Calls**|Anant Gupta et.al.|[2507.07906](http://arxiv.org/abs/2507.07906)|null|
 |**2025-07-10**|**SAND: Boosting LLM Agents with Self-Taught Action Deliberation**|Yu Xia et.al.|[2507.07441](http://arxiv.org/abs/2507.07441)|null|
 |**2025-07-09**|**LangNavBench: Evaluation of Natural Language Understanding in Semantic Navigation**|Sonia Raychaudhuri et.al.|[2507.07299](http://arxiv.org/abs/2507.07299)|null|
-|**2025-07-09**|**Open Source Planning & Control System with Language Agents for Autonomous Scientific Discovery**|Licong Xu et.al.|[2507.07257](http://arxiv.org/abs/2507.07257)|null|
-|**2025-07-10**|**The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover**|Matteo Lupinacci et.al.|[2507.06850](http://arxiv.org/abs/2507.06850)|null|
+|**2025-07-11**|**Open Source Planning & Control System with Language Agents for Autonomous Scientific Discovery**|Licong Xu et.al.|[2507.07257](http://arxiv.org/abs/2507.07257)|null|
+|**2025-07-11**|**The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover**|Matteo Lupinacci et.al.|[2507.06850](http://arxiv.org/abs/2507.06850)|null|
 |**2025-07-09**|**InvestAlign: Overcoming Data Scarcity in Aligning Large Language Models with Investor Decision-Making Processes under Herd Behavior**|Huisheng Wang et.al.|[2507.06528](http://arxiv.org/abs/2507.06528)|null|
 |**2025-07-08**|**Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms**|Tarek Gasmi et.al.|[2507.06323](http://arxiv.org/abs/2507.06323)|null|
 |**2025-07-08**|**Too Human to Model:The Uncanny Valley of LLMs in Social Simulation -- When Generative Language Agents Misalign with Modelling Principles**|Yongchao Zeng et.al.|[2507.06310](http://arxiv.org/abs/2507.06310)|null|

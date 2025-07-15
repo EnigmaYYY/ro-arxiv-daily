@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -2033,7 +2033,7 @@ layout: default
 |**2025-06-25**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
 |**2025-06-19**|**History-Augmented Vision-Language Models for Frontier-Based Zero-Shot Object Navigation**|Mobin Habibpour et.al.|[2506.16623](http://arxiv.org/abs/2506.16623)|null|
 |**2025-06-18**|**DyNaVLM: Zero-Shot Vision-Language Navigation System with Dynamic Viewpoints and Self-Refining Graph Memory**|Zihe Ji et.al.|[2506.15096](http://arxiv.org/abs/2506.15096)|null|
-|**2025-06-16**|**Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation**|Utkarsh Bajpai et.al.|[2506.13367](http://arxiv.org/abs/2506.13367)|null|
+|**2025-07-13**|**Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation**|Utkarsh Bajpai et.al.|[2506.13367](http://arxiv.org/abs/2506.13367)|null|
 |**2025-06-11**|**OctoNav: Towards Generalist Embodied Navigation**|Chen Gao et.al.|[2506.09839](http://arxiv.org/abs/2506.09839)|null|
 |**2025-06-03**|**RATE-Nav: Region-Aware Termination Enhancement for Zero-shot Object Navigation with Vision-Language Models**|Junjie Li et.al.|[2506.02354](http://arxiv.org/abs/2506.02354)|null|
 |**2025-06-01**|**NavBench: Probing Multimodal Large Language Models for Embodied Navigation**|Yanyuan Qiao et.al.|[2506.01031](http://arxiv.org/abs/2506.01031)|null|

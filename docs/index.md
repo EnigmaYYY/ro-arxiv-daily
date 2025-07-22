@@ -58,6 +58,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**HW-MLVQA: Elucidating Multilingual Handwritten Document Understanding with a Comprehensive VQA Benchmark**|Aniket Pal et.al.|[2507.15655](http://arxiv.org/abs/2507.15655)|null|
+|**2025-07-19**|**Multimodal AI for Gastrointestinal Diagnostics: Tackling VQA in MEDVQA-GI 2025**|Sujata Gaihre et.al.|[2507.14544](http://arxiv.org/abs/2507.14544)|null|
+|**2025-07-19**|**Efficient Whole Slide Pathology VQA via Token Compression**|Weimin Lyu et.al.|[2507.14497](http://arxiv.org/abs/2507.14497)|null|
 |**2025-07-18**|**Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions**|Pu Jian et.al.|[2507.13773](http://arxiv.org/abs/2507.13773)|null|
 |**2025-07-17**|**COREVQA: A Crowd Observation and Reasoning Entailment Visual Question Answering Benchmark**|Ishant Chintapatla et.al.|[2507.13405](http://arxiv.org/abs/2507.13405)|null|
 |**2025-07-15**|**Spatially Grounded Explanations in Vision Language Models for Document Visual Question Answering**|Maximiliano Hormazábal Lagos et.al.|[2507.12490](http://arxiv.org/abs/2507.12490)|null|
@@ -648,6 +651,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Jiaao Li et.al.|[2507.15428](http://arxiv.org/abs/2507.15428)|null|
+|**2025-07-21**|**FaultLine: Automated Proof-of-Vulnerability Generation Using LLM Agents**|Vikram Nitin et.al.|[2507.15241](http://arxiv.org/abs/2507.15241)|null|
+|**2025-07-21**|**PromptArmor: Simple yet Effective Prompt Injection Defenses**|Tianneng Shi et.al.|[2507.15219](http://arxiv.org/abs/2507.15219)|null|
+|**2025-07-20**|**EduThink4AI: Translating Educational Critical Thinking into Multi-Agent LLM Systems**|Xinmeng Hou et.al.|[2507.15015](http://arxiv.org/abs/2507.15015)|null|
+|**2025-07-20**|**Byzantine-Robust Decentralized Coordination of LLM Agents**|Yongrae Jo et.al.|[2507.14928](http://arxiv.org/abs/2507.14928)|null|
+|**2025-07-20**|**TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP**|Fan Li et.al.|[2507.14904](http://arxiv.org/abs/2507.14904)|null|
+|**2025-07-20**|**Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree**|Sam Johnson et.al.|[2507.14799](http://arxiv.org/abs/2507.14799)|null|
+|**2025-07-19**|**Configurable multi-agent framework for scalable and realistic testing of llm-based agents**|Sai Wang et.al.|[2507.14705](http://arxiv.org/abs/2507.14705)|null|
+|**2025-07-19**|**Routine: A Structural Planning Framework for LLM Agent System in Enterprise**|Guancheng Zeng et.al.|[2507.14447](http://arxiv.org/abs/2507.14447)|null|
+|**2025-07-18**|**NetIntent: Leveraging Large Language Models for End-to-End Intent-Based SDN Automation**|Md. Kamrul Hossain et.al.|[2507.14398](http://arxiv.org/abs/2507.14398)|null|
 |**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088](http://arxiv.org/abs/2507.14088)|null|
 |**2025-07-18**|**CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education**|Jianing Zhao et.al.|[2507.13814](http://arxiv.org/abs/2507.13814)|null|
 |**2025-07-18**|**AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework**|Yu Yao et.al.|[2507.13729](http://arxiv.org/abs/2507.13729)|null|
@@ -1521,6 +1534,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Jiaao Li et.al.|[2507.15428](http://arxiv.org/abs/2507.15428)|null|
 |**2025-07-20**|**PhysX-3D: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
 |**2025-07-15**|**NavComposer: Composing Language Instructions for Navigation Trajectories through Action-Scene-Object Modularization**|Zongtao He et.al.|[2507.10894](http://arxiv.org/abs/2507.10894)|null|
 |**2025-07-14**|**React to This (RTT): A Nonverbal Turing Test for Embodied AI**|Chuxuan Zhang et.al.|[2507.10812](http://arxiv.org/abs/2507.10812)|null|
@@ -1793,8 +1807,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Hao Luo et.al.|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
+|**2025-07-21**|**GR-3 Technical Report**|Chilam Cheang et.al.|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Paweł Budzianowski et.al.|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
-|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
+|**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Hengkai Tan et.al.|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
 |**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Muhayy Ud Din et.al.|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
@@ -2073,6 +2089,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-19**|**X-Nav: Learning End-to-End Cross-Embodiment Navigation for Mobile Robots**|Haitong Wang et.al.|[2507.14731](http://arxiv.org/abs/2507.14731)|null|
 |**2025-07-09**|**LangNavBench: Evaluation of Natural Language Understanding in Semantic Navigation**|Sonia Raychaudhuri et.al.|[2507.07299](http://arxiv.org/abs/2507.07299)|null|
 |**2025-07-05**|**Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation**|Ziyu Zhu et.al.|[2507.04047](http://arxiv.org/abs/2507.04047)|null|
 |**2025-06-25**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|

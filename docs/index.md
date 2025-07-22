@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -1521,7 +1521,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-20**|**PhysX-3D: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
 |**2025-07-15**|**NavComposer: Composing Language Instructions for Navigation Trajectories through Action-Scene-Object Modularization**|Zongtao He et.al.|[2507.10894](http://arxiv.org/abs/2507.10894)|null|
 |**2025-07-14**|**React to This (RTT): A Nonverbal Turing Test for Embodied AI**|Chuxuan Zhang et.al.|[2507.10812](http://arxiv.org/abs/2507.10812)|null|
 |**2025-07-14**|**Foundation Model Driven Robotics: A Comprehensive Review**|Muhammad Tayyab Khan et.al.|[2507.10087](http://arxiv.org/abs/2507.10087)|null|

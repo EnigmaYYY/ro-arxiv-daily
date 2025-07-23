@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Embodied Question Answering
@@ -67,7 +67,7 @@ layout: default
 |**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
 |**2025-07-15**|**MapIQ: Benchmarking Multimodal Large Language Models for Map Question Answering**|Varun Srivastava et.al.|[2507.11625](http://arxiv.org/abs/2507.11625)|null|
 |**2025-07-14**|**CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding**|Hongyong Han et.al.|[2507.10449](http://arxiv.org/abs/2507.10449)|null|
-|**2025-07-15**|**Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models**|Anita Kriz et.al.|[2507.09279](http://arxiv.org/abs/2507.09279)|null|
+|**2025-07-22**|**Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models**|Anita Kriz et.al.|[2507.09279](http://arxiv.org/abs/2507.09279)|null|
 |**2025-07-12**|**Uncertainty-Driven Expert Control: Enhancing the Reliability of Medical Vision-Language Models**|Xiao Liang et.al.|[2507.09209](http://arxiv.org/abs/2507.09209)|null|
 |**2025-07-14**|**Barriers in Integrating Medical Visual Question Answering into Radiology Workflows: A Scoping Review and Clinicians' Insights**|Deepali Mishra et.al.|[2507.08036](http://arxiv.org/abs/2507.08036)|null|
 |**2025-07-10**|**Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology**|Haochen Wang et.al.|[2507.07999](http://arxiv.org/abs/2507.07999)|null|
@@ -659,7 +659,7 @@ layout: default
 |**2025-07-20**|**TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP**|Fan Li et.al.|[2507.14904](http://arxiv.org/abs/2507.14904)|null|
 |**2025-07-20**|**Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree**|Sam Johnson et.al.|[2507.14799](http://arxiv.org/abs/2507.14799)|null|
 |**2025-07-19**|**Configurable multi-agent framework for scalable and realistic testing of llm-based agents**|Sai Wang et.al.|[2507.14705](http://arxiv.org/abs/2507.14705)|null|
-|**2025-07-19**|**Routine: A Structural Planning Framework for LLM Agent System in Enterprise**|Guancheng Zeng et.al.|[2507.14447](http://arxiv.org/abs/2507.14447)|null|
+|**2025-07-22**|**Routine: A Structural Planning Framework for LLM Agent System in Enterprise**|Guancheng Zeng et.al.|[2507.14447](http://arxiv.org/abs/2507.14447)|null|
 |**2025-07-18**|**NetIntent: Leveraging Large Language Models for End-to-End Intent-Based SDN Automation**|Md. Kamrul Hossain et.al.|[2507.14398](http://arxiv.org/abs/2507.14398)|null|
 |**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088](http://arxiv.org/abs/2507.14088)|null|
 |**2025-07-18**|**CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education**|Jianing Zhao et.al.|[2507.13814](http://arxiv.org/abs/2507.13814)|null|
@@ -1808,7 +1808,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Hao Luo et.al.|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
-|**2025-07-21**|**GR-3 Technical Report**|Chilam Cheang et.al.|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
+|**2025-07-22**|**GR-3 Technical Report**|Chilam Cheang et.al.|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Paweł Budzianowski et.al.|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
 |**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Hengkai Tan et.al.|[2507.12768](http://arxiv.org/abs/2507.12768)|null|

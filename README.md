@@ -69,6 +69,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**See the Forest and the Trees: A Synergistic Reasoning Framework for Knowledge-Based Visual Question Answering**|Junjie Wang et.al.|[2507.17659](http://arxiv.org/abs/2507.17659)|null|
+|**2025-07-23**|**A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model**|Zhe Xu et.al.|[2507.17303](http://arxiv.org/abs/2507.17303)|null|
+|**2025-07-23**|**VisionTrap: Unanswerable Questions On Visual Data**|Asir Saadat et.al.|[2507.17262](http://arxiv.org/abs/2507.17262)|null|
+|**2025-07-20**|**TD-Interpreter: Enhancing the Understanding of Timing Diagrams with Visual-Language Learning**|Jie He et.al.|[2507.16844](http://arxiv.org/abs/2507.16844)|null|
 |**2025-07-22**|**ReasonVQA: A Multi-hop Reasoning Benchmark with Structural Knowledge for Visual Question Answering**|Thuy-Duong Tran et.al.|[2507.16403](http://arxiv.org/abs/2507.16403)|null|
 |**2025-07-21**|**Artifacts and Attention Sinks: Structured Approximations for Efficient Vision Transformers**|Andrew Lu et.al.|[2507.16018](http://arxiv.org/abs/2507.16018)|null|
 |**2025-07-21**|**HW-MLVQA: Elucidating Multilingual Handwritten Document Understanding with a Comprehensive VQA Benchmark**|Aniket Pal et.al.|[2507.15655](http://arxiv.org/abs/2507.15655)|null|
@@ -666,6 +670,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Simulating multiple human perspectives in socio-ecological systems using large language models**|Yongchao Zeng et.al.|[2507.17680](http://arxiv.org/abs/2507.17680)|null|
+|**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Chang Nie et.al.|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
+|**2025-07-23**|**Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance**|Yufei He et.al.|[2507.17131](http://arxiv.org/abs/2507.17131)|null|
+|**2025-07-22**|**VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings**|Ramin Giahi et.al.|[2507.17080](http://arxiv.org/abs/2507.17080)|null|
+|**2025-07-22**|**Parallelism Meets Adaptiveness: Scalable Documents Understanding in Multi-Agent LLM Systems**|Chengxuan Xia et.al.|[2507.17061](http://arxiv.org/abs/2507.17061)|null|
+|**2025-07-22**|**Text-to-SPARQL Goes Beyond English: Multilingual Question Answering Over Knowledge Graphs through Human-Inspired Reasoning**|Aleksandr Perevalov et.al.|[2507.16971](http://arxiv.org/abs/2507.16971)|null|
 |**2025-07-23**|**Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**|Xiaoyu Zhan et.al.|[2507.16799](http://arxiv.org/abs/2507.16799)|null|
 |**2025-07-22**|**Towards Enforcing Company Policy Adherence in Agentic Workflows**|Naama Zwerdling et.al.|[2507.16459](http://arxiv.org/abs/2507.16459)|null|
 |**2025-07-22**|**Emergent Cognitive Convergence via Implementation: A Structured Loop Reflecting Four Theories of Mind (A Position Paper)**|Myung Ho Kim et.al.|[2507.16184](http://arxiv.org/abs/2507.16184)|null|
@@ -1831,6 +1841,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation**|Shuai Yang et.al.|[2507.17520](http://arxiv.org/abs/2507.17520)|null|
+|**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Chang Nie et.al.|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
+|**2025-07-23**|**Confidence Calibration in Vision-Language-Action Models**|Thomas P Zollo et.al.|[2507.17383](http://arxiv.org/abs/2507.17383)|null|
+|**2025-07-23**|**VLA-Touch: Enhancing Vision-Language-Action Models with Dual-Level Tactile Feedback**|Jianxin Bi et.al.|[2507.17294](http://arxiv.org/abs/2507.17294)|null|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Hao Luo et.al.|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
 |**2025-07-22**|**GR-3 Technical Report**|Chilam Cheang et.al.|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
